@@ -1,5 +1,5 @@
 Hopes and dreams can have a crippling effect.
-The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the lack of expectations can't be merely theatrical - I have to genuinely believe nothing is going to happen I'm other for things to happen. Only when reality is dismissed can you move on imagination.  The new reality has to be imagined, believed in, and then acted upon. Only then can it be made.
+The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the lack of expectations can't be merely theatrical - I have to genuinely believe nothing is going to happen for things to happen. Only when reality is dismissed can you move on imagination.  The new reality has to be imagined, believed in, and then acted upon. Only then can it be made.
 
 You can fake things for others but only when you fake things for yourself as well do things truly change.
 
