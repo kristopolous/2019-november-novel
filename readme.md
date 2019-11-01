@@ -23,12 +23,11 @@ The problem with these systems is there's a confluence of context that leads to 
 
 Among a successful enterprise, every segment looks at that company and attributes success to how that company implemented that segment.
 
-This is important because it's not intrinsic. You don't have, for instance, interface wonks coming from Apple saying "our interface is what made us successful". Instead you have an interface industry looking for the most successful company, seeing Apple and saying "ah, their interface must be the reason".  You have the management industry looking at google and saying "ah, their management must
-be the reason". 
+This is important because it's not intrinsic. You don't have, for instance, interface wonks coming from Apple saying "our interface is what made us successful". Instead you have an interface industry looking for the most successful company, seeing Apple and saying "ah, their interface must be the reason".  You have the management industry looking at google and saying "ah, their management must be the reason". 
 
 So was the wisdom in the 1970s business books when they were gushing over the F.W. Woolworth Company, Sears & Roebuck, and General Electric. As if their success was anything more than not having their shoelaces untied when it was time for them to dance.
 
-There was some silver bullet, we were told, that we all must emulate, in order to dance like them. Eventually all those companies collapsed, continuing to do their rain dances with more vigour and energy as the empire around them collapsed.
+There was some silver bullet, we were told, that we all must emulate, in order to dance like them. Eventually all those companies collapsed, continuing to do their rain dances with more vigour and energy as their once great empires vanished.
 
 And so we are, tribes of mythmakers, only differentiated from our ancestors by our material advantage but ultimately susceptible to the same pursuasions of reasons in a contradictory combination of self-relization and denial; some interesting combination where we know everything is futile and that nothing is knowable while at the same time having an irrational faith that it's not true and not even our own eventual collapse and abandonment can be taken as a given.
 
@@ -44,7 +43,7 @@ I've been somewhat ensured with the success of the company I'm at, ever since I 
 
 The only way over it is through proposterousness. The kind of proposterousness that says a college kid in a dorm could start the largest social networking website. The kind of stupidity that says the bitcoin thing that you can make 4 of in a single day will eventually be worth $20,000. By refusing to embrace the limits of absurdity, barriers of practicality can't be overcome.
 
-Maybe that's why young people tend to do so well with runaway successes - they don't perceive the walls of practicality and just dance past them without noticing while all the industry analysts look on predicting doom and failure and the young entreprenuer commits to an even more fantastic and ridiculous dance.  The masses, embrace the absurdity, the distance from reality, the denial of our own demise, the virtues of impracticality, and the dance continues.
+Maybe that's why young people tend to do so well with runaway successes - they don't perceive the walls of practicality and just dance past them without noticing while all the industry analysts look on predicting doom and failure and the young entreprenuer commits to an even more fantastic and ridiculous dance.  The masses, embrace the absurdity, the distance from reality, the denial of our own demise, the virtues of impracticality, and the dance continues. Everyone around them is trembling upon the mighty works and dispairing while the young ones don't seem to even notice them because they aren't trained to abide by the stories of the past.
 
 The irrational exuberance of the mythmakers put on a show, build the tribe, and change the manufactured rules by which the world is supposed to operate.  Yet just as the ink on those books dry, another absurdist comes forth with a different dance, stealing the limelight yet again.
 
