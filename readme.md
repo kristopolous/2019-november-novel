@@ -16,7 +16,7 @@ Without concrete goals it's just drifting.  I guess writing a book is a concrete
 
 Vanity metrics are quite common in goal oriented thinking. People get the feeling that they are just drifting through time without a solid notion of orientation or enterprise to steer their intentions.  The measurable, the metric, is there to help guide them. Corporations make up "key performance indicators" - numerical benchmarks that are easy to compute and graph in excel and then expect to see over a 6 month period that they are going up.
 
-"Oh look at that improvement, this chart is going up". is depression looking for meaning, futility looking for purpose, systemic failure seeking endogenous reinforcement. The numbers end up being the anti-depressant that fuels motivation by gamifying action.
+"Oh look at that improvement, this chart is going up". is depression looking for meaning, futility looking for purpose, systemic failure seeking endogenous reinforcement. The numbers end up being the anti-depressant that fuels motivation by gamifying action and rationalizing the intent. It's a visible value creation from the ashes of our collective broken dreams.
 
 Google has its own spin on this system they call OKR (objectives and key results) where they try to drape a behavioural blanket on top of KPIs to make them look bold, ambitious, and adventurous.
 
