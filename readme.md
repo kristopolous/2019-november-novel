@@ -42,7 +42,7 @@ The nonsensical goals of writing a novel in 30 days while not shaving at least g
 
 The exercise of futility, in proportion to how futile the goal is, and how hard it is to reach it, becomes the noteworthy endeavor. The man with 100 billion dollars isn't praised because there's more fundamental utility in it, but because there's a futility in it.
 
-In a way, the heightening of the absurd is the thing of note. That's the purpose. The crippling of the dreams is because they fundamentally weren't absurd and meaningless enough. Maybe the 20 years of modesty are marked by a refusal to embrace the absurdity of life.  A false notion that somehow such ridiculousness is the problem, it could actually be the very spirit of the late capitalist machine.
+In a way, the heightening of the absurd is the thing of note. That's the purpose. The crippling of the dreams is because they fundamentally weren't absurd and meaningless enough. Maybe my 20 years of modesty are marked by a refusal to fully embrace the absurdity of life and permit reality to enfold around it.  A false notion that somehow such ridiculousness is the problem, it could actually be the very spirit of the late capitalist machine. The reachability of realities are influenced by the stories we tell ourselves.
 
 I've been somewhat ensured with the success of the company I'm at, ever since I effectively did a mutiny about 13 months ago.  Since then we've done better as a company and I've focused on the material practicality of the business dynamics.  But we're asymptotically approaching a wall. That wall could be the wall of rationality.
 
