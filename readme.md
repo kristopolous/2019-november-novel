@@ -3,7 +3,7 @@ The more I expect from something, the less I can take action on it.  The less I 
 
 You can fake things for others but only when you fake things for yourself as well do things truly change.
 
-It's November 1st, 2019, nearly 4 years into a startup that arguably never really started up in any meaningful way. This would be ok if we were a bunch of 22 year olds, on our first go, and that modifier after 4 was "months" but instead I am 37 and have been doing this for 20 years.
+It's November 1st, 2019, nearly 4 years into a startup that arguably never really started up. This would be ok if we were a bunch of 22 year olds, on our first go, and that modifier after 4 was "months" but instead I am 37 and have been doing this for 20 years.
 
 Can you do well, pay all your bills, have a decent savings growing, and still be a complete an utter failure at life?
 
