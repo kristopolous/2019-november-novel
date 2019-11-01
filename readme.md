@@ -40,7 +40,7 @@ Or maybe, the dance itself becomes the purpose. The ambitions of salvation fall 
 
 The nonsensical goals of writing a novel in 30 days while not shaving at least gives us a historical narrative, something to look at, something to value. The extreme nonsense of running a marathon in 2 hours, 1 minute, and 39 seconds and making it very important about how it's 1.06% faster than someone 4 years prior, that becomes the metric of value.
 
-The exercise of futility, in proportion to how futile the goal is, and how hard it is to reach it, because the noteworthy endeavor. The man with 100 billion dollars isn't praised because there's more fundamental utility in it, but because there's a futility in it.
+The exercise of futility, in proportion to how futile the goal is, and how hard it is to reach it, becomes the noteworthy endeavor. The man with 100 billion dollars isn't praised because there's more fundamental utility in it, but because there's a futility in it.
 
 In a way, the heightening of the absurd is the thing of note. That's the purpose. The crippling of the dreams is because they fundamentally weren't absurd and meaningless enough. Maybe the 20 years of modesty are marked by a refusal to embrace the absurdity of life.  A false notion that somehow such ridiculousness is the problem, it could actually be the very spirit of the late capitalist machine.
 
