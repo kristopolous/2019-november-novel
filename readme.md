@@ -54,4 +54,4 @@ The irrational exuberance of the mythmakers put on a show, build the tribe, and 
 
 Has the world gone mad? The secret of humanity is that it was never sane to begin with.  So here I am, at a startup.  This month I shall increase the absurdity, heighten the contradictions, defy the gambits of rationality, all while expecting nothing and pretending as hard as I can that it's not just theatrical wanderings into the future.
 
-But the signal to noise ratio is crucial. Nonsense needs clean, transmittable purity to be captured and valued. The dance must be seen to work.
+But the signal to noise ratio is crucial. Nonsense needs clean, transmittable purity to be captured and valued. The dance must be seen, understood, and believed in by the dancer to work. The way we sincerely commit to living our lives constitute the signal quality of the transmission of our dreams.
