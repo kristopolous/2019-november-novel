@@ -22,13 +22,15 @@ Google has its own spin on this system they call OKR (objectives and key results
 
 I suppose that's something. I mean it's google after all. 
 
-The problem with these systems is there's a confluence of context that leads to a firm's success. They then have an adequate principle of management to not drop the ball too often and the management cabal sees that as the solution.
+The problem with these systems is there's a confluence of context that leads to a firm's success. They then have an adequate principle of management to not drop the ball too often and the management cabal sees this adequacy as some magnificent insight.
 
 Among a successful enterprise, every segment looks at that company and attributes success to how that company implemented that segment.
 
 This is important because it's not intrinsic. You don't have, for instance, interface wonks coming from Apple saying "our interface is what made us successful". Instead you have an interface industry looking for the most successful company, seeing Apple and saying "ah, their interface must be the reason".  You have the management industry looking at google and saying "ah, their management must be the reason". 
 
 So was the wisdom in the 1970s business books when they were gushing over the F.W. Woolworth Company, Sears & Roebuck, and General Electric. As if their success was anything more than not having their shoelaces untied when it was time for them to dance.
+
+This happens in engineering as well. Google comes out with a "MapReduce" paper and then all engineers believe they need to use that strategy to succeed. The shiny object of success constantly changes. It goes from Scrum to Agile, timeboxing, extreme programming, ruby on rails, NoSQL, a different magic trick every few weeks and a crowd of onlookers running around from one celebrity technology to the next.
 
 There was some silver bullet, we were told, that we all must emulate, in order to dance like them. Eventually all those companies collapsed, continuing to do their rain dances with more vigour and energy as their once great empires vanished.
 
