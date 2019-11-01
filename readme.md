@@ -1,15 +1,18 @@
 Hopes and dreams can have a crippling effect.
-The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the expectation can't be merely theatrical - it has to be as genuine as possible. 
+The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the expectation can't be merely theatrical - it has to be as genuine as possible.  Reality has to be imagined, believed in, and then acted upon. Only then can it be made.
 
 You can fake things for others but only when you fake things for yourself as well do things truly change.
 
-It's november 1st, 2019, nearly 4 years into a startup that arguably never really started up in any meaningful way. This would be ok if we were a bunch of 22 year olds, on our first go, and that modifier after 4 was "months" but instead I am 37 and have been doing this for 20 years.
+It's November 1st, 2019, nearly 4 years into a startup that arguably never really started up in any meaningful way. This would be ok if we were a bunch of 22 year olds, on our first go, and that modifier after 4 was "months" but instead I am 37 and have been doing this for 20 years.
 
 Can you do well, pay all your bills, have a decent savings growing, and still be a complete an utter failure at life?
 
 In a way, I wanted something, I worked hard for it, but I didn't really know what it was. Amorphous words like "success" unmanifested by material reality don't really mean much.
 
-Without concrete goals I'm just drifting.  I guess writing a book is a concrete goal, the 1600 or so words a day, sure. But that's a vanity metric.
+When O'Shaughnessy wrote "We are the music makers, And we are the dreamers of dreams, Wandering by lone sea-breakers,
+And sitting by desolate streams;— World-losers and world-forsakers, On whom the pale moon gleams: Yet we are the movers and shakers Of the world for ever, it seems." there was something deeper there that I simply wasn't getting. Maybe success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one. The process of getting there is about making sure our dreams aren't lost in transmission. 
+
+Without concrete goals it's just drifting.  I guess writing a book is a concrete goal, the 1600 or so words a day, sure. But that's a vanity metric.
 
 Vanity metrics are quite common in goal oriented thinking. People get the feeling that they are just drifting through time without a solid notion of orientation or enterprise to steer their intentions.  The measurable, the metric, is there to help guide them. Corporations make up "key performance indicators" - numerical benchmarks that are easy to compute and graph in excel and then expect to see over a 6 month period that they are going up.
 
@@ -29,7 +32,7 @@ So was the wisdom in the 1970s business books when they were gushing over the F.
 
 There was some silver bullet, we were told, that we all must emulate, in order to dance like them. Eventually all those companies collapsed, continuing to do their rain dances with more vigour and energy as their once great empires vanished.
 
-And so we are, tribes of mythmakers, only differentiated from our ancestors by our material advantage but ultimately susceptible to the same pursuasions of reasons in a contradictory combination of self-relization and denial; some interesting combination where we know everything is futile and that nothing is knowable while at the same time having an irrational faith that it's not true and not even our own eventual collapse and abandonment can be taken as a given.
+And so we are, tribes of mythmakers, only differentiated from our ancestors by our material advantage but ultimately susceptible to the same pursuasions of reasons in a contradictory combination of self-relization and denial; some interesting combination where we know everything is futile and that nothing is knowable while at the same time having an irrational faith that it's not true and not even our own eventual collapse and abandonment can not be taken as a given.
 
 Or maybe, the dance itself becomes the purpose. The ambitions of salvation fall away and leave us with at least the satisfaction of the KPIs, the OKRs, the fact that we move our right foot when we're supposed to and at least win the game that we've constructed in our own mind.
 
@@ -48,3 +51,5 @@ Maybe that's why young people tend to do so well with runaway successes - they d
 The irrational exuberance of the mythmakers put on a show, build the tribe, and change the manufactured rules by which the world is supposed to operate.  Yet just as the ink on those books dry, another absurdist comes forth with a different dance, stealing the limelight yet again.
 
 Has the world gone mad? The secret of humanity is that it was never sane to begin with.  So here I am, at a startup.  This month I shall increase the absurdity, heighten the contradictions, defy the gambits of rationality, all while expecting nothing and pretending as hard as I can that it's not just theatrical wanderings into the future.
+
+The signal to noise ratio is crucial. Nonsense needs clean, transmittable purity to be captured and valued.
