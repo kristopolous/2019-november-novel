@@ -1,11 +1,11 @@
 Hopes and dreams can have a crippling effect.
 The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the lack of expectations can't be merely theatrical - I have to genuinely believe nothing is going to happen for things to happen. Imagination only moves when we commit to dismissing reality.  That's a required act to permit a new reality to be imagined, believed in, and acted upon. Only through a sincere commitment to fiction can the future be made.
 
-You can fake things for others but only when you fake things for yourself as well do things truly change.
+I can fake things for others but only when you fake things for yourself as well do things truly change.
 
 It's November 1st, 2019, nearly 4 years into a startup that arguably never really started up. This would be ok if we were a bunch of 22 year olds, on our first go, and that modifier after 4 was "months" but instead I am 37 and have been doing this for 20 years.
 
-Can you do well, pay all your bills, have a decent savings growing, and still be a complete an utter failure at life?
+Can someone do well, pay all their bills, have a decent savings growing, and still be a complete an utter failure at life?
 
 In a way, I wanted something, I worked hard for it, but I didn't really know what it was. Amorphous words like "success" unmanifested by material reality don't really mean much.
 
