@@ -75,7 +75,7 @@ You are a Poindexter middle school boy with aspirations to go to an Ivy League s
 
 This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
 
-However as he is given missions to say "study at the library", he ends up passing scenes with things like of waterfighting, beach volleyball, aerobics at the park, and other mildly suggestive things. He must find seclusion, much like the fucking game above, to quickly masturbate so he can get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
+However as he is given missions to say "study at the library", he ends up passing scenes with things like of waterfighting, beach volleyball, aerobics at the park, and other mildly suggestive things. He must find seclusion to quickly masturbate so he can get back to his studies. The character has a known number of days between exams and must get in a certain level of "quality" studying time.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
 
 *More subversive*: Your character has no concern for the gender or age of the people he is aroused by and responds equally to them all.  The senior citizen doing calesthetics workout is the same trigger as anything else. The verbaige in the game is also sophomoric and inappropriate, with phrases like "warning: maximum horny, stroke the sausage!" aided by sounds of sirens. As the horniness meter increases, the character moves slower and in anguish as if injured.
 
