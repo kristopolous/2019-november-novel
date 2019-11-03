@@ -49,7 +49,7 @@ After going through a list of gerunds today, and trying to play on the absurdity
 
 **A smoking game**
 
-Your a chain smoker trying not to get caught. The player needs to constantly tap the phone in order to *not* smoke or swipe for a direction of movement to make the character hide from the judgemental public.  
+You are a chain smoker trying not to get caught. The player needs to constantly tap the phone in order to *not* smoke or swipe for a direction of movement to make the character hide from the judgemental public.  
 
 When the character needs to discard a cigarette butt, the player has to wait for nobody to look, and toss them recklessly in the street. Jugemental characters include people such as pregnant women, police officers, traffic cops, and others.  
 
