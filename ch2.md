@@ -41,7 +41,7 @@ Rational agency, instead of being inherent to the human condition, is a trained 
 
 The second company, the gaming one, is just me and one other person. We released one game that didn't totally fail, but we were able to use as a learning platform (which was the objective) in order to find out how to construct something people would play.
 
-Games that have staying power and have been cloned dozens of times usually can be broken up into a madlibs form: "It's a ______ (gerund) game". They usually have somewhere between 1-3 of these gerunds.  Let me give you an example: "It's a running game", "It's a jumping game", "It's a running and jumping game". Lightgun arcade games are "aiming and shooting", tetris is a "packing and organizing" etc.
+Games that have staying power and have been cloned dozens of times usually can be broken up into a madlibs form: "It's a ______ (gerund) game". They usually have somewhere between 1-3 of these gerunds.  Let me give you an example: "It's a running game", "It's a jumping game", "It's a running and jumping game". Lightgun arcade games are "aiming and shooting", Tetris is "packing and organizing" etc.
 
 Using this framework opens up many possibilities to games which have yet to exist or which may already exist but aren't seen as a game. For instance, what would a "voting" video game look like? That's called reddit, it totally already exists - even has a point system and leaderboard. 
 
@@ -51,7 +51,7 @@ After going through a list of gerunds today, and trying to play on the absurdity
 
 You are a chain smoker trying not to get caught. The player needs to constantly tap the phone in order to *not* smoke or swipe for a direction of movement to make the character hide from the judgemental public.  
 
-When the character needs to discard a cigarette butt, the player has to wait for nobody to look, and toss them recklessly in the street. Jugemental characters include people such as pregnant women, police officers, traffic cops, and others.  
+When the character needs to discard a cigarette butt, the player has to wait for nobody to look, and toss them recklessly in the street. Judgemental characters include people such as pregnant women, police officers, traffic cops, and others.  
 
 The objective is to get through the most cigarettes possible without getting caught.  People may also ask you for a cigarette, in which case you can give one away, giving you more points, but only if you occasionally engage with the public instead of always trying to run away from them.
 
