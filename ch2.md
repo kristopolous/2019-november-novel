@@ -62,17 +62,26 @@ After going through a list of gerunds today, and trying to play on the absurdity
  
   * a "fucking" game: You are the town's rasputin, the go to person for infidelity and have missions that include things like sneaking into windows of people who are married or have roommates and then either quickly or quietly doing your business (no explicit sex need be shown, I'm thinking retro graphics). There is always a risk that someone may walk in on you or you'll be discovered some way. As the game progresses you become like the singer in the 1989 video for "Yo No Me Llamo Javier" (My name isn't Javier) by the spanish group Low Tereros Meurtos where a cassanova continues to run into his former lovers, who have children from him, and tries to claim he's someone else. It's effectively a rogue game, where you have to have a balanced strategy in order to progres.
   
-  * a "masturbating" game: Perhaps the most subversive of them all, you are a Pointdexter like middle school boy who has aspirations to go to an Ivy League school - however you are constantly bombarded with sexual urges and you must releive yourself. This would have the art and feel of the classic SNES "zombies ate my neighbors" game. The character has to frequently perform well on tests and exams and can only do so if he can focus. However he gets bombarded with scenes of waterfighting, beach volleyball, and other suggestive things and must find seclusion, much like the fucking game above, to relieve himself to get back to his studies.  Winning the game is when the character doesn't get caught, and gets a straight A+ report card. 
-	More subversive: Your character has no concern for the gender of the people, he responds equally to them all and the verbaige in the game has things such as sirens with "warning: maximum horny, masturbate now". If the character goes and takes a test when too horny, he'll get an erection during the exam, sent to the principles office, and fail the exam. 
+  * a "masturbating" game: Perhaps the most subversive of them all, you are a Poindexter middle school boy with aspirations to go to an Ivy League school. However you are constantly bombarded with sexual urges and you must find discrete ways to releive yourself. 
+
+  This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
+
+  However he gets bombarded with scenes of waterfighting, beach volleyball, and other suggestive things and must find seclusion, much like the fucking game above, to relieve himself to get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
+
+	More subversive: Your character has no concern for the gender or age of the people, he responds equally to them all and the verbaige in the game has things such as "warning: maximum horny, masturbate now" with sounds of sirens. The character moves slower and in anguish under this state, wandering around as if injured. 
+
+  If the player ignores it and the character goes and takes a test when too horny, he'll get an erection during the exam, sent to the principle's office, and fail the exam. 
   
 If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. 
 
 Going back to the study of business premises however, this isn't outside the teachings of say "BHAG" (Big hairy audacious goals - See Jim Collins books), a clear and compelling goal that makes you feel uncomfortable that looks like it shouldn't and couldn't be achieved. 
 
-There's another premise which drives this, the idea of a "magic service which feels like it should be illegal". These come around every couple years and is one of the biggest indicators of success. Many things could be described like this: airbnb, uber, napster, youtube (for music), myspace (for internet stalking) and instagram (for internet stalking, round 2). Silicon valley even has a term for these now, they call them "pirate companies" ones where technology exploits the fact that it's ahead of the law and gets to scale quickly enough to fend off being legislated illegal by offering a compelling utility function. Sure, that's fine, if we were all libertarians. But instead, the idea of "getting away with magic" premise is a much more useful one to be able to build, which also dovetails with the themes so far.
+There's another premise which drives this, the idea of a "magic service which feels like it should be illegal". These come around every couple years and is one of the biggest indicators of success. Many things could be described like this: airbnb, uber, napster, youtube (for music), myspace (for internet stalking) and instagram (for internet stalking, round 2). 
+
+Silicon valley even has a term for these now, they call them "pirate companies" ones where technology exploits the fact that it's ahead of the law and gets to scale quickly enough to fend off being legislated illegal by offering a compelling utility function. Sure, that's fine, if we were all libertarians. But instead, the idea of "getting away with magic" premise is a much more useful one to be able to build. The notion of "magic" is closest to that of a closeup magician where you are watching them perform a trick, and become completely shocked and dumbfounded that something just happened. The magic of twitter here, is when anyone could potentially have a public conversation with a celebrity. You could potentially talk directly to a president just with a few keystrokes. That's magic. 
 
 So here's what we have:
 
-  * Do not be constrained by barriers of practicality. Absurdity should be embraced
-  * Success is 90% presentation, 9% execution, and 1% idea
-  * The product or service should feel like a kind of magic which ought to be illegal.
+  * Do not be constrained by barriers of practicality. Absurdity should be embraced. (ch1)
+  * Success is 90% presentation, 9% execution, and 1% idea. (ch2)
+  * The product or service should feel like a kind of magic which ought to be illegal. (ch2)
