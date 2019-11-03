@@ -1,4 +1,4 @@
-I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a gaming company that is trying to make financial games.
+I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a company that is trying to make financial games.
 
 The first one, which is the only one that currently pays the bills, will be dealt with in later chapters. The second one is better at introducing the premise here.
 
