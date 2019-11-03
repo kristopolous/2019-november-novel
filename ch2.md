@@ -23,7 +23,7 @@ You can see this clearly demonstrated in mid 90s pop music. Take the average boy
   * Their idea: yet another love song, identical to hundreds of others
   * Their execution: a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. 
 
-Those parts as it turns out, don't actually matter at all. They simply need to exist, their quality and originality really do not matter.
+Those parts as it turns out, don't actually matter at all. They simply need to exist, their quality and originality play no role.
 
 What the boys looked like, what the music video accompanying it looked like, how it was promoted, this was the only determining factor in the overall success.  This is how humanity actually operates.
 
