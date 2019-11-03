@@ -75,11 +75,11 @@ You are a Poindexter middle school boy with aspirations to go to an Ivy League s
 
 This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
 
-However he gets bombarded with scenes of waterfighting, beach volleyball, and other suggestive things and must find seclusion, much like the fucking game above, to relieve himself to get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
+However as he is given missions to say "study at the library", he ends up passing scenes with things like of waterfighting, beach volleyball, aerobics at the park, and other mildly suggestive things. He must find seclusion, much like the fucking game above, to quickly masturbate so he can get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
 
-*More subversive*: Your character has no concern for the gender or age of the people, he responds equally to them all and the verbaige in the game has things such as "warning: maximum horny, masturbate now" with sounds of sirens. The character moves slower and in anguish under this state, wandering around as if injured. 
+*More subversive*: Your character has no concern for the gender or age of the people he is aroused by and responds equally to them all.  The senior citizen doing calesthetics workout is the same trigger as anything else. The verbaige in the game is also sophomoric and inappropriate, with phrases like "warning: maximum horny, stroke the sausage!" aided by sounds of sirens. As the horniness meter increases, the character moves slower and in anguish as if injured.
 
-If the player ignores it and the character goes and takes a test when too horny, he'll get an erection during the exam, sent to the principle's office, and fail the exam. 
+If the player ignores the instructions and say, the character goes and takes a test when too horny, he'll get an erection during the exam (depicted by the shock of the fellow students in the classroom), sent to the principle's office, and fail.
   
 If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. 
 
