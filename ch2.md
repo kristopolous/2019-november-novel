@@ -47,30 +47,39 @@ Using this framework opens up many possibilities to games which have yet to exis
 
 After going through a list of gerunds today, and trying to play on the absurdity thesis, here's a few subversive we came up with:
 
- * A smoking game: Your a chain smoker trying not to get caught. The player needs to constantly tap the phone in order to *not* smoke or swipe for a direction of movement to make the character hide from the judgemental public.  
+**A smoking game**
 
- When the character needs to discard a cigarette butt, the player has to wait for nobody to look, and toss them recklessly in the street. Jugemental characters include people such as pregnant women, police officers, traffic cops, and others.  
+Your a chain smoker trying not to get caught. The player needs to constantly tap the phone in order to *not* smoke or swipe for a direction of movement to make the character hide from the judgemental public.  
 
- The objective is to get through the most cigarettes possible without getting caught.  People may also ask you for a cigarette, in which case you can give one away, giving you more points, but only if you occasionally engage with the public instead of always trying to run away from them.
+When the character needs to discard a cigarette butt, the player has to wait for nobody to look, and toss them recklessly in the street. Jugemental characters include people such as pregnant women, police officers, traffic cops, and others.  
 
-	More subversive: Your character is actually going through EMT, then nursing, then medical school. As you successfully go through packs of cigarettes without getting caught you can eventually get promoted to head surgeon. 
+The objective is to get through the most cigarettes possible without getting caught.  People may also ask you for a cigarette, in which case you can give one away, giving you more points, but only if you occasionally engage with the public instead of always trying to run away from them.
+
+*More subversive*: Your character is actually going through EMT, then nursing, then medical school. As you successfully go through packs of cigarettes without getting caught you can eventually get promoted to head surgeon. 
  
- * a parking game: You work for a valet service and are constantly given cars which all drive very differently. You are tasked with doing things like parallel parking, or backing in very difficult positions all the while random obstacles like babies and cats come out from nowhere. You are free to hit them for a penalty, but then they stick to the car tire and effect the handling. You need to quickly remove the squished obstacles from the tire before people notice. You then need to discard them, much like the smoking game. 
+**A parking game**
 
- Everything is on a timer. If you ding a car, you may lose if the driver notices. If you get back too late, you will get penalized for taking too long. The better you do, the more tips you get. You need to make some threshold of tips in order to progress to the next level, which will be parking with more obstacles.
-	More subversive: There are other drivers whose quality of driving is entirely determined by just sheer sexism and racism, mostly. Women would drive worse than men, about say, 80% of the time. Asians and old people would equally drive terribly in different ways - but may also, occasionally be be just fine.  The worst driver, however, will be a white guy in a business suit driving a white BMW. Those people will always be terrible because everyone knows they're the worst.
+You work for a valet service and are constantly given cars which all drive very differently. You are tasked with doing things like parallel parking, or backing in very difficult positions all the while random obstacles like babies and cats come out from nowhere. You are free to hit them for a penalty, but then they stick to the car tire and effect the handling. You need to quickly remove the squished obstacles from the tire before people notice. You then need to discard them, much like the smoking game. 
+
+Everything is on a timer. If you ding a car, you may lose if the driver notices. If you get back too late, you will get penalized for taking too long. The better you do, the more tips you get. You need to make some threshold of tips in order to progress to the next level, which will be parking with more obstacles.
+
+*More subversive*: There are other drivers whose quality of driving is entirely determined by just sheer sexism and racism, mostly. Women would drive worse than men, about say, 80% of the time. Asians and old people would equally drive terribly in different ways - but may also, occasionally be be just fine.  The worst driver, however, will be a white guy in a business suit driving a white BMW. Those people will always be terrible because everyone knows they're the worst.
  
-  * a "fucking" game: You are the town's rasputin, the go to person for infidelity and have missions that include things like sneaking into windows of people who are married or have roommates and then either quickly or quietly doing your business (no explicit sex need be shown, I'm thinking retro graphics). There is always a risk that someone may walk in on you or you'll be discovered some way. As the game progresses you become like the singer in the 1989 video for "Yo No Me Llamo Javier" (My name isn't Javier) by the spanish group Low Tereros Meurtos where a cassanova continues to run into his former lovers, who have children from him, and tries to claim he's someone else. It's effectively a rogue game, where you have to have a balanced strategy in order to progres.
+**A fucking game**
+
+You are the town's rasputin, the go to person for infidelity and have missions that include things like sneaking into windows of people who are married or have roommates and then either quickly or quietly doing your business (no explicit sex need be shown, I'm thinking retro graphics). There is always a risk that someone may walk in on you or you'll be discovered some way. As the game progresses you become like the singer in the 1989 video for "Yo No Me Llamo Javier" (My name isn't Javier) by the spanish group Low Tereros Meurtos where a cassanova continues to run into his former lovers, who have children from him, and tries to claim he's someone else. It's effectively a rogue game, where you have to have a balanced strategy in order to progres.
   
-  * a "masturbating" game: Perhaps the most subversive of them all, you are a Poindexter middle school boy with aspirations to go to an Ivy League school. However you are constantly bombarded with sexual urges and you must find discrete ways to releive yourself. 
+**A masturbating game**
 
-  This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
+You are a Poindexter middle school boy with aspirations to go to an Ivy League school. However you are constantly bombarded with sexual urges and you must find discrete ways to releive yourself. 
 
-  However he gets bombarded with scenes of waterfighting, beach volleyball, and other suggestive things and must find seclusion, much like the fucking game above, to relieve himself to get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
+This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
 
-	More subversive: Your character has no concern for the gender or age of the people, he responds equally to them all and the verbaige in the game has things such as "warning: maximum horny, masturbate now" with sounds of sirens. The character moves slower and in anguish under this state, wandering around as if injured. 
+However he gets bombarded with scenes of waterfighting, beach volleyball, and other suggestive things and must find seclusion, much like the fucking game above, to relieve himself to get back to his studies.  Winning the game is when the character doesn't get caught and gets a straight A+ report card. 
 
-  If the player ignores it and the character goes and takes a test when too horny, he'll get an erection during the exam, sent to the principle's office, and fail the exam. 
+*More subversive*: Your character has no concern for the gender or age of the people, he responds equally to them all and the verbaige in the game has things such as "warning: maximum horny, masturbate now" with sounds of sirens. The character moves slower and in anguish under this state, wandering around as if injured. 
+
+If the player ignores it and the character goes and takes a test when too horny, he'll get an erection during the exam, sent to the principle's office, and fail the exam. 
   
 If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. 
 
