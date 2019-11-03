@@ -71,7 +71,7 @@ You are the town's rasputin, the go to person for infidelity and have missions t
   
 **A masturbating game**
 
-You are a Poindexter middle school boy with aspirations to go to an Ivy League school. However you are constantly bombarded with sexual urges and you must find discrete ways to releive yourself. 
+You are a Poindexter middle school boy with aspirations to go to an Ivy League school. However you are constantly bombarded with sexual urges and you must find discrete ways to relieve yourself - such as behind bushes, under bleachers, inside public bathrooms, etc. Certain places get defined as safe spaces with various risk profiles.
 
 This would have the art and feel of the classic SNES "Zombies ate my neighbors". The character has to frequently perform well on tests and exams and can only do so if he can focus. 
 
