@@ -1,24 +1,37 @@
 I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a gaming company that is trying to make financial games.
 
-I'm a software developer who recently gained interest in the business world not out of any deep drive for competition or to make money, but instead it's how I saw change happen in the world.
+The first one, which is the only one that currently pays the bills, will be dealt with in later chapters. The second one is better at introducing the premise here.
 
-As a young engineer I was constantly baffled by how poor executions of rather useless technology which often were just knockoffs of already existing things ended up being these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it.
+I'm a software developer who recently gained interest in the business world but not out of any deep drive for competition or to make oodles of money. Instead it's how I saw any meaningful change, with engineering contributions, happen in the world.
 
-I always looked on with the same question: "How on earth is this news? Why do people want this? What gives?"
+As a young engineer I was constantly baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it. 
 
-About 2013 or so I came up with the 1-9-90 rule to explain this.  Success is 1% idea, 9% implementation, and 90% "marketing" where marketing includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc.
+Apple would release a product using a technology which had been around for 15 years, but for some reason, this was the first time people had actually seen it, so they'd falsely attribute innovation to Apple. 
+
+Even in the software development world, where people should know better, I'd read comments gushing over some technology which does effectively the exact same thing as something else which had been in wide use for years, sometimes decades. 
+
+I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all idiots? What gives?"
+
+In about 2013, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Success is 1% idea, 9% implementation, and 90% "marketing".  Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
 
 In other words, success is 90% bullshit that shouldn't, but absolutely does matter.
 
 The claim of 90% is important because it implies that the other part, as in what the thing actually is and what constitutes it, almost doesn't matter at all.
 
-You can see this in the 90s boy bands. Their idea, yet another love song, identical to hundreds of others, their execution, a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. That part as it turns out, didnt' actually matter at all.
+You can see this clearly demonstrated in mid 90s pop music. Take the average boy band: 
 
-What the boys looked like, what the music video accompanying it looked like, how it was promoted, this was the only determining factor in the success. 
+  * Their idea: yet another love song, identical to hundreds of others
+  * Their execution: a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. 
 
-Some of the hit songs of the era, such as the Fugee's Killing me softly, were just a cover song, in this case, with 75 groups, according to wikipedia, prior to the fugees singing the song. Obviously the content, originality, idea, none of this matters. The 76th cover of a 25 year old song was a big hit only because of the marketing, that's the 90% that actually matters.
+Those parts as it turns out, don't actually matter at all. They simply need to exist, their quality and originality really do not matter.
 
-I first noticed this pattern far earlier, probably in the 90s.  For years I was incensed that the world worked this way, where the symbolic pageantry surrounding the thing was the actual thing of engagement while the substantive thing instead acted as a mere edifice upon which these ceremonies took place but eventually I succumbed to the inanity of it.
+What the boys looked like, what the music video accompanying it looked like, how it was promoted, this was the only determining factor in the overall success.  This is how humanity actually operates.
+
+To be more specific, some of the hit songs of the era, such as the Fugee's Killing me softly, were just cover songs.  In this case, there had been 75 previous covers of that song spanning back 25 years. 
+
+Obviously the content, originality, idea, none of this mattered. The 76th cover of a 25 year old song was a big hit only because of the marketing, that's why that part constitutes 90%. Most people didn't know it wasn't an original song, especially one that had been covered by hit artists dozens of times. Narrative and truth is a construction of the 4ps of marketing. Objective reality, unless it's materially limiting, if not known, ultimately has no effect.
+
+I first noticed this pattern far earlier, probably in the 90s.  For years I was incensed that the world worked this way, where the symbolic pageantry surrounding the thing was the actual thing of engagement while the substantive thing instead acted as a mere edifice upon which these ceremonies took place. Eventually I succumbed to the inanity of culture.
 
 If the actually machinery of the world is constituted by these gears of irrelevance, I might as well discover how they operate. I had a sense early on that trying to shoehorn human action into a framework of rationality required the assumption that people are inherently rational - I had become utterly convinced they weren't.
 
@@ -30,7 +43,7 @@ The second company, the gaming one, is just me and one other person. We released
 
 Games that have staying power and have been cloned dozens of times usually can be broken up into a madlibs form: "It's a ______ (gerund) game". They usually have somewhere between 1-3 of these gerunds.  Let me give you an example: "It's a running game", "It's a jumping game", "It's a running and jumping game". Lightgun arcade games are "aiming and shooting", tetris is a "packing and organizing" etc.
 
-Using this framework opens up many possibilities to games which have yet to exist or which may already exist but one doesn't see as a game. For instance, what would a "voting" video game look like? That's called reddit, totally exists.
+Using this framework opens up many possibilities to games which have yet to exist or which may already exist but aren't seen as a game. For instance, what would a "voting" video game look like? That's called reddit, it totally already exists - even has a point system and leaderboard. 
 
 After going through a list of gerunds today, and trying to play on the absurdity thesis, here's a few subversive we came up with:
 
