@@ -89,7 +89,7 @@ There's another premise which drives this, the idea of a "magic service which fe
 
 Silicon valley even has a term for these now, they call them "pirate companies" ones where technology exploits the fact that it's ahead of the law and gets to scale quickly enough to fend off being legislated illegal by offering a compelling utility function. Sure, that's fine, if we were all libertarians. But instead, the idea of "getting away with magic" premise is a much more useful one to be able to build. 
 
-The notion of magic, as used here, is closest to that of a closeup magician where you are watching them perform a trick and become completely shocked and dumbfounded that something just happened. The magic of Twitter, for instance, is when anyone could potentially have a public conversation with a celebrity. You could talk directly to a president just with a few keystrokes. That's magic. A game where you control a middle school boy's sexual urges, that's the "WTF" moment that the internet is all about.
+The notion of magic, as used here, is closest to that of a closeup magician where you are watching them perform a trick and become completely shocked and dumbfounded that something just happened. The magic of Twitter, for instance, is when anyone could potentially have a public conversation with a celebrity. You could talk directly to a president just with a few keystrokes. That's magic. A game where you control a middle school boy's sexual urges, that's a "WTF" moment that the internet is all about. When you make exist subversion on the ceremonial level without any underlying substantive content, you can usually get away with it.
 
 So here's what we have:
 
