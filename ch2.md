@@ -33,7 +33,7 @@ Obviously the content, originality, idea, none of this mattered. The 76th cover 
 
 I first noticed this pattern far earlier, probably in the 90s.  For years I was incensed that the world worked this way, where the symbolic pageantry surrounding the thing was the actual thing of engagement while the substantive thing instead acted as a mere edifice upon which these ceremonies took place. Eventually I succumbed to the inanity of culture.
 
-If the actually machinery of the world is constituted by these gears of irrelevance, I might as well discover how they operate. I had a sense early on that trying to shoehorn human action into a framework of rationality required the assumption that people are inherently rational - I had become utterly convinced they weren't.
+If the actual machinery of the world is constituted by these gears of irrelevance, I might as well discover how they operate. I had a sense early on that trying to shoehorn human action into a framework of rationality required the assumption that people are inherently rational - I had become utterly convinced they weren't.
 
 Instead, I saw emotional, impulsive people responding unpredictably to false and incomplete beliefs all around me.
 
