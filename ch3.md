@@ -27,7 +27,7 @@ Recently at the gaming company, we met a guy who wanted to volunteer a redesign 
 
 We both thought they were truly awful, just terrible. I tried asking myself why that was both of our reaction. It wasn't the color choices - they were common colors. It wasn't the arrangement of content or fonts, it was common, fairly by the book and easy to understand.
 
-I thought hard about what I didn't like about it. I asked him what the goals were.  He said "something that was simple and intuitive for people to use".  That's our problem!
+I thought hard about what I didn't like about it. I asked him what the goals were.  He said "something that was simple and intuitive for people to use".  That intentionality and its lack of geometry is the problem!
 
 Broad-based descriptions like "simple and intuitive" are goals of any project, any creation, any thing - they are not things that are specific to some thing.
 
