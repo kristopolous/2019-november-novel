@@ -38,3 +38,24 @@ I realized that without these terms and an insistence on a removal from current 
 
 However, if things are merely audacious, merely absurd, but without coherency or intentionality, there is noise in the signal of vision that's transmitted using the object as a medium - there is a lack of clarity and a fuzziness of defition. 
 
+Many people get this reaction with modern art. At its best, modern art is supposed to make you question things and be the start of a conversation. The coherency and direction of this conversation is often left intentionally unclear, but focused and guided by certain possibilities within the object of the art. Its value of being is both disconnected from and an extension of the ontological systems we use to make sense in the world.  But because it's a layer upon the individual's ontology, it doesn't become a conversant experience. It is collective, individual, and sharable, but the elusive identifiability of the work, by its very nature, leaves it undiscussable or arguable.
+
+Take for example the end of the movie 2001: A Space Odyssey. Much ink has been spilled over trying to narrow the meaning and focus of it to a concrete narrative reality, a value of being that is conversant and communicable in a way that doesn't necessitate the thing itself; a way to construct its meaning using the language of shared experience.
+
+The whole point in its construction was to defy that goal: to remain beyond the ontology of familiarity, outside the concreteness of reality, defined in future, foreign, alien terms that appear to have a coherency, appear to have an intentionality, appear to have all the values of being but yet elude us in the capture of its essence.
+
+Enough connections to the real are severed to make it ultimately unrelatable. That's the point. That's what the disconnect between now and an alien world would be; it's in direct contrast to HAL, which is a familiar value of being, almost to an extreme extent. It is humanity manifested - the calculated indifference and banality of conquest.  We see laid bare, if we wish to look, the two modalities of future creation; one that is a mere extension of our value network and another which is a different system of being.
+
+The balance beween absurdity, audacity, intention, and coherency represents the continuum between these two representations. All of them are gradually tweaked throughout the duration of the film.
+
+When focused on designing a future and attempting to build it, deciding where to be on these 4 dimensions, between modesty and audacity, seriousness and absurdity, disregard and intention, incongruity and coherency and making sure the systems of building, the process of construction, reflect the goals of the product, is the essence in creating a value of being.
+
+When dealing with disruptive (as opposed to sustaining) innovations in emerging (as opposed to established) markets, the value proposition and purpose of the new product needs to be explained through the thing itself to a newly collected group of individuals which constitute a market for that product. This process is inherently challenging because it requires new channels to be made to get to that new, unproven, perhaps phantom, market.
+
+Unlike with sustaining innovations or established markets, the product *has to* sell itself. A traditional sales team is an accelerant to this process but will not succeed unless the product, which means the construction, which means the process to create it and the organizations and structures therein, have the level of absurdity, audacity, intention, and coherency to *manufacture a market*.
+
+In the next chapter we'll go over how the technology of screens on top of cars is a disruptive innovation which needs to find emerging markets because it's a downmarket innovation with a different value system for a different, as of yet, unproven demographic of users.
+
+Additionally, I'll discuss how the product encompasses all those properties and how I've structured the team that is creating it around these principles.
+
+It's November 3rd, the product is going live on December 1st. This is all being written beforehand. We can see how this goes together.
