@@ -31,9 +31,9 @@ Broad-based descriptions like "simple and intuitive" are goals of any project, a
 
 Al Ries informs this analysis in "22 Immutable laws of marketing", 1993. In the 5th chapter on the Law of Focus he says you can't narrow the focus with something that doesn't have proponents of the other side. For instance, "simple and intuitive" can't be a focus because nobody would say "I really wanted the product to be complicated and unintelligible".  Thus, because there wasn't enough of a narrow, contoured, opinion there wasn't enough direction to drive a coherency.
 
-As a result, the design was undesigned: it had poor vision, an unrefined intentionality, a lack of goal-oriented orientation that led to what appeared to be ultimately a disconnected thing with a low value of being. As a result there's a lacking notion of independent existence and worth.  
+As a result, the design was undesigned: it had poor vision, an unrefined intentionality, a lack of goal-oriented orientation that led to what appeared to be ultimately a disconnected thing with a low value of being. The object is lacking in notions of independent existence and worth.  
 
-A successful execution would have had a tightness and flow, a coherency of intention, what Robert M. Pirsig calls "quality" in Zen and the Art of Motorcycle Maintenance, 1974.  In this book, he finds it very daunting that his notion of western thought didn't encompass such a qualitatively discernable but ultimately unmeasurable thing as quality.
+A successful execution would have had a tightness and flow, a percievable crispness of thought and a coherency of intention. This is what Robert M. Pirsig calls "quality" in Zen and the Art of Motorcycle Maintenance, 1974.  In this book, he finds it very daunting that his notion of western thought didn't encompass such a qualitatively discernable but ultimately unmeasurable thing as quality.
 
 45 years later, I'm going to attempt to pick up where he left off. Quality is the intersection of absurdity, intention, audacity, and coherency. Each of these truly intersects, refines, and informs the other in that they must function in concert with one another to get to the ultimate idea of quality, which is the essence, or value of being.
 
