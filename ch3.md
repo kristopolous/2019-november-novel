@@ -13,7 +13,7 @@ When creating new things, we want the material reality to change to match the ne
 
 When our act of creation is lacking in adequate intentionality, the objects of that creation lack a value of being.  
 
-"Value of being" is the attribution of existence as a disconnected, independent entity where the whole is greater than the sum of its parts. An object has a value of being when it can be named, identified, and described by what it is and what it is not. An iPhone 5 has a value of being, while the, say LG VX8300 does not. 
+"Value of being" is the attribution of existence as a disconnected, independent entity where the whole is greater than the sum of its parts. An object has a value of being when it can be named, identified, and described by what it is and more importantly, what it is not. It is an endless horizon of future possibilities confined by a specific geometry of thought. For instance, an iPhone 5 has a value of being, while the, say LG VX8300 does not. 
 
 The value of being is a direct result of the focus of and attention to the intentionality on its creation. The object is a result of the organizational process of the designers. The perception and intentionality of the thing can be orchestrated, controlled and directed.
 
