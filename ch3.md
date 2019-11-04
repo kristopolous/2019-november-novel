@@ -62,7 +62,7 @@ When focused on designing a future and attempting to build it, deciding where to
 
 When dealing with disruptive (as opposed to sustaining) innovations in emerging (as opposed to established) markets, the value proposition and purpose of the new product needs to be explained through the thing itself to a newly collected group of individuals which constitute a market for that product. This process is inherently challenging because it requires new channels to be made to get to that new, unproven, perhaps phantom, market.
 
-Unlike with sustaining innovations or established markets, the product *has to* sell itself. A traditional sales team is an accelerant to this process but will not succeed unless the product, which means the construction, which means the process to create it and the organizations and structures therein, have the level of absurdity, audacity, intention, and coherency to *manufacture a market*.
+Unlike with sustaining innovations or established markets, the product *has to* sell itself. A traditional sales team is an accelerant to this process but will not succeed unless the product, which means the construction, which means the process to create it and the organizations and structures therein, have the level of absurdity, audacity, intention, and coherency to *manufacture a market*. The 1-9-90 columns continually inform each other through these mechanisms.
 
 In the next chapter we'll go over how the technology of screens on top of cars is a disruptive innovation which needs to find emerging markets because it's a downmarket innovation with a different value system for a different, as of yet, unproven demographic of users.
 
