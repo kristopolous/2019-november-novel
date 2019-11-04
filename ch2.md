@@ -6,7 +6,7 @@ The first one, which is the only one that currently pays the bills, will be deal
 
 I'm a software developer who recently gained interest in the business world but not out of any deep drive for competition or to make oodles of money. Instead it's how I saw any meaningful change, with engineering contributions, happen in the world.
 
-As a young engineer I was constantly baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it. 
+At the time I was constantly baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it. 
 
 Apple would release a product using a technology which had been around for 15 years, but for some reason, this was the first time people had actually seen it, so they'd falsely attribute innovation to Apple. 
 
@@ -14,9 +14,11 @@ Even in the software development world, where people should know better, I'd rea
 
 I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all idiots? What gives?"
 
-In about 2013, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Success is 1% idea, 9% implementation, and 90% "marketing".  Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
+A number of years ago, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Successfully building a future is 1% idea, 9% implementation, and 90% "marketing".  
 
-In other words, success is 90% bullshit that shouldn't, but absolutely does matter.
+Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
+
+In other words, to an engineer in the trenches, success is 90% "bullshit" that shouldn't, but absolutely does matter. I had been missing something.
 
 The claim of 90% is important because it implies that the other part, as in what the thing actually is and what constitutes it, almost doesn't matter at all.
 
@@ -32,6 +34,8 @@ What the boys looked like, what the music video accompanying it looked like, how
 To be more specific, some of the hit songs of the era, such as the Fugee's Killing me softly, were just cover songs.  In this case, there had been 75 previous covers of that song spanning back 25 years. 
 
 Obviously the content, originality, idea, none of this mattered. The 76th cover of a 25 year old song was a big hit only because of the marketing, that's why that part constitutes 90%. Most people didn't know it wasn't an original song, especially one that had been covered by hit artists dozens of times. Narrative and truth is a construction of the 4ps of marketing. Objective reality, unless it's materially limiting, if not known, ultimately has no effect.
+
+The 1-9-90 importantly is not a linear process. It's an interaction of different components. Imagine a long beam on a fulcrum that's right near one side so that a little movement on one side creates a huge change on the other.  As a "build-measure-learn" cycle (see The Lean Startup, Eric Reis, 2011) moves, this is the mechanics of the clockwork. Each column informs the other and modifies it accordingly maintaining the multiplier effect implied.
 
 I first noticed this pattern far earlier, probably in the 90s.  For years I was incensed that the world worked this way, where the symbolic pageantry surrounding the thing was the actual thing of engagement while the substantive thing instead acted as a mere edifice upon which these ceremonies took place. Eventually I succumbed to the inanity of culture.
 
