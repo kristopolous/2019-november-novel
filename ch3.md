@@ -29,13 +29,13 @@ I thought hard about what I didn't like about it. I asked him what the goals wer
 
 Broad-based descriptions like "simple and intuitive" are goals of any project, any creation, any thing - they are not things that are specific to some thing.
 
-Al Ries really informed this analysis for me in his classic "22 Immutable laws of marketing" in his 5th chapter on the Law of Focus: You can't narrow the focus with something that doesn't have proponents of the other side. "simple and intuitive" can't be a focus because nobody would say "I really wanted the product to be complicated and unintelligible".  Because there wasn't enough of a narrow, contoured, opinion, there wasn't enough direction to drive a coherency.
+Al Ries informs this analysis in "22 Immutable laws of marketing", 1993. In the 5th chapter on the Law of Focus he says you can't narrow the focus with something that doesn't have proponents of the other side. For instance, "simple and intuitive" can't be a focus because nobody would say "I really wanted the product to be complicated and unintelligible".  Thus, because there wasn't enough of a narrow, contoured, opinion there wasn't enough direction to drive a coherency.
 
 As a result, the design was undesigned: it had poor vision, an unrefined intentionality, a lack of goal-oriented orientation that led to what appeared to be ultimately a disconnected thing with a low value of being. As a result there's a lacking notion of independent existence and worth.  
 
-A successful execution would have had a tightness and flow, a coherency of intention, what Robert M. Pirsig calls "quality" in Zen and the Art of Motorcycle Maintenance.  In this book, he finds it very daunting that his notion of western thought didn't encompass such a qualitatively discernable but ultimately unmeasurable thing as quality.
+A successful execution would have had a tightness and flow, a coherency of intention, what Robert M. Pirsig calls "quality" in Zen and the Art of Motorcycle Maintenance, 1974.  In this book, he finds it very daunting that his notion of western thought didn't encompass such a qualitatively discernable but ultimately unmeasurable thing as quality.
 
-45 years later, I'm going to attempt to pick up where he left off. Quality is the intersection of absurdity, intention, audacity, and coherency. Each of these truly intersects, refines, and informs the other in that they must function in concert with one another to get to the ultimate idea of quality, which is a value of being.
+45 years later, I'm going to attempt to pick up where he left off. Quality is the intersection of absurdity, intention, audacity, and coherency. Each of these truly intersects, refines, and informs the other in that they must function in concert with one another to get to the ultimate idea of quality, which is the essence, or value of being.
 
 I've been on the search when thinking about this about whether absurdity and audacity are a product of the times or a timeless product. The core question is whether in different contexts other words may replace them. 
 
