@@ -10,12 +10,20 @@ It's November 1st, 2019, nearly 4 years into a startup that arguably never reall
 
 Can someone do well, pay all their bills, have a decent savings growing, and still be a complete an utter failure at life?
 
-In a way, I wanted something, I worked hard for it, but I didn't really know what it was. Amorphous words like "success" unmanifested by material reality don't really mean much.
+Amorphous words like "success" unmanifested by no change in the material reality of society doesn't really mean much. Success doesn't mean money, it doesn't mean power, it means change.
 
-When O'Shaughnessy wrote "We are the music makers, And we are the dreamers of dreams, Wandering by lone sea-breakers,
-And sitting by desolate streams;— World-losers and world-forsakers, On whom the pale moon gleams: Yet we are the movers and shakers Of the world for ever, it seems." there was something deeper there that I simply wasn't getting. Maybe success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one. The process of getting there is about making sure our dreams aren't lost in transmission. 
+Creation of future stuff is nicely encapsulated by the beginning of O'Shaughnessy's Ode, 
+> We are the music makers, And we are the dreamers of dreams, 
+> Wandering by lone sea-breakers,
+> And sitting by desolate streams;
+> — World-losers and world-forsakers, 
+> On whom the pale moon gleams: 
+> Yet we are the movers and shakers 
+> Of the world for ever, it seems.
 
-Concrete goals are the most common ways to define the destination: "Write a 50,000 word novel in 30 days, averaging 1,666 words a day without stopping." Jim Collins and Reid Hoffman call such things "vanity metrics" - a measure of what's measurable.
+Success, to me, isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one. The process of getting there is about making sure our dreams aren't lost in transmission. 
+
+Concrete goals are the most common ways to define the destination: "Write a 50,000 word novel in 30 days." Jim Collins and Reid Hoffman call such things "vanity metrics" - a measure of what's measurable.
 
 Vanity metrics are quite common in goal oriented thinking. People get the feeling that they are just drifting through time without a solid notion of orientation or enterprise to steer their intentions.  The measurable, the metric, is there to help guide them. Corporations make up "key performance indicators" - numerical benchmarks that are easy to compute and graph in excel. They can expect to see over a 6 month period that they are going up.
 
