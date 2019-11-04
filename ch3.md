@@ -43,7 +43,10 @@ Without an insistence on a removal from current reality through audacity and abs
 
 However, if things are merely audacious or absurd without coherency or intentionality, there is noise in the signal of vision that's transmitted which uses the created object as a medium of the vision - there is a lack of clarity and a fuzziness of defition. 
 
-Many people get this reaction with modern art. At its best, modern art is supposed to make you question things and be the start of a conversation. The coherency and direction of this conversation is often left intentionally unclear, but focused and guided by certain possibilities within the object of the art. Its value of being is both disconnected from and an extension of the ontological systems we use to make sense in the world.  But because it's a layer upon the individual's ontology, it doesn't become a conversant experience. It is collective, individual, and sharable, but the elusive identifiability of the work, by its very nature, leaves it undiscussable or arguable.
+Many people get this reaction with modern art. At its best, modern art is supposed to make you question things and be the start of a conversation. The coherency and direction of this conversation is often left intentionally unclear, but focused and guided by certain possibilities within the object of the art. Its value of being is both disconnected from and an extension of the ontological systems we use to make sense in the world.  But because it's a layer upon the individual's ontology, it doesn't become a conversant experience. It is collective, individual, and sharable, but the elusive identifiability of the work, by its very nature, leaves it undiscussable and undefinable in any inarguable way beyond a pure material description.
+
+![rotating cactus](/assets/cactus.jpg)
+Clara Hastrup's Revolving Cactus, Royal Academy of the Arts, London, 2019.
 
 Take for example the end of the movie 2001: A Space Odyssey. Much ink has been spilled over trying to narrow the meaning and focus of it to a concrete narrative reality, a value of being that is conversant and communicable in a way that doesn't necessitate the thing itself; a way to construct its meaning using the language of shared experience.
 
