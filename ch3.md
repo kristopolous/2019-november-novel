@@ -35,11 +35,11 @@ As a result, the design was undesigned: it had poor vision, an unrefined intenti
 
 A successful execution would have had a tightness and flow, a percievable crispness of thought and a coherency of intention. This is what Robert M. Pirsig calls "quality" in Zen and the Art of Motorcycle Maintenance, 1974.  In this book, he finds it very daunting that his notion of western thought didn't encompass such a qualitatively discernable but ultimately unmeasurable thing as quality.
 
-45 years later, I'm going to attempt to pick up where he left off. Quality is the intersection of absurdity, intention, audacity, and coherency. Each of these truly intersects, refines, and informs the other in that they must function in concert with one another to get to the ultimate idea of quality, which is the essence, or value of being.
+45 years later, I'm going to attempt to pick up where he left off. Quality is the intersection of absurdity, intention, audacity, and coherency. Each of these truly intersects, refines, and informs the other in that they must function in concert with each other to get to the ultimate idea of quality, which is the essence, or value of being.
 
-I've been on the search when thinking about this whether absurdity and audacity are a product of the times or a timeless product. The core question is whether in different contexts other words may replace them. 
+I've been on the search when thinking about this whether absurdity and audacity are a product of the times or a timeless product. The core question is whether in different contexts other words may replace them.
 
-I realized that without these terms and an insistence on a removal from current reality, there will forever exist the wall of practicality that confines the existence of something to be a construct of the past and not the building blocks of a future. That's the true difference between the LG VX8300 and the iPhone, the former is a constitution of the present while the latter is a proposal for the future.
+Without an insistence on a removal from current reality through audacity and absurdity, there will forever exist the wall of practicality that confines the existence of some thing to be a construct of the past and not the building blocks of a future. That's the true difference between the LG VX8300 and the iPhone, the former is a constitution of the present while the latter is a proposal for the future.
 
 However, if things are merely audacious or absurd without coherency or intentionality, there is noise in the signal of vision that's transmitted which uses the created object as a medium of the vision - there is a lack of clarity and a fuzziness of defition. 
 
