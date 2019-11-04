@@ -7,9 +7,9 @@ Going back to the 1-9-90 rule we can take those pieces and subdivide them out in
 
 Intentionality is an extrinsically assigned attribution and an intrinsically directed motivation and is the connective tissue that ties the 1-9-90 pieces together.  Unless explicitly stated, it can never truly be derived, only assigned.  Sometimes erroneously, sometimes ambiguously, and often controversially.
 
-Intentionality, at its best is a coherency, clarity, depth and sincerity - it provides a story for any action offered up as a specific kind of story called a "reason". Because intentionality is inherently assigned, the assigner can reclassify reasons into another bin called excuses.  This is to resolve a cognitive dissonance; when faced with it people either shift the intentionality to match the perception, change the perception of intentionality, or change their material reality to match the perception.
+Intentionality, at its best is an act of coherency, clarity, depth and sincerity. It provides a story for any action as a specific kind of story called a "reason". But because intentionality is inherently assigned, the assigner of the intention is free to  reclassify reasons into another bin called excuses in order to not have to change their perception.  This exercise is used to resolve a cognitive dissonance; when faced with realities that do not match perceptions, people either shift the intentionality to match the perception, change the perception of intentionality, or change their material reality to match the perception.
 
-When creating new things, we want the the material reality to change to match the new perception.  We can do this by making the new thing have a strong "value of being".
+When creating new things, we want the material reality to change to match the new perception.  We can do this by making the new thing have a strong "value of being", what chapter 1 called "embracing the absurdity to move being the wall of practicality".
 
 When our act of creation is lacking in adequate intentionality, the objects of that creation lack a value of being.  
 
