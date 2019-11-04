@@ -1,4 +1,7 @@
+## Make tomorrow worth waiting for
+
 Hopes and dreams can have a crippling effect.
+
 The more I expect from something, the less I can take action on it.  The less I expect, the better I do. But the lack of expectations can't be merely theatrical - I have to genuinely believe nothing is going to happen for things to happen. Imagination only moves when I commit to dismissing reality.  That's a required act to permit a new reality to be imagined, believed in, and acted upon. Only through a sincere commitment to fiction can the future be made.
 
 I can fake things for others but only when I fake things for myself as well do things truly change.

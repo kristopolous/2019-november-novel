@@ -1,3 +1,5 @@
+## 1-9-90: The lifeblood of innovation
+
 I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a company that is trying to make financial games.
 
 The first one, which is the only one that currently pays the bills, will be dealt with in later chapters. The second company is better for introducing some premises here, and it's what I worked on today.
