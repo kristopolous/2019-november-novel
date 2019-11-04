@@ -83,7 +83,7 @@ However as he is given missions to say "study at the library", he ends up passin
 
 If the player ignores the instructions and say, the character goes and takes a test when too horny, he'll get an erection during the exam (depicted by the shock of the fellow students in the classroom), sent to the principle's office, and fail.
   
-If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. 
+If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. There's information about how to handle that through consciously crafting intentionality in the next chapter.
 
 Going back to the study of business premises however, this isn't outside the teachings of say "BHAG" (Big hairy audacious goals - See Jim Collins books), a clear and compelling goal that makes you feel uncomfortable that looks like it shouldn't and couldn't be achieved. 
 
