@@ -36,7 +36,7 @@ I've been on the search when thinking about this about whether absurdity and aud
 
 I realized that without these terms and an insistence on a removal from current reality, there will forever exist the wall of practicality, explored in chapter 1, that confines the existence of something to be a construct of the past and not the building blocks of future realities. That's the true difference between the LG VX8300 and the iPhone, the former is a constitution of the present while the latter is a proposal for the future.
 
-However, if things are merely audacious, merely absurd, but without coherency or intentionality, there is noise in the signal of vision that's transmitted using the object as a medium - there is a lack of clarity and a fuzziness of defition. 
+However, if things are merely audacious or absurd without coherency or intentionality, there is noise in the signal of vision that's transmitted which uses the created object as a medium of the vision - there is a lack of clarity and a fuzziness of defition. 
 
 Many people get this reaction with modern art. At its best, modern art is supposed to make you question things and be the start of a conversation. The coherency and direction of this conversation is often left intentionally unclear, but focused and guided by certain possibilities within the object of the art. Its value of being is both disconnected from and an extension of the ontological systems we use to make sense in the world.  But because it's a layer upon the individual's ontology, it doesn't become a conversant experience. It is collective, individual, and sharable, but the elusive identifiability of the work, by its very nature, leaves it undiscussable or arguable.
 
