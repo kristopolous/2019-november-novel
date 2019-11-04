@@ -1,16 +1,21 @@
-The notion of absurdity needs some refinement.
+"The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination."
+ - Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering
 
-Going back to the 1-9-90 rule we can take those pieces and subdivide them out into a new category we'll call intentionality. Intentionality is elusive and ephemeral.  Laws are differentiated based on the intentionality.  Did someone murderously drive their car into a person out of bloodlust or was it an unfortunate accident? Did a politician do some act in order to benefit themselves or did such a thing just happen by coincidence? Intentionality is a non-tangible thing that arguably exists both outside the act AND as an essential component. It both drives the underlying mechanics, forms the reality but yet doesn't actually exist beyond abstraction.
+Using absurdism as the guiding principle in the creation of future-stuff with thought-stuff requires an intentional exercise of diligence on the practice of absurdism.
 
-Intentionality is an extrinsically assigned attribution and an intrinsically directed motivation and is the connective tissue that ties the 1-9-90 pieces together.
+Going back to the 1-9-90 rule we can take those pieces and subdivide them out into a new category we'll call intentionality. Intentionality is elusive and ephemeral.  Laws are differentiated based on intentionality:  Did someone murderously drive their car into a person out of bloodlust or was it an unfortunate accident? Did a politician do some act in order to benefit themselves or did such a thing just happen by coincidence? Intentionality is a non-tangible thing that arguably exists both outside the act AND as an essential component. It both drives the underlying mechanics and forms the reality but doesn't actually exist beyond abstraction. 
 
-Intentionality, at its best is a coherency, clarity, depth and sincerity - it provides a reason for any action where reason here means a story.
+Intentionality is an extrinsically assigned attribution and an intrinsically directed motivation and is the connective tissue that ties the 1-9-90 pieces together.  Unless explicitly stated, it can never truly be derived, only assigned.  Sometimes erroneously, sometimes ambiguously, and often controversially.
 
-When the act of creation is lacking in adequate intentionality, the objects of that creation lack a value of being.  
+Intentionality, at its best is a coherency, clarity, depth and sincerity - it provides a story for any action offered up as a specific kind of story called a "reason". Because intentionality is inherently assigned, the assigner can reclassify reasons into another bin called excuses.  This is to resolve a cognitive dissonance; when faced with it people either shift the intentionality to match the perception, change the perception of intentionality, or change their material reality to match the perception.
 
-"Value of being" is the attribution of existence as a disconnected, independent entity where the whole is greater than the sum of its parts. An object has a value of being when it can be named, identified, and described by what it is and what it is not. An iPhone 5 has a value of being, the, say LG VX8300 does not.
+When creating new things, we want the the material reality to change to match the new perception.  We can do this by making the new thing have a strong "value of being".
 
-The value of being is a direct result of the focus of and attention to the intentionality on its creation. The object is a result of the organizational process of the designers.
+When our act of creation is lacking in adequate intentionality, the objects of that creation lack a value of being.  
+
+"Value of being" is the attribution of existence as a disconnected, independent entity where the whole is greater than the sum of its parts. An object has a value of being when it can be named, identified, and described by what it is and what it is not. An iPhone 5 has a value of being, while the, say LG VX8300 does not. 
+
+The value of being is a direct result of the focus of and attention to the intentionality on its creation. The object is a result of the organizational process of the designers. The perception and intentionality of the thing can be orchestrated, controlled and directed.
 
 This is discussed at length in Dynamics of Software Development, 1995, by Jim McCarthy and the Pulitzer Prize winning The Soul of A New Machine, 1981, by Tracy Kidder (the latter of which is quoted in the discussion of this concept in The Innovators Dilemma, 1997, by Clayton M. Christensen).
 
