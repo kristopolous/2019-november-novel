@@ -91,6 +91,6 @@ All companies and creators need to pivot after a release of anything in the worl
 
 It's not a listener of the existing customer or the existing market. It's a listening for the possibility of a could be market and a would be customer and how to share a collective future vision that is constructed together.
 
-This is how the S-Curve effect (see Zero-to-one, Innovator's Dilemma) can be overcome. The S-Curve, the fact that there's two asymptotes of advancement at the beginning and the end of a technology, is a natural consequence of the geometry of being.
+This is how the S-Curve effect (see Zero-to-one, Innovator's Dilemma) can be overcome. The S-Curve, the fact that there's two asymptotes of advancement at the beginning and the end of a being, is a natural consequence of a commitment to a rigid geometry of being, immutable but ultimately voluntary classifications.
 
 The definition of the thing sits inside this geometry of being and is confined by it so the extracted value follows accelerating, sustaining, and then diminishing returns.  The S-curve is defeated by having a permeable geometry of being. Tomorrow isn't a place, it's a process of an aggressive commitment to change.
