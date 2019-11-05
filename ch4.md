@@ -28,7 +28,7 @@ This system works for say billboards, where they sometimes cost $50,000/month, e
 
 But if you are in that class why would you bother with screens on top of cars? It could be part of a large strategy, maybe ... if you can get established players comfortable with new technology, but the sales there are hard. 
 
-This sounds like a classic test case in any book where they talk about the small scrappy firm that played by different rules and changed the game. We could choose to be another SSP, go on an ad network, get content from the exchanges, collect our checks and go home.  There's a number of firms that tried this and they are all in tough times. 
+This sounds like a classic test case in any book where they talk about the small scrappy firm that played by different rules and changed the game. We could choose to be another SSP, go on an ad network, get content from the exchanges, collect our checks and go home.  There's a number of firms that tried this and they are all in tough times. Most of them are out of business. 
 
 That's because there's 2 dimensions to advertising:
 
