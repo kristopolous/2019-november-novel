@@ -85,7 +85,7 @@ We have a conference room where I put on the magic act where I construct the fut
 
 Much like modern art, we are building a thing which intends to be the start of a conversation with enough vagueness of coherency and direction to find a market so that they'll reach out and grab us.  What we are creating is a disconnection from the existing framework and an extension of the thoughts of another group, constituting the market segment.
 
-It's flexible enough to be collective, individual, and sharable but elusive enough that it's not inherently exlclusionary. 
+It's flexible enough to be collective, individual, and sharable but elusive enough that it's not inherently exclusionary. 
 
 All companies and creators need to pivot after a release of anything in the world, from the role of speaker to that of listener. The time of release is the transition of roles.
 
