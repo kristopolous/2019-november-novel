@@ -37,7 +37,7 @@ That's because there's 2 dimensions to advertising:
 | Single User | Back of a taxi cab, before a youtube video | Television, Cell phone |
 | Multi-User | An elevator, before a movie | Billboard, DOOH |
 
-Each one is fundamentally different in how things are sold and who you are selling to. Each one works different. The system above is for single-user non-captive, this is multi-user non-captive, which means retargeting works differently, segmentation works differently, it's a different beast.  There's a different value system.
+Each one is fundamentally different in how things are sold and who you are selling to. The system above is for single-user non-captive, this is multi-user non-captive, which means retargeting works differently, segmentation works differently, it's a different beast.  There's a different value system and thus, likely a different market.
 
 Additionally the traditional value systems of digital ads don't exist in DOOH:
 
