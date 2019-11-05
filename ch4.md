@@ -5,14 +5,16 @@
 
 What is termed "Digital Out of Home (DOOH)" programmatic, essentially electronic billboards, is often called an emerging field. As of the writing of this, here's how it works:
 
- * SSP - A supply side platform are the people who own the screens and the technology that runs on them
- * Ad Network - Has a supply of SSP real-estate for sale usually from multiple SSPs.
- * Ad Exchange - A consolidation of different ad networks
+ * SSP - Supply side platforms are the people who own the screens and built, or at least controls the technology that runs on them
+ * Ad Network - A supply of SSP "real-estate" for sale usually from multiple SSPs. The number, location, and description of the platforms is part of this. SSPs can be on multiple Ad networks. 
+ * Ad Exchange - A broker managing a consolidation of different ad networks to help maximize the reach
  * CPM - The impression unit, essentially the thing being bought and sold, the eyeballs.
  * RTB - A real-time bidding marketplace run by an ad exchange
- * DSP - A demand side platform for managing assets on Ad networks and facilitating in RTB on behalf of brands and agencies
+ * DSP - A demand side platform for managing assets on Ad exchanges and facilitating in RTB on behalf of brands and agencies.
 
-The purpose here is to be a flexible stack that allows advertisers to target and retarget segments and potential customers essentially following them around throughout their day.
+Essentially someone has clients with ads. They find places to put the ads within their budget and a bunch of middlemen act as layers between the physical device and the customer.
+
+The other purpose here is to be a flexible stack that allows advertisers to target and retarget segments and potential customers essentially following them around throughout their day.
 
 That dumb ad that keeps coming up from that website you were on for 5 minutes? This is the architecture that enables that.  Connecting the online space to the physical space so that the advertiser can stalk you Even More, is seen as The Next Big Thing.
 
