@@ -32,7 +32,8 @@ This sounds like a classic test case in any book where they talk about the small
 
 That's because there's 2 dimensions to advertising:
 
-| | Captive | Non-captive |
+| . | Captive | Non-captive |
+| --- | --- | --- |
 | Single User | Back of a taxi cab, before a youtube video | Television, Cell phone |
 | Multi-User | An elevator, before a movie | Billboard, DOOH |
 
