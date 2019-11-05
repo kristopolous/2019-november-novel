@@ -93,4 +93,4 @@ It's not a listener of the existing customer or the existing market. It's a list
 
 This is how the S-Curve effect (see Zero-to-one, Innovator's Dilemma) can be overcome. The S-Curve, the fact that there's two asymptotes of advancement at the beginning and the end of a technology, is a natural consequence of the geometry of being.
 
-The definition of the thing sits inside this geometry of being and is confined by it so the extracted value follows accelerant and then diminishing returns.  The S-curve is defeated by having a permeable geometry of being. Tomorrow isn't a place, it's a process.
+The definition of the thing sits inside this geometry of being and is confined by it so the extracted value follows accelerating, sustaining, then and then diminishing returns.  The S-curve is defeated by having a permeable geometry of being. Tomorrow isn't a place, it's a process.
