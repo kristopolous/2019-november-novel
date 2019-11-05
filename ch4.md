@@ -81,7 +81,7 @@ That communal experience among strangers which is the twine that binds them as a
 
 Visionaries come from everywhere, visions can be anything. When created with the right value of being, experiences are fundamentally transformative and magic happens.
 
-We have a conference room where I put on the magic act where I construct the future of this soul of tomorrow for all that have listened. I honestly don't expect to hit the mark on the 1.0 version (live in 25 days). What I hope to do, instead, is have a structure that facilitates a learning experience and conversation. 
+We have a conference room where I put on the magic act where I construct the future of this soul of tomorrow for all that will listen. I honestly don't expect to hit the mark on the 1.0 version (live in 25 days). What I hope to do, instead, is have a structure that facilitates a learning experience and conversation. 
 
 Much like modern art, we are building a thing which intends to be the start of a conversation with enough vagueness of coherency and direction to find a market so that they'll reach out and grab us.  What we are creating is a disconnection from the existing framework and an extension of the thoughts of another group, constituting the market segment.
 
