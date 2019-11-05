@@ -46,7 +46,7 @@ Additionally the traditional value systems of digital ads don't exist in DOOH:
  * Low specificity of audience: SSPs are trying to target things like PoS terminals so they can do audience slicing better.
  * Low provability: Since the vehicle is moving, it's hard for the SSP to prove to anyone else in the chain that the ad played when they report it as played back up to the network.
 
-So because DOOH is bad at that thing, the industry, as a whole, doesn't seem to be interested in doing another. Instead they are trying to cram this round peg into that square hole at whatever level of exhaustion necessary to get there.
+Even though DOOH is bad at these things, the industry, as a whole, doesn't seem to be interested in trying something else. Instead they are trying to cram this round peg into that square hole at whatever level of exhaustion necessary to get there.
 
 The technology is fundamentally disruptive but it's being stuffed into a box labeled "sustaining" and force-fed to established markets of "late majorities" (see crossing the chasm)
 
