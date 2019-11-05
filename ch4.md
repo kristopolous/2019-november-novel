@@ -95,4 +95,4 @@ This is how the S-Curve effect (see Zero-to-one, Innovator's Dilemma) can be ove
 
 The definition of the thing sits inside this geometry of being and is confined by it so the extracted value follows accelerating, sustaining, and then diminishing returns.  The S-curve is defeated by having a permeable geometry of being. Tomorrow isn't a place, it's a process of an aggressive commitment to change.
 
-Society progresses one funeral at a time. Future thought is being eager to orchestrate your own epistemological funeral as frequently as possible.
+If society progresses one funeral at a time, future thought is about being eager to orchestrate your own epistemological funeral as frequently as possible.
