@@ -44,7 +44,7 @@ The depictions in the 1950s of centuries in the future had rockets zipping aroun
 
 The essence of future is a deviation in process, craft, or tool in alignment of a new set of goals. This is the process of technology.
 
-### anti-technology
+### Anti-technology is also about building futures
 
 With the expanded framework of technology, we can see that anti-technology is instead of a return to the past, the baseline requirements to boldly redirect how no man has redirected before and orient the 3 sets of techology around a different locus of goals.
 
