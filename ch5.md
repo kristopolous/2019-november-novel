@@ -44,9 +44,9 @@ This is how things have played out. In the 1920s, movies and books thought we'd 
 
 Instead of massive computers we'd be instructing to run our lives, we have tiny pocket computers that are more often instructing us.
 
-The depictions in the 1950s of centuries in the future had rockets zipping around space, but it was still a future composed of white men.
+The depictions in the 1950s of centuries in the future had rockets zipping around space, but it was still a future composed of white men making decisions while their wives, in completely unmodified traditional heterosexual marriage arrangements, were slaving away in the future kitchens or doing some other dotty activity.
 
-The essence of future is a deviation in process, craft, or tool in alignment of a new set of goals. This is the process of technology.
+The essence of future is a deviation and disruption in process, craft, or tool in a realignment towards a new set of goals. This is the process of technology.
 
 For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
 
