@@ -74,7 +74,7 @@ The societal, social, and political implications of this technology along with t
 |:--:|
 | *The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour* |
 
-The core hypothesis of the March of Intellect in the context of the Industrial Revolution was the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  
+The core hypothesis of the March of Intellect in the context of the Industrial Revolution was that the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  
 
 The critics and advocates of both movements (luddites and March of Intellect) made the same admittance by the nature of their actions: The power dynamic that guides the direction and flow of these mechanisms of relationships known as techology has a logical arrangement that is an artifact of circumstances in history which was at risk of being obsoleted and supplanted. The potential is that any column (people, process, tools) of technology in its act of goal redirection can lead to a disconnection from the structure of this past and ultimately lay a founctiona for a form of liberation and power rearrangement in the future.
 
