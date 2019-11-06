@@ -12,7 +12,7 @@ To illustrate this, let's use a microscope. The microscope isn't The technology,
 
 The microscope was key in understanding diseases and how humans related with the diseases. The microscope is a device of environmental relationship. 
 
-Marx called this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the phyiscal object.
+Marx called this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object.
 
 Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
 
@@ -32,7 +32,7 @@ The US Constitution, as a document, is another piece of technology - originally 
 
 ### What is the future?
 
-If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals or a different manifestation in service of higher level goals.
+If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals or a different manifestation in service of higher level goals?
 
 And if so, in what service to those higher level goals? Greater value crafts, processes, and objects? What should a futurist set out to do? What is a future worth building?
 
