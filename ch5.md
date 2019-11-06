@@ -44,7 +44,7 @@ The depictions in the 1950s of centuries in the future had rockets zipping aroun
 
 The essence of future is a deviation in process, craft, or tool in alignment of a new set of goals. This is the process of technology.
 
-For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology.
+For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
 
 ### Anti-technology is also about building futures
 
