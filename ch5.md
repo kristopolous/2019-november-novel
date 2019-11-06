@@ -22,9 +22,9 @@ When someone says "it's a people problem" or "people problem can't be fixed with
 
 This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
 
-For example, the catholic church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.
+For example, the Catholic Church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.
 
-The US constitution, as a document, is another piece of technology - originally defining people, processes, and the relationship of physical objects, called property.
+The US Constitution, as a document, is another piece of technology - originally defining people, processes, and the relationship of physical objects, called property. 
 
 ### What is the future?
 
@@ -43,6 +43,8 @@ Instead of massive computers we'd be instructing to run our lives, we have tiny 
 The depictions in the 1950s of centuries in the future had rockets zipping around space, but it was still a future composed of white men.
 
 The essence of future is a deviation in process, craft, or tool in alignment of a new set of goals. This is the process of technology.
+
+For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology.
 
 ### Anti-technology is also about building futures
 
