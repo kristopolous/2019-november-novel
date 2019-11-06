@@ -87,13 +87,29 @@ However as he is given missions to say "study at the library", he ends up passin
 
 If the player ignores the instructions and say, the character goes and takes a test when too horny, he'll get an erection during the exam (depicted by the shock of the fellow students in the classroom), sent to the principle's office, and fail.
   
-If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. The last one is exceptionally difficult to pull off because the premise of the game fundamentally sexualizes depictions of adolescents. There's information about how to handle that through consciously crafting intentionality in the next chapter.
+If any of these games existed and got the mechanics right, the absurdity and presentation thesis, if right, would lead to them being runaway successes. There's information about how to handle that through consciously crafting intentionality in the next chapter.
 
 Going back to the study of business premises however, this isn't outside the teachings of say "BHAG" (Big hairy audacious goals - See Jim Collins books), a clear and compelling goal that makes you feel uncomfortable that looks like it shouldn't and couldn't be achieved. 
 
 There's another premise which drives this, the idea of a "magic service which feels like it should be illegal". These come around every couple years and is one of the biggest indicators of success. Many things could be described like this: Airbnb, Uber, Napster, YouTube (for music, round 2), Myspace (for internet stalking) and Instagram (for internet stalking, round 2). 
 
-Silicon valley even has a term for these now, they call them "pirate companies" ones where technology exploits the fact that it's ahead of the law and gets to scale quickly enough to fend off being legislated illegal by offering a compelling utility function. Sure, that's fine, if we were all libertarians. But instead, the idea of "getting away with magic" premise is a much more useful one to be able to build. 
+To understand why using the exercise helps get to new ideas we can take the last example and transform it into a novel game. Here's how it works:
+
+ * Perhaps euphemisms would be an appropriate way to execute this
+ * Euphemisms give way to allegories. Perhaps using allegorical representations would work
+ * What is the character had a "pet" that constantly followed him around and is need of constant attention. 
+
+And now we're genuinely in a different, new, and novel space.  Repurposing the outlandish mechanics to an attention seeking pet that must be constantly satiated gets halfway to the mechanics and opens up a whole new range of possibilities.
+
+Instead of sexual stimulation, it could be say, a dog, that constantly needs to be "walked" - that's the other half of the same mechanics. Now we could have 2 dogs perhaps, or task different kinds of dogs. There can be a wider range of consequences and a richer form of interactivity since the taboos don't need to be walked around.
+
+However, the important thing to see here is that unless we venture into the forbidden and absurd, these roads do not get taken.  For instance, the joke is that in the 90s you were told never to get into cars with strangers and don't talk to people over the internet. Now with Uber, you get into cars of strangers you met over the internet. What a ludicrous idea. 
+
+The whole class sounds equally proposterous. With Turo you loan your car out to strangers. With AirBnb, you welcome strangers into your house, give them a set of keys, and tell them to have a great time, then you leave. What on earth? This is crazy. But it also works.
+
+Silicon Valley even has a term for these now, they call them "pirate companies" ones where technology exploits the fact that it's ahead of the law and gets to scale quickly enough to fend off being legislated illegal by offering a compelling utility function. Sure, that's a fine description from a classical marketing analysis. 
+
+But instead, I'd like to present it as not getting ahead of law, but instead getting ahead of demand and culture (more information on how culture, property, and technology are interconnected in chapter 5), and the most essential analysis here is these classes of companies are "getting away with magic".
 
 The notion of magic, as used here, is closest to that of a closeup magician where you are watching them perform a trick and become completely shocked and dumbfounded that something just happened. The magic of Twitter, for instance, is when anyone could potentially have a public conversation with a celebrity. You could talk directly to a president just with a few keystrokes. That's magic. A game where you control a middle school boy's sexual urges, that's a "WTF" moment that the internet is all about. When you make exist subversion on the ceremonial level without any underlying substantive content, you can usually get away with it.
 
