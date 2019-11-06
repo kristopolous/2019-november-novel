@@ -70,8 +70,9 @@ Along with that there were new institutions such as coffee houses (as opposed to
 
 The societal, social, and political implications of this technology along with the potential power disruption wasn't lost on the people of the time. There was debate over only disseminating "useful" information with a debate about what that meant.  There was other concerns that over-education would lead to reduction in moral fibre and lead to social unrest.
 
-![march of intellect](/assets/march_of_intellect.jpg)
-The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour
+| ![march of intellect](/assets/march_of_intellect.jpg) |
+|:--:|
+| *The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour* |
 
 The fear was that the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  The critics and advocates of both movements made the same admittance by the nature of their actions: The power dynamic that guides the direction and flow of these techological relationships has no logical arrangement and is only an artifact of circumstances in history. The potential is that any column of technology in its act of goal redirection can lead to a disconnection from the structure of this past and ultimately lay a founctiona for a form of liberation in the future.
 
