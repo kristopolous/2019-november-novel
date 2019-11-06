@@ -4,9 +4,9 @@ The biggest insight to help understand technology is first to understand propert
 
 In gift economies, this assumption is up for grabs, the original "owner" can define and have use-rights and may eventually request it returned.
 
-This leads us to property isn't a thing, it's a relationship among people about things. The insight is the human relationship and social arrangement has primacy. The property is a convention practiced about an physical object. In more traditional economies, there can be restrictions through copyrights, patents, and trademarks. Thus the notion of property is fundamentally a relationship.
+This leads to the insight that property isn't a thing, it's a relationship among people about things. The human relationship and social arrangement has primacy and the object is a vehicle for it.  Property is a set of conventions practiced with physical objects. In more traditional economies, there can be restrictions through copyrights, patents, and trademarks. Thus the notion of property is fundamentally a relationship. What can and cannot be property and the rights one can do on their property is also a function of relationships. 
 
-So to is technology. Technology is a mechanism of relationships among people and their environment.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself* in the same way that property is the relationship, technology is a mechanism.
+Moving on to technology, technology is a mechanism of relationships among people and their environment.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself*. In the same way that property is the relationship, technology is a mechanism.
 
 To illustrate this, let's use a microscope. The microscope isn't The technology, it's just a part of it. Event if it's just one person using it, making an observation, there's still a fundamental relationship, that's the technology. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations. 
 
