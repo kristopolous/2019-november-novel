@@ -51,7 +51,13 @@ This groundwork of people, process, and tool technology should now be in place f
 
 In 1843, a Parisian newspaper named *La Réforme* started publication. Some of the regular contributors included Karl Marx (who later became the editor of his own paper, *Neue Rheinische Zeitung* in 1848), Pierre-Joseph Proudhon, the first person to call himself an anarchist, and a journalist at three other newspapers, and Mikhail Bakunin, regarded as one of the most important anarchists in the 19th century.
 
-After the 1848 French revolution, the members of *La Réforme* were made part of the provisional French government. The disruptive technology in a disrupted society was put in charge of controlling it, and really didn't know what to do with it.  In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
+Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx, as a journalist writing for a Paris paper.
+
+After the success of the 1848 French revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. The disruptive technology in a disrupted society was put in charge of controlling it. 
+
+The public had assumed the future, as depicted by these journalists using these technologies, could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
+
+In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
 
 Papers with news from from Paris were stocked on trains which would take 2-3 days to go to other cities where people would line up and buy them in a frenzy. Those lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
 
