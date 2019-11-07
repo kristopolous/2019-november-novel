@@ -39,13 +39,13 @@ In the 1830s, a new innovation, relying on commercialization through advertising
 
 The penny press captured a new emerging market, due to being 83% less costly, and covered different material than what was targeted towards the upper class such as sports, crime news, and gossip. Their variations today would be closest to tabloids.
 
-By the 1840s we had 
+Wood pulp pressing was developed in the 1840s to further reduce costs and increase the size of newspapers.
+
+This meant by the 1840s we had 
 
  * people skills: public literacy and a skill of sensationalist writing towards a mass audience 
  * process: a financial model based on advertising, simple language, and daily publications
  * tools: mass print machines, photography, railroads, and the telegraph
-
-Additionally, wood pulp pressing was developed in the 1840s to further reduce costs and increase the size of newspapers.
 
 This groundwork of people, process, and tool technology should now be in place for a realignment of goals, a disruption of process, and a new dynamic to emerge. Furthermore, these technologies, some in the works for 200 years, would not have been able to have affected things independently.
 
