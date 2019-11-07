@@ -53,9 +53,9 @@ In 1843, a Parisian newspaper named *La Réforme* started publication. Some of t
 
 Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx, as a journalist writing for a Paris paper.
 
-After the success of the 1848 French revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. The disruptive technology in a disrupted society was put in charge of controlling it. 
+After the success of the 1848 French revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. The disruptive technologists in a disrupted society were put in charge of controlling it, at the urgings of the public. 
 
-The public had assumed the future, as depicted by these journalists using these technologies, could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
+These publics had assumed the future, as depicted by these journalists using these technologies, could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
 
 In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
 
