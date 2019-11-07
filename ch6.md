@@ -10,6 +10,7 @@ The paradigmatic pattern that was repeated 4 times was as follows:
  * Commercialization and a gold rush commences
  * The technology upends previously unacknowledged structures and creates new ones
  * New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
+ * A second, smaller scale wave happens at the end of the technological relevance curve
 
 The four structures and substructures are as follows
 
