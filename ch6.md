@@ -59,7 +59,7 @@ The public had assumed the future, as depicted by these journalists using these 
 
 In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
 
-Papers with news from Paris were stocked on trains which would take 2-3 days to go to other cities where people would line up and buy them in a frenzy. Those lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
+Papers with news from Paris were stocked on the newly constructed inter-city european trains which would take 2-3 days to go to other cities where people would line up and buy them in a frenzy. Those lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
 
 That is future, that is technology. That is tomorrow.
 
