@@ -57,7 +57,11 @@ After the success of the 1848 French revolution, the editors, writers, and journ
 
 These publics had assumed the future, as depicted by these journalists using these technologies, could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
 
-In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
+As Reid Hoffman explains in Blitzscaling, the skills to create a future, the skills to administrate a future, and the skills to control a future, are different stages of an innovation cycle and most likely, the jobs of different people.
+
+Furthermore, when this isn't done, then the earlier thing just gets done at a more massive scale by more participants, never making the transition to control and administration.
+
+In our 1848 Paris example, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  This undefinable power vacuum, in the midst of the second revolution happened because the paper made the news events. Now the news events made the papers.
 
 Papers with news from Paris were stocked on the newly constructed inter-city European trains which would take 2-3 days to go to other cities where people would line up and buy them in a frenzy. Those lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
 
