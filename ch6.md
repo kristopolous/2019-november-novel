@@ -11,7 +11,16 @@ The paradigmatic pattern that was repeated 4 times was as follows:
  * The technology upends previously unacknowledged structures and creates new ones
  * New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
 
+The four structures and substructures are as follows
 
+ 1. One way radio
+   a. Mass produced audio recordings
+ 2. Television
+   b. Mass produced video recordings
+ 3. Two way radio and eventually cell phones
+ 4. Online services and the internet
+
+These all developed along similar patterns with similar processes and similar results.
 Radio, casettes
 print, bernays propaganda
 television, rothchilds stock manipulation
