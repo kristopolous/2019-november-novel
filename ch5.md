@@ -1,6 +1,8 @@
 ## Technology: the first 5,000 years
 
-The biggest insight to help understand technology is first to understand property in the context of gift economies. A gift economy has a different definition of property than what we are accustomed to. In property law, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
+The biggest insight to help understand technology is first to understand property in the context of gift economies. 
+
+A gift economy has a different definition of property than what we are accustomed to. In property law, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
 
 In gift economies, this assumption is up for grabs, the original "owner" can define and have use-rights and may eventually request it returned.
 
