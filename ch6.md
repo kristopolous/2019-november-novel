@@ -15,9 +15,13 @@ The paradigmatic pattern that was repeated 4 times was as follows:
 The four structures and substructures are as follows
 
  1. One way radio
+
     a. Mass produced audio recordings
+
  2. Television
+
     b. Mass produced video recordings
+
  3. Two way radio and eventually cell phones
  4. Online services and the internet
 
@@ -47,9 +51,9 @@ This groundwork of people, process, and tool technology should now be in place f
 
 In 1843, a Parisian newspaper named La Réforme started publication. Some of the regular contributors included the Karl Marx (who later became the editor of his own paper, Neue Rheinische Zeitung in 1848), Pierre-Joseph Proudhon, the first person to call himself an anarchist, and a journalist at 4 newspapers, and Mikhail Bakunin, regarded as one of the most important anarchists in the 19th century.
 
-After the 1848 french revolution, the members of the paper were made part of the provisional government. In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news and now the news made the paper.
+After the 1848 French revolution, the members of La Réforme were made part of the provisional government. The disruptive technology, disrupted society, was put in charge of controlling it, and really didn't know what to do with it.  In 1848 Paris, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  The undefined power vacuum, in the midst of the second revolution happened because the paper made the news events and now the news events made the paper.
 
-Papers with from news from Paris were stocked on trains which would take 2-3 days to go to other cities where people would line up at the train station and sell in a frenzy. People who were lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
+Papers with news from from Paris were stocked on trains which would take 2-3 days to go to other cities where people would line up and buy them in a frenzy. Those lucky enough to get a copy would often do things like stand on tables at coffee houses, reading it aloud to the others in the room.
 
 That is future, that is technology. That is tomorrow.
 
@@ -57,15 +61,31 @@ That is future, that is technology. That is tomorrow.
 |:--:|
 | *The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848* |
 
-As the media companies that came after it, the newspaper at one time, was the Silicon Valley of its era.
+As the media companies that came after it, the newspaper at one time, was poised to become the Silicon Valley of its era.
 
-Instead, it was called Park Row and was home to some of the earliest examples of skyscrapers. In the same way that people today speak of the flashy wealth and future orientation of the tech giants, at the late 19th century, the same thing was said about the newspaper giants.
+Cutting-edge tools and processes allowed for photographs to be included in newspapers through various engraving techniques, effectively tracing a photograph onto an engraving plate.  The first photograph to be used in a paper was of war barricades out of Paris in 1848, taken June 25, 1848, "Barricades rue Saint-Maur. Avant l'attaque" and included in L'Illustration in 1-8 July of that year.
+
+Five years later, by the time the Crimean war broke out, photojournalism, telegraphy, cheap wood pulp printing, a literate public, and transport by trains, had come together.
+
+Publications such as The London Illustrated News, prominantly featured daguerreotyphic engravings, often multiple ones on each page documenting the war. Capturing compelling photographs were so important for the sale of the paper that sometimes they were staged. Researchers have uncovered, for instance, a second version of Roger Fenton's "Valley of the Shadow of Death", which features numerous canonballs on a roadside, with far fewer canonballs.  Apparently, in order to create a more sensationalist photograph, canonballs might have been transferred into the frame in order to assist the narrative.
+
+At the beginning of the war, in 1853, it took about 4 days for news to reach London. In 1854, a new telegraph to the French coast reduced it to 2 days and the following year, an undersea cable reduced it to a few hours.  
+
+This is a 25-fold speed increase in 2 years. Like the French revolution, the Crimean war became a significant news event.  For London, so much so, that it led to the ascension of one of the british commanders, Viscount Palmerston, to the cabinet of Prime Minister.
+
+The tech boom was underway and reality was being redefined
+
+As the century went on, large newspaper empires formed and some of the wealthiest people of the 19th century came to their riches from the newspaper or the manipulation of it.
+
+The power of the press was so captured by the imagination of the people of the time, that even ficticious stories were passed around to attribute to wealth to people.  For example, in 1846, a French pamphlet made a false claim that Nathan Mayer Rothschild had early access to war news, falsely reported it, sending the market into freefall, then swooped up ownership of the shares before it was corrected, making significant profit.  However, there's no public record of such large volume trading that day, a market crash and rebound or of false, then true news being reported.  The material evidence is not there.  The frenzy of the potential of newspaper technology to be the tool that constructs the future, however, so captured the imagination, that it did not matter.  The apocryphal narrative caught on and is still repeated as if it actually happened to this day.
+
+The people who actually did make their millions in newspapers, in the US, occupied a part of manahatten known as Park Row.
+It was home to some of the earliest examples of skyscrapers. In the same way that people today speak of the flashy wealth and future orientation of the tech giants, at the late 19th century, the same thing was said about the newspaper giants.
 
 | ![Park row](/assets/park_row.jpg) |
 |:--:|
 | *This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.* |
 
-Newspapers played an instrumental societal role, along 
 
 Radio, casettes
 Xeeox machine, 60s protest, zines
