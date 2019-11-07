@@ -60,7 +60,7 @@ Neo-luddism, in its present form is an advocacy for a different set of devices, 
 
 In 1990, Chellis Glendinning published "Notes towards a Neo-Luddite manifesto" arguing in favor of a search for new technological forms that are local in scale and promote social (people) and political (process) freedom.
 
-Ted Kaczynski, in his manifesto said a similar thing, calling for "new values that will free them from the yoke of the present technoindustrial system". He goes on to talk about a reverence to nature, rejection of civilization, and a change in the relationship among material goods which no longer values their acquisition (because of the rejection of the relationship of private property).
+Ted Kaczynski, in his Unabomber manifesto said a similar thing, calling for "new values that will free them from the yoke of the present technoindustrial system". He goes on to talk about a reverence to nature, rejection of civilization, and a change in the relationship among material goods which no longer values their acquisition (because of the rejection of the relationship of private property).
 
 Most analysis the first luddite movement, the famous secret society that destroyed machines, claims it was craftsmen in fear of losing their jobs. Let's apply our analysis of technology and look deeper.
 
