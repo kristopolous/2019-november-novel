@@ -2,7 +2,7 @@ Technology in the 20th century also had the implication of these three types but
 
 By now this should be expected, that the future is about a reordering of structure and redefinition of terms.
 
-The paradigmatic pattern that was repeated 4 times was as follows:
+The paradigmatic pattern that was repeated 4 times in the 20th century was as follows:
 
  * A new communication tool is invented
  * Commercialization on it is initially forbidden or nascent
@@ -27,9 +27,9 @@ The four structures and substructures are as follows
 
 These all developed along similar patterns with similar processes and similar results.
 
-The first example will be the bridging technology between the two centuries, the rise of the daily newspaper.
+To put the 20th century in context however, we're going to stick with the 19th for a bit longer with a tool which has mostly dissappeared from the landscape: the common newspaper.
 
-The future shaping impact of the daily newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
+The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
 Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
 
