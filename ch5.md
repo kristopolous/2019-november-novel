@@ -62,15 +62,15 @@ In 1990, Chellis Glendinning published "Notes towards a Neo-Luddite manifesto" a
 
 Ted Kaczynski, in his Unabomber manifesto said a similar thing, calling for "new values that will free them from the yoke of the present technoindustrial system". He goes on to talk about a reverence to nature, rejection of civilization, and a change in the relationship among material goods which no longer values their acquisition (because of the rejection of the relationship of private property).
 
-Most analysis the first luddite movement, the famous secret society that destroyed machines, claims it was craftsmen in fear of losing their jobs. Let's apply our analysis of technology and look deeper.
+Most analysis the first Luddite movement, the famous secret society that destroyed machines, claims it was craftsmen in fear of losing their jobs. Let's apply our analysis of technology and look deeper.
 
-Its namesake is after a man who may or may not have existed, Ned Ludd, who by the time the namesake of Luddite, had been adopted, had been developed into a robin hood like character.  Magistrates, merchants, and proto-industrialists received death threats and were attacked. The machines were destroyed possibly because they represented great investments and a conveniently exposed target.
+Its namesake is after a man who may or may not have existed, Ned Ludd, who by the time "Luddite" had been adopted had been developed into a robin hood like character.  The Luddites sent magistrates, merchants, and proto-industrialists death threats and attacked them. The machines were destroyed possibly only because they represented great investments and were a conveniently exposed target.
 
-It was part of the long arc of labor struggle in the 19th century.  Labor being the people, process, and tools - the act of technology. The struggle is once again, about trying to redirect the goals and establish new ones.
+It was part of the long arc of labor struggle in the 19th century.  Labor being the people, process, and tools - the act of technology. The struggle is once again, about trying to redirect the existing goals and establish new ones.
 
-This act of destroying and disrupting current systems in the namesake of new ones is inherently a future oriented act. 
+This act of destroying and disrupting current systems in the namesake of new ones is inherently a future oriented act whether it's done by releasing a hot new product or storming the statehouse, it's ultimately the same process.
 
-When viewed in this lens, it is the close cousin of another British movement in the exact same era called the "March of Intellect".
+When viewed in this lens, Luddism is the close cousin of another British movement in the exact same era called the "March of Intellect".
 
 The tools of the industrial revolution reoriented the goals of people and processes leading to an increase in literacy along with printed literature and education. The price of education and the price of literature became attainable to a much larger segment of the population.
 
