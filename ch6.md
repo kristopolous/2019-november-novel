@@ -27,6 +27,7 @@ The first example will be the bridging technology between the two centuries, the
 The daily newspaper was only possible in a society of literate, same language people. The people had to have acquired the skills to read, the process of the newsroom had to exist, and the tools of the mechanical typesetting machine and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
 Radio, casettes
+Xeeox machine, 60s protest, zines
 print, bernays propaganda
 television, rothchilds stock manipulation
 the internet, arab spring
