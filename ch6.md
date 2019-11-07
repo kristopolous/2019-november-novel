@@ -33,7 +33,7 @@ The future shaping impact of the newspaper was only possible in a society of lit
 
 Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
 
-But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material, existed.
+But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
 
 In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, led to the introduction of a "penny press".  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
 
