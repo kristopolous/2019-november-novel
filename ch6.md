@@ -14,13 +14,18 @@ The paradigmatic pattern that was repeated 4 times was as follows:
 The four structures and substructures are as follows
 
  1. One way radio
-   a. Mass produced audio recordings
+    a. Mass produced audio recordings
  2. Television
-   b. Mass produced video recordings
+    b. Mass produced video recordings
  3. Two way radio and eventually cell phones
  4. Online services and the internet
 
 These all developed along similar patterns with similar processes and similar results.
+
+The first example will be the bridging technology between the two centuries, the rise of the daily newspaper.
+
+The daily newspaper was only possible in a society of literate, same language people. The people had to have acquired the skills to read, the process of the newsroom had to exist, and the tools of the mechanical typesetting machine and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
+
 Radio, casettes
 print, bernays propaganda
 television, rothchilds stock manipulation
