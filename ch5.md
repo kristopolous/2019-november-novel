@@ -88,7 +88,7 @@ The critics and advocates of both movements (Luddites and March of Intellect) ma
 
 The deep interconnectedness of the three pieces inherent ability to affect each other either  intentionally or merely consequentially was obvious to the Luddites, political parties and other social movements in 19th century British society. The Industrial Revolution was fundamentally discontinuous: one of people, process, *and* tools. This meant that for a while, the new power relationships that these dynamics implicated were not only completely undefined but also, due to its disruptive nature, fundamentally undefinable.
 
-This is the nature of connection between the modern Neoluddites and a fundamental anarchism: it's not a return to the past, it's a liberation from it.
+This is the nature of connection between the modern Neoluddites and a fundamental anarchism: it's not a return to the past, it's a liberation from it. Different strains of anarchist or anarchist-leanings can be found in many of the technological disruptions since the 1800s.
 
 Understanding how this system of disruption, death, and rebirth happens is the key to understanding the potential and interplay between technology and future. In the following chapters we'll go more into the principles which guide processes to define a future worth building.
 
