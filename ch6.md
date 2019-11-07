@@ -61,7 +61,7 @@ That is future, that is technology. That is tomorrow.
 |:--:|
 | *The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848* |
 
-As the media companies that came after it, the newspaper at one time, was poised to become the Silicon Valley of its era.
+As the media companies that came after it, the newspaper, in this time, was poised to become the Silicon Valley of its era due to the interaction of the three columns of techology.
 
 Cutting-edge tools and processes allowed for photographs to be included in newspapers through various engraving techniques, effectively tracing a photograph onto an engraving plate.  The first photograph to be used in a paper was of war barricades out of Paris in 1848, taken June 25, 1848, "Barricades rue Saint-Maur. Avant l'attaque" and included in L'Illustration in 1-8 July of that year.
 
