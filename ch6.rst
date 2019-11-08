@@ -97,6 +97,6 @@ It was home to some of the earliest examples of skyscrapers. In the same way tha
    This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
 
 .. [#] Economic reproduction is a technical term from Marxist Economics covering the entire product lifecycle of production, distribution, circulation, and consumption. Also see Tableau économique from Quesnay for materialist examples.
-.. [#] J. Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
-.. [#] B. Kovarik, "Revolutions in Communication: Media History from Gutenberg to the Digital Age" 
+.. [#] J Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
+.. [#] B Kovarik, "Revolutions in Communication: Media History from Gutenberg to the Digital Age" 
 .. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
