@@ -70,7 +70,7 @@ That is future, that is technology. That is tomorrow.
 .. figure:: /assets/newspaper_market.jpg
    :alt: Newspaper market
 
-   The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848
+   The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848.
 
 As the media companies that came after it, the newspaper, in this time, was poised to become the Silicon Valley of its era due to the interaction of the three columns of techology.
 
@@ -86,7 +86,7 @@ At the beginning of the war, in 1853, it took about 4 days for news to reach Lon
 
 This is a 25-fold speed increase in 2 years. Like the French revolution, the Crimean war became a significant news event.  For London, so much so, that it led to the ascension of one of the british commanders, Viscount Palmerston, to the cabinet of Prime Minister.
 
-The tech boom was underway and reality was being redefined
+The tech boom was underway and reality was being redefined.
 
 As the century went on, large newspaper empires formed and some of the wealthiest people of the 19th century came to their riches from the newspaper or the manipulation of it.
 
@@ -97,9 +97,10 @@ Apparently, reality doesn't actually effect the quality. Since we are in the pur
 The people who actually did make their millions in newspapers, in the US, occupied a part of manahatten known as Park Row.
 It was home to some of the earliest examples of skyscrapers. In the same way that people today speak of the flashy wealth and future orientation of the tech giants, at the late 19th century, the same thing was said about the newspaper giants.
 
-| ![Park row](/assets/park_row.jpg) |
-|:--:|
-| *This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.* |
+.. figure:: /assets/park_row.jpg
+   :alt: Park Row
+
+   This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
 
 
 Radio, casettes
