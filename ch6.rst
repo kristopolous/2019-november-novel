@@ -10,7 +10,7 @@ The paradigmatic pattern that was repeated 4 times in the 20th century was as fo
 4. Commercialization and a gold rush commences
 5. The technology upends previously unacknowledged structures and creates new ones
 6. New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
-7. Usually a second, smaller scale imitation wave happens decades later as the *economic reproduction*[#]_ becomes democratized
+7. Usually a second, smaller scale imitation wave happens decades later as the *economic reproduction* [#]_ becomes democratized
 
 The four structures are as follows
 
@@ -29,7 +29,7 @@ Newspapers, defined as a periodic, universal, publicly accessible, and current (
 
 But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
 
-In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, led to the introduction of a "penny press".  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
+In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, and a steam-powered as opposed to a hand-powered press, led to the introduction of a "penny press".[#]_  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
 
 The penny press captured a new emerging market, due to being 83% less costly, and covered different material than what was targeted towards the upper class such as sports, crime news, and gossip. Their variations today would be closest to tabloids.
 
@@ -97,5 +97,6 @@ It was home to some of the earliest examples of skyscrapers. In the same way tha
    This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
 
 .. [#] Economic reproduction is a technical term from Marxist Economics covering the entire product lifecycle of production, distribution, circulation, and consumption. Also see Tableau économique from Quesnay for materialist examples.
-.. [#] Johannes Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
+.. [#] J. Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
+.. [#] B. Kovarik, "Revolutions in Communication: Media History from Gutenberg to the Digital Age" 
 .. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
