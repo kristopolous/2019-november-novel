@@ -10,19 +10,13 @@ The paradigmatic pattern that was repeated 4 times in the 20th century was as fo
 4. Commercialization and a gold rush commences
 5. The technology upends previously unacknowledged structures and creates new ones
 6. New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
-7. A second, smaller scale wave happens at the end of the technological relevance curve
+7. Usually a second, smaller scale imitation wave happens decades later as the *economic reproduction*[#]_ becomes democratized
 
-The four structures and substructures are as follows
+The four structures are as follows
 
 1. One way radio
-
-    a. Mass produced audio recordings
-
 2. Television
-
-    b. Mass produced video recordings
-
-3. Two way radio and eventually cell phones
+3. Cell phones
 4. Online services and the internet
 
 These all developed along similar patterns with similar processes and similar results.
@@ -84,7 +78,7 @@ As discussed in Chapter 3, it was Fenton's audacity, absurdity, intention, and c
 
 At the beginning of the war, in 1853, it took about 4 days for news to reach London. In 1854, a new telegraph to the French coast reduced it to 2 days and the following year, an undersea cable reduced it to a few hours.  
 
-This is a 25-fold speed increase in 2 years. Like the French revolution, the Crimean war became a significant news event.  For London, so much so, that it led to the ascension of one of the british commanders, Viscount Palmerston, to the cabinet of Prime Minister.
+This is a 25-fold speed increase in 2 years. Like the 2nd French Revolution, the Crimean War became a significant news event.  For London, so much so, that it led to the ascension of one of the british commanders, Viscount Palmerston, to the cabinet of Prime Minister.
 
 The tech boom was underway and reality was being redefined.
 
@@ -102,14 +96,6 @@ It was home to some of the earliest examples of skyscrapers. In the same way tha
 
    This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
 
-
-Radio, casettes
-Xeeox machine, 60s protest, zines
-print, bernays propaganda
-television, rothchilds stock manipulation
-the internet, arab spring
-Frankestien, The Steam Man of the Prairies, RUR 
-extraction is just rearrangement
-
+.. [#] Economic reproduction is a technical term from Marxist Economics covering the entire product lifecycle of production, distribution, circulation, and consumption. Also see Tableau économique from Quesnay for materialist examples.
 .. [#] Johannes Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
 .. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
