@@ -25,11 +25,11 @@ To put the 20th century in context however, we're going to stick with the 19th f
 
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
-Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605.[#]_ By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
+Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. [#]_ By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
 
 But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
 
-In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, and a steam-powered as opposed to a hand-powered press, led to the introduction of a "penny press".[#]_  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
+In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, and a steam-powered as opposed to a hand-powered press, led to the introduction of a "penny press". [#]_  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
 
 The penny press captured a new emerging market, due to being 83% less costly, and covered different material than what was targeted towards the upper class such as sports, crime news, and gossip. Their variations today would be closest to tabloids.
 
@@ -47,7 +47,7 @@ In 1843, a Parisian newspaper named *La Réforme* started publication. Some of t
 
 Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx as a journalist writing for a Paris paper.
 
-After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government.[#]_ The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
+After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. [#]_ The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
 
 These publics had assumed the future as depicted by these journalists using these technologies could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
 
