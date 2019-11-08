@@ -31,7 +31,9 @@ To put the 20th century in context however, we're going to stick with the 19th f
 
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
-Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
+Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605.[#] By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
+
+.. [#] Johannes Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
 
 But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
 
@@ -51,11 +53,13 @@ This groundwork of people, process, and tool technology should now be in place f
 
 In 1843, a Parisian newspaper named *La Réforme* started publication. Some of the regular contributors included Karl Marx (who later became the editor of his own paper, *Neue Rheinische Zeitung* in 1848), Pierre-Joseph Proudhon, the first person to call himself an anarchist, and a journalist at three other newspapers, and Mikhail Bakunin, regarded as one of the most important anarchists in the 19th century.
 
-Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx, as a journalist writing for a Paris paper.
+Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx as a journalist writing for a Paris paper.
 
-After the success of the 1848 French revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. The disruptive technologists in a disrupted society were put in charge of controlling it, at the urgings of the public. 
+After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government.[#] The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
 
-These publics had assumed the future, as depicted by these journalists using these technologies, could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
+.. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
+
+These publics had assumed the future as depicted by these journalists using these technologies could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
 
 As Reid Hoffman explains in Blitzscaling, the skills to create a future, the skills to administrate a future, and the skills to control a future, are different stages of an innovation cycle and most likely, the jobs of different people.
 
