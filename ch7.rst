@@ -1,14 +1,15 @@
 In understanding how the technology of newspapers came together in the 19th century we can use the model on each successive medium of the 20th century.
 
 
-====        ====          ====        ====        ====
+=========== ============  ==========  ==========  ========
 Technology  Start of Use  Mainstream  Disruption  2nd wave
-====        ====          ====        ====        ====
+=========== ============  ==========  ==========  ========
 Newspaper   1600          1820        1840        1960
 Radio       1900          1920        1930        1960
 Television  1920          1950        1960        2010
 Internet    1960          1990        2010        not yet
 Cell phones 1980          1990        2010        not yet
+=========== ============  ==========  ==========  ========
 
 Online 
 1. Radio
