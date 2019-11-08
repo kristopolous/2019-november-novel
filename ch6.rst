@@ -4,26 +4,26 @@ By now this should be expected, that the future is about a reordering of structu
 
 The paradigmatic pattern that was repeated 4 times in the 20th century was as follows:
 
- * A new communication tool is invented
- * Commercialization on it is initially forbidden or nascent
- * It is seen as a March of Intellect with the ability to upend old structures and enlighten the masses
- * Commercialization and a gold rush commences
- * The technology upends previously unacknowledged structures and creates new ones
- * New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
- * A second, smaller scale wave happens at the end of the technological relevance curve
+1. A new communication tool is invented
+2. Commercialization on it is initially forbidden or nascent
+3. It is seen as a March of Intellect with the ability to upend old structures and enlighten the masses
+4. Commercialization and a gold rush commences
+5. The technology upends previously unacknowledged structures and creates new ones
+6. New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
+7. A second, smaller scale wave happens at the end of the technological relevance curve
 
 The four structures and substructures are as follows
 
- 1. One way radio
+1. One way radio
 
     a. Mass produced audio recordings
 
- 2. Television
+2. Television
 
     b. Mass produced video recordings
 
- 3. Two way radio and eventually cell phones
- 4. Online services and the internet
+3. Two way radio and eventually cell phones
+4. Online services and the internet
 
 These all developed along similar patterns with similar processes and similar results.
 
@@ -31,9 +31,7 @@ To put the 20th century in context however, we're going to stick with the 19th f
 
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
-Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605.[#] By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
-
-.. [#] Johannes Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
+Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605.[#]_ By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
 
 But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
 
@@ -45,9 +43,9 @@ Wood pulp pressing was developed in the 1840s to further reduce costs and increa
 
 This meant by the 1840s we had 
 
- * people skills: public literacy and a skill of sensationalist writing towards a mass audience 
- * process: a financial model based on advertising, simple language, and daily publications
- * tools: mass print machines, photography, railroads, and the telegraph
+- People skills: public literacy and a skill of sensationalist writing towards a mass audience 
+- Process: a financial model based on advertising, simple language, and daily publications
+- Tools: mass print machines, photography, railroads, and the telegraph
 
 This groundwork of people, process, and tool technology should now be in place for a realignment of goals, a disruption of process, and a new dynamic to emerge. Furthermore, these technologies, some in the works for 200 years, would not have been able to have affected things independently.
 
@@ -55,9 +53,7 @@ In 1843, a Parisian newspaper named *La Réforme* started publication. Some of t
 
 Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx as a journalist writing for a Paris paper.
 
-After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government.[#] The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
-
-.. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
+After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government.[#]_ The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
 
 These publics had assumed the future as depicted by these journalists using these technologies could be administered by them.  This wasn't the last time such a projection of assumption of ability was made of the technological opportunists of the era. 
 
@@ -71,9 +67,10 @@ Papers with news from Paris were stocked on the newly constructed inter-city Eur
 
 That is future, that is technology. That is tomorrow.
 
-| ![Newspaper market](/assets/newspaper_market.jpg) |
-|:--:|
-| *The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848* |
+.. figure:: /assets/newspaper_market.jpg
+   :alt: Newspaper market
+
+   The news from Paris became the primary business of Paris, as hundreds of small papers prepare publications for the trains in the middle of the night, from L'Illustration, Journal Universel, 1848
 
 As the media companies that came after it, the newspaper, in this time, was poised to become the Silicon Valley of its era due to the interaction of the three columns of techology.
 
@@ -112,3 +109,7 @@ television, rothchilds stock manipulation
 the internet, arab spring
 Frankestien, The Steam Man of the Prairies, RUR 
 extraction is just rearrangement
+
+.. [#] Johannes Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
+
+.. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
