@@ -15,7 +15,7 @@ Is having an intended specific goal even possible or is it, at its best, inheren
 
 What is technology and what role does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build? Have previous futures fundamentally changed the nature of being human?
 
-Are reactionary political imaginaries supposedly of past worlds truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language? Does this implicate that future, whatever it is, has an unstoppable alway present velocity and our only mechanism of influence is upon its steering wheel?
+Are reactionary political imaginaries supposedly of past worlds truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language? Does this implicate that future, whatever it is, has an unstoppable always present velocity and our only mechanism of influence is upon its steering wheel?
 
 This book is my attempt to document my 15 or so years in my analysis of this style of interrogation about future and futurism.
 
