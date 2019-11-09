@@ -33,18 +33,18 @@ The hope is to be able to empower people to help forefront ideas and perspective
 
 Let me close the Introduction with a bit of poetry I wrote about 10 years ago, early on in my thoughts about the matter:
 
-  Well there may be no rocket cars
-  and perhaps no life on Mars
-  but a billion bytes for half a dime
-  is future enough for me.
-
-  I haven't got a servant robot
-  or sleep atop the thousandth floor
-  But with the whole world in my pocket
-  How could I ask for more?
-
-  So when you think the future's bust
-  and it was all just smoke and mirrors
-  I say it's come, and yes it's here,
-  We just all decided to switch gears.
+  | Well there may be no rocket cars
+  | and perhaps no life on Mars
+  | but a billion bytes for half a dime
+  | is future enough for me.
+  |
+  | I haven't got a servant robot
+  | or sleep atop the thousandth floor
+  | But with the whole world in my pocket
+  | How could I ask for more?
+  |
+  | So when you think the future's bust
+  | and it was all just smoke and mirrors
+  | I say it's come, and yes it's here,
+  | We just all decided to switch gears.
 
