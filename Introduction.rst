@@ -1,4 +1,7 @@
-Why does 1/5th of the way into the 21st century feel like one continuous ride? Why is it when we think of life 50 years ago, it doesn't really seem that different except for smartphones? Was that all we did?
+Introduction
+============
+
+Why does one-fifth of the way into the 21st century just feel like it's been one continuous slow ride over the past half a century? Why is it when we think of life 50 years ago, it doesn't really seem that different except for smartphones? Was that all we did?
 
 What happened to our promised future? Fusion energy, automated flying cars, and commercial space travel through the galaxy? We have none of this.
 
