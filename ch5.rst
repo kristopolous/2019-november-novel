@@ -1,4 +1,6 @@
-## Technology: the first 5,000 years
+=================================
+Technology: the first 5,000 years
+=================================
 
 The biggest insight to help understand technology is first to understand property in the context of gift economies. 
 
@@ -32,7 +34,8 @@ For example, the Catholic Church has people, processes, and physical objects tha
 
 The US Constitution, as a document, is another piece of technology - originally defining people, processes, and the relationship of physical objects, called property. 
 
-### What is the future?
+What is the future?
+===================
 
 If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals or a different manifestation in service of higher level goals?
 
@@ -52,7 +55,8 @@ The essence of future is a deviation and disruption in process, craft, or tool i
 
 For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
 
-### Anti-technology is also about building futures
+Anti-technology is also about building futures
+==============================================
 
 With the expanded framework of technology, we can see that anti-technology is instead of a return to the past, the baseline requirements to boldly redirect how no man has redirected before and orient the 3 sets of techology around a different locus of goals.
 
@@ -78,9 +82,10 @@ Along with that there were new institutions such as coffee houses (as opposed to
 
 The societal, social, and political implications of this technology along with the potential power disruption wasn't lost on the people of the time. Some (such as the Liberal Whigs) advocated for only disseminating "useful" information with the operative "useful" being a fluid, debated term.  There was other concerns that over-education, as in a training of new processes to guide relationships, would lead to a reduction in moral fibre and social unrest, leading to a disruptive innovation in the technology of government (which eventually happened in 1848).
 
-| ![march of intellect](/assets/march_of_intellect.jpg) |
-|:--:|
-| *The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour* |
+.. figure:: /assets/march_of_intellect.jpg
+   :alt: March of intellect
+   
+   The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour
 
 The core hypothesis of the March of Intellect in the context of the Industrial Revolution was that the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  
 
