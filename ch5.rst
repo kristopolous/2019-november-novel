@@ -91,17 +91,6 @@ The core hypothesis of the March of Intellect in the context of the Industrial R
 
 The critics and advocates of both movements (Luddites and March of Intellect) made the same admittance by the nature of their actions: The power dynamic that guides the direction and flow of these mechanisms of relationships known as technology has a logical arrangement that is an artifact of circumstances in history which was at risk of being obsoleted and supplanted. The potential is that any column (people, process, tools) of technology in its act of goal redirection can lead to a disconnection from the structure of this past and ultimately lay a foundation for a form of liberation and power rearrangement in the future.
 
-This sentiment can be seen in many places. For instance, Alvin Toffler, in his 1970 work Future Shock (in the chapter deriding this phenomena through the euphemism "Things: The Throw-away Society"), quoted Louis Auchincloss:
-
-  The horror of living in New York is living in a **city without a history** ... All eight of my great-grand-
-  parents lived in the city ... and only one of the
-  houses they lived in ... is still standing. That’s what
-  I mean by the **vanishing past**. (emphasis added)
-
-The NIMBYist foot-dragging espoused by such philosophies aren't against the objects themselves, instead it's the same effect as the March of Intellect detractors, a fear of a possible disruption of the mechanism of relationships among people and their environment, which we call technology. 
-
-The suggestion of potential power disruption merely, in this case, through the sybmolic gesture of changing things, is agressively fought by those who sit upon wobbly thrones. In a 2018 survey of 97 cities, Katherine Einstein found that those who were against housing developments had been in the community on average 5 years longer, were 8 years older, and 97% white. It is those who have enjoyed preferential treatment as a confluence of circumstances, luck, and arrangement who are the most active against a velocity of change because of this interconnectedness.
-
 The deep interconnectedness of the three pieces inherent ability to affect each other either intentionally or merely consequentially was obvious to the Luddites, political parties and other social movements in 19th century British society. The Industrial Revolution was fundamentally discontinuous: one of people, process, *and* tools. This meant that for a while, the new power relationships that these dynamics implicated were not only completely undefined but also, due to its disruptive nature, fundamentally undefinable.
 
 This is the nature of connection between the modern Neoluddites and a fundamental anarchism: it's not a return to the past, it's a liberation from it. Different strains of anarchist or anarchist-leanings can be found in many of the technological disruptions since the 1800s.
