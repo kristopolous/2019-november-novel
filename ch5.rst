@@ -26,7 +26,7 @@ When people complain about how a difficult device is a challenge to use, they'll
 
 Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
 
-When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
+When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne(the root word which means those things: arts, crafts, techniques)-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
 
 There's three groups of technology: people (ex: skills, crafts, abilities), process (ex: relationships, responsibilities, institutions), and physical objects (ex: computers, tools, airplanes). These can be orchestrated towards a goal if they are the right kinds of people, processes, and physical objects capable of collectively reaching that end together.
 
