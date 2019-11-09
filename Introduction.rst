@@ -1,14 +1,16 @@
-Why does 1/5th of the way into the 21st century feel like one continuous ride?
+Why does 1/5th of the way into the 21st century feel like one continuous ride? Why is it when we think of life 50 years ago, it doesn't really seem that different except for smartphones? Was that all we did?
 
 What happened to our promised future? Fusion energy, automated flying cars, and commercial space travel through the galaxy? We have none of this.
 
-Did a future ever happen? Will it ever happen? Are we arlready living in one? How can we build the next? Are some futures more valuable than others? How is the nexus of values contoured in our collectively imagined worlds of tomorrow?
+Did any future ever happen? Will it ever happen? Could we already be living in one and just not realize it? 
 
-Is there a blueprint or a guide that can help us with actualizing this future stuff?  What methods or processes of creating futures work better than others? How do we structure efforts around it? Is that even possible or is it, at its best, inherently undefinable?
+How can we build the next future? Are some futures more valuable than others? How would such a nexus of values be contoured in our collectively imagined worlds of tomorrow?
 
-What is technology and what roles does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build?
+Is there a blueprint or a guide that can help us with actualizing this future stuff?  Are there methods or processes of creating futures that work better than others? If so, how do we structure efforts around them and continually validate that we are going where we intend to? Is that even possible or is it, at its best, inherently undefinable? If it is inherently undefinable does that mean it's also inherently inactionable or at best, no better than random shots in the dark?
 
-Are reactionary political imaginaries supposedly of past worlds lost truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language?
+What is technology and what roles does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build? Have future fundamentally changed the nature of being human?
+
+Are reactionary political imaginaries supposedly of past worlds lost truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language? Does this implicate that future, whatever it is, has an unstoppable alway prsent velocity and our only mechanism of influence is upon its steering wheel?
 
 This book is my attempt to document my 15 or so years of in my analysis of this style of interrogation about future and futurism.
 
