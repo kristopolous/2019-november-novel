@@ -68,4 +68,27 @@ In the next chapter we'll go over how the technology of screens on top of cars i
 
 Additionally, I'll discuss how the product encompasses all those properties and how I've structured the team that is creating it around these principles.
 
-It's November 3rd, the product is going live on December 1st. This is all being written beforehand. We can see how this goes together.
+10-20-30 year rule
+==================
+
+In the early 2000s, I distinctly remember two events:
+
+ * the first time I saw a color cell phone that could take a picture
+ * the first time I saw a car stereo system with a touch screen
+
+I remember feeling the level of engagement felt like an old computer.  I started cataloging these migrations. When things went from:
+
+ * no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
+ * no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
+ * no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
+
+Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects. The costs were reduces, societies engagement with the object became more diverse and the objects themselves played a greater role in our lives.
+
+I coined this as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The tool itself, in this case, the computer, is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers.  For instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory.
+
+The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th class are things with limited engagement such as microwaves, refrigerators and greeting cards.
+
+Seeing such things as "behind the times" is an inaccurate, not future-oriented portrayel. Instead, the dissemination and integration of future stuff has a long-term transformative effect which ripples downmarket like the shockwave of an earthquake. But at every point in that downmarket, a new visionary approach has to be realized to justify its existence.  For instance, a sophisticated color touch-screen microwave would need a new justifiable reason for it to exist.
+
+Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer
+
