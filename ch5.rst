@@ -18,6 +18,12 @@ The microscope was key in understanding diseases and how humans related with the
 
 Marx called this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object.
 
+Some people are still unconvinced of the encompassing definition of technology as something that doesn't use fuel or physics or plug into a wall. I'm going to show how that's an artificial confinement of how we choose to think about technology and not a core requirement of it. 
+
+Think about how it's used. Before an engineer automates a task, they often have people do a manual, traditional version and then automate the parts that are necessary when it's necessary. Are only the software parts here technology or is the entire approach a form of technology? 
+
+When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is too say, the human process with the tool because that's also part of the technology.
+
 Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
 
 When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
