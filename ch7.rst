@@ -46,3 +46,6 @@ Most of the complaints of the NIMBYist movement can be seen as a fear of disrupt
 
 Unlike the Luddites and futurists, the NIMBYs which have been characterized in the UK as BANANAs (Build Absolutely Nothing Anywhere Near Anything) and in the US as CAVE (Citizens Against Virtually Everything) people are for an unearned petty aristocracy incapable of future imaginaries beyond the vagaries of fears. Their forms of absurdity, intention, audacity, and coherency contain a bold vision of stasis.  Their fight for an illusion of perpetuity is in some way, more ambitious than any future oriented thinking; they are trying to stop the inertia of tomorrow.
 
+If they own property, the development will supposedly decrease prices but if they rent, it will supposedly increase prices. It will both increase the lines and busyness of a place while simultaneously putting it out of business. The reason this contradictory nature isn't a problem is because the given reasons aren't real concerns to begin with.  The imagination of change fogs their mind and fundamentally disorients them.
+
+When presented as a continuity and not a fundamental disruption, however, there is no NIMBY response. By making things not appear divergent, this opposition disappears.
