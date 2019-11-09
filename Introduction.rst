@@ -9,13 +9,15 @@ Did any future ever happen? Will it ever happen? Could we already be living in o
 
 How can we build the next future? Are some futures more valuable than others? How would such a nexus of values be contoured in our collectively imagined worlds of tomorrow?
 
-Is there a blueprint or a guide that can help us with actualizing this future stuff?  Are there methods or processes of creating futures that work better than others? If so, how do we structure efforts around them and continually validate that we are going where we intend to? Is that even possible or is it, at its best, inherently undefinable? If it is inherently undefinable does that mean it's also inherently inactionable or at best, no better than random shots in the dark?
+Is there a blueprint or a guide that can help us with actualizing this future stuff?  Are there methods or processes of creating futures that work better than others? If so, how do we structure efforts around them and continually validate that we are going where we intend to? 
 
-What is technology and what roles does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build? Have future fundamentally changed the nature of being human?
+Is having an intended specific goal even possible or is it, at its best, inherently undefinable? If it is inherently undefinable does that mean it's also inherently inactionable or no better than random shots in the dark?
 
-Are reactionary political imaginaries supposedly of past worlds lost truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language? Does this implicate that future, whatever it is, has an unstoppable alway prsent velocity and our only mechanism of influence is upon its steering wheel?
+What is technology and what role does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build? Have previous futures fundamentally changed the nature of being human?
 
-This book is my attempt to document my 15 or so years of in my analysis of this style of interrogation about future and futurism.
+Are reactionary political imaginaries supposedly of past worlds truly regressive in nature or are they actually strong and bold future oriented visions spoken in a different shared common language? Does this implicate that future, whatever it is, has an unstoppable alway present velocity and our only mechanism of influence is upon its steering wheel?
+
+This book is my attempt to document my 15 or so years in my analysis of this style of interrogation about future and futurism.
 
 I've divided the work into three sections:
 
