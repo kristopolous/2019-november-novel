@@ -1,4 +1,4 @@
-Part 1. The Anatomy of a Future
+I. The Anatomy of a Future
 
   1. What is technology?
 
@@ -10,7 +10,7 @@ Part 1. The Anatomy of a Future
 
   5. The reach for possible futures
 
-Part 2. Futures Past
+II. Futures Past
 
   1. The many ends of history
 
@@ -22,7 +22,7 @@ Part 2. Futures Past
 
   5. Radio, television, and the internet
 
-Part 3. Constructing Tomorrows
+III. Constructing Tomorrows
 
   1. Calibrating a vision
 
