@@ -6,27 +6,31 @@ The Anatomy of a Future
 1 What is technology?
 ---------------------
 
-When faced with this problem many first give the answer to a different question: "What are examples of technologies".  They'll point to modern tools such as computers or automobiles.
+When faced with this question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
 
-When pressed to go further, often I'll get "something that improves our lives" or "tools that are manufactured".
+When pressed to go further, often a more abstract answer will be presented, such as "something that improves our lives" or "tools that are manufactured".
 
-This class of answers presents a problem: Did techology exist before say, 1800? What about 1000 BC?
+This class of answers presents a problem: Did techology exist before say, 1800 CE? What about prior to 1000 BCE?
 
-Most then come back with the acknowledgement that spears and weapons, those are technologies as well. So they're tools.
+Most then come back with the acknowledgement that spears and weapons, those are technologies as well. So that means technology is tools. 
 
-Alright, so now we have physical tools.
+Alright, so now we have physical tools as technology. IS that all it is?
 
-Here's another problem and we'll explore it first by looking at related words: technical, technique, and technology. What about the advancement in germ theory that led to medicine doing the simple task of sterilization, is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used, is that too, the act of cleaning tools, also a technology?
+What about the advancement in germ theory that led to medicine doing the simple task of sterilization, is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used, is that too, the act of cleaning tools, also a technology?  
 
 What about the skills to do it.  Surely different methods have different outcomes and different results.  The shephearding of the tools between the cleaning and use and the mechanisms for doing that, aren't those also technologies?
 
 Do all of these things appear to follow roughly the same paths of improvements and refinements? When we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease, the classifications, the systems for dealing with it?
 
-Isn't technology then, really a kind of system?  Is it an abstraction of thought with many manifestations? What isn't it?
+Isn't technology then, really a kind of system?  Is it an abstraction of thought with many manifestations? What isn't it? For instance, most would agree the act of building a computer is an act of technology but the act of writing a novel on the building of the computer is not.  What if it was Miguel de Cervantes writing the European first novel, Don Quixote, in 1605? Would the innovation of being the first novel thus make it a technological act?
 
-The biggest insight to help me understand technology came from an unusual place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrafice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen to for no obvious reason, just give the animals away to someone else and then leave. 
+Let's look at words related to technology: technical, and technique. Those two words are much more about process and craft. They are transitive in nature and transitioning in intent. Technical is about a richer understanding and technique is about a richer manipulation.  What is technology then?
 
-This is possible because unlike in market economies, which I assume everyone is familiar with, a gift economy has a different definition of property is than what we are accustomed to. For instance, in property law of market economies, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
+The biggest insight to help me understand these problems and what technology is actually came from an unusual place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrafice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen, for no obvious immediate reason, to just give the animals away to someone else in a grand elaborate ceremony with no materials exchanged in return and then the gift giver would leave.  
+
+In fact, in many instances, there was no separate market economy of exchange. This was the only mechanism of exchange. What is going on here?
+
+Unlike in market economies, which I assume everyone is familiar with, a gift economy has a different definition of property than what we are accustomed to. For instance, in property law of market economies, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
 
 Throughout time there's been debate over what is and is not alienable property. The most obvious example is slavery but even today there's debate over whether human organs such as kidneys can be bought and sold. What about the actions of politicians? What about prostitution? There is a fluid idea of what can and cannot participate in a market economy because there's debate over what can be claimed as alienable private property.
 
