@@ -5,3 +5,5 @@ Constructing Tomorrows
 
 1 Calibrating a vision
 ----------------------
+
+As opposed to looking at a trajectory of tools, we need to look at a recursive implementation of a whole technology and its interplay in the three columns
