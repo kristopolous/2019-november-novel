@@ -1,0 +1,73 @@
+Part 1
+======
+The Anatomy of a Future
+=======================
+
+1 What is technology?
+---------------------
+
+When faced with this problem many first give the answer to a different question: "What are examples of technologies".  They'll point to modern tools such as computers or automobiles.
+
+When pressed to go further, often I'll get "something that improves our lives" or "tools that are manufactured".
+
+This class of answers presents a problem: Did techology exist before say, 1800? What about 1000 BC?
+
+Most then come back with the acknowledgement that spears and weapons, those are technologies as well. So they're tools.
+
+Alright, so now we have physical tools.
+
+Here's another problem and we'll explore it first by looking at related words: technical, technique, and technology. What about the advancement in germ theory that led to medicine doing the simple task of sterilization, is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used, is that too, the act of cleaning tools, also a technology?
+
+What about the skills to do it.  Surely different methods have different outcomes and different results.  The shephearding of the tools between the cleaning and use and the mechanisms for doing that, aren't those also technologies?
+
+Do all of these things appear to follow roughly the same paths of improvements and refinements? When we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease, the classifications, the systems for dealing with it?
+
+Isn't technology then, really a kind of system?  Is it an abstraction of thought with many manifestations? What isn't it?
+
+The biggest insight to help me understand technology came from an unusual place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrafice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen to for no obvious reason, just give the animals away to someone else and then leave. 
+
+This is possible because unlike in market economies, which I assume everyone is familiar with, a gift economy has a different definition of property is than what we are accustomed to. For instance, in property law of market economies, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
+
+Throughout time there's been debate over what is and is not alienable property. The most obvious example is slavery but even today there's debate over whether human organs such as kidneys can be bought and sold. What about the actions of politicians? What about prostitution? There is a fluid idea of what can and cannot participate in a market economy because there's debate over what can be claimed as alienable private property.
+
+In gift economies, this fundamental assumption of private, alienable property is up for grabs. An original "owner" can define and have use-rights to what is gifted and may eventually request it returned or may have rights to say, the offspring of the livestock for the benefit of some future generation.  The gift here would constitute an investment.
+
+This leads to the insight that property isn't a thing, it's a relationship among people about things.  This is the most important and counterintuitive concept in understanding the nature of technology for the premise of this book.
+
+In gift economies, the human relationship and social arrangement has primacy and the object known as property is a vehicle for it.  The act of the transfer is about the construction of the relationships. Political economy is about a system of social arrangements. Someone is rich because we have collectively consented to that arrangement.  In many revolutions, this consent is revoked and the nature of the relationships change which implicate the nature of the property change - what we choose to call property and the systems of constraints we place around it is both a symptom and consequence of the human relationships surrounding it.
+
+That means that property is a set of conventions practiced with physical objects. In more traditional economies, there can be restrictions of use through copyrights, patents, and trademarks. There are usually legal ramifications for me to buy a copy of something, create additional copies, and then sell them for profit. We call that theft, which is a violation of the agreed upon property law.
+
+Thus the notion of property is fundamentally a relationship. What can and cannot be property and the rights one can do on their property is also a function of relationships. The rights and liberties surrounding the properties are consequences of these. Someone making money through illegal means for instance, doesn't have the same property protections as someone else making the money through legal means.
+
+If property is the object of relationship, technology is the mechanism of relationships among people and their environment.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself*. In the same way that property is the relationship, technology is a mechanism of that relationship.
+
+A plant growing leaves with medicinal properties isn't itself a technology, the mechanism of using that plant in a medicinal way, that's the technology.  If this plant is cultivated in a way to make that medicinal more effective, the newer plants are objects of technology in the same way that a private thing is an object of property.  The technology is the exercising of these objects.
+
+To illustrate this further, let's use a microscope. The microscope isn't The technology, it's an object of the technology of magnitfication and a mechanism of relationships of using magnification. 
+
+Even if it's just one person using a microscope, making an observation, there's still a fundamental technology relationship. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations. 
+
+The microscope was key in understanding diseases and how humans related with the diseases. The microscope is a device of environmental relationship. 
+
+Marx calls this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object.
+
+Some people are still unconvinced of the encompassing definition of technology as something that doesn't use fuel or physics or plug into a wall. I'm going to show how that's an artificial confinement of how we choose to think about technology and not a core requirement of it. 
+
+Think about how it's used. Before an engineer automates a task, they often have people do a manual, traditional version and then automate the parts that are necessary when it's necessary. Are only the software parts here technology or is the entire approach a form of technology? 
+
+When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is too say, the human process with the tool because that's also part of the technology.
+
+Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
+
+When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne(the root word which means those things: arts, crafts, techniques)-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
+
+There's three groups of technology: people (ex: skills, crafts, abilities), process (ex: relationships, responsibilities, institutions), and physical objects (ex: computers, tools, airplanes). These can be orchestrated towards a goal if they are the right kinds of people, processes, and physical objects capable of collectively reaching that end together.
+
+"People" refers their craft and method. "Process" refers to the rules governing their relationship with others and physical objects are the tools of execution.
+
+When someone says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
+
+This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
+
+For example, the Catholic Church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.

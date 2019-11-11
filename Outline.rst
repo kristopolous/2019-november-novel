@@ -1,4 +1,4 @@
-Part 1. The anatomy of future
+Part 1. The Anatomy of a Future
 
   1. What is technology?
 
@@ -7,6 +7,8 @@ Part 1. The anatomy of future
   3. Constructs and modalities of future-thought
 
   4. The necessity of illusion
+
+  5. The reach for possible futures
 
 Part 2. Futures Past
 

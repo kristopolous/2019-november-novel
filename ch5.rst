@@ -2,41 +2,6 @@
 Technology: the first 5,000 years
 =================================
 
-The biggest insight to help understand technology is first to understand property in the context of gift economies. 
-
-A gift economy has a different definition of property than what we are accustomed to. In property law, the term "alienable" means the ability of property to be completely owned and transferred, usually through buying and selling, ie, private property.  
-
-In gift economies, this assumption is up for grabs, the original "owner" can define and have use-rights and may eventually request it returned.
-
-This leads to the insight that property isn't a thing, it's a relationship among people about things. The human relationship and social arrangement has primacy and the object is a vehicle for it.  Property is a set of conventions practiced with physical objects. In more traditional economies, there can be restrictions through copyrights, patents, and trademarks. Thus the notion of property is fundamentally a relationship. What can and cannot be property and the rights one can do on their property is also a function of relationships. 
-
-Moving on to technology, technology is a mechanism of relationships among people and their environment.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself*. In the same way that property is the relationship, technology is a mechanism.
-
-To illustrate this, let's use a microscope. The microscope isn't The technology, it's just a part of it. Event if it's just one person using it, making an observation, there's still a fundamental relationship, that's the technology. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations. 
-
-The microscope was key in understanding diseases and how humans related with the diseases. The microscope is a device of environmental relationship. 
-
-Marx called this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object.
-
-Some people are still unconvinced of the encompassing definition of technology as something that doesn't use fuel or physics or plug into a wall. I'm going to show how that's an artificial confinement of how we choose to think about technology and not a core requirement of it. 
-
-Think about how it's used. Before an engineer automates a task, they often have people do a manual, traditional version and then automate the parts that are necessary when it's necessary. Are only the software parts here technology or is the entire approach a form of technology? 
-
-When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is too say, the human process with the tool because that's also part of the technology.
-
-Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
-
-When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne(the root word which means those things: arts, crafts, techniques)-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
-
-There's three groups of technology: people (ex: skills, crafts, abilities), process (ex: relationships, responsibilities, institutions), and physical objects (ex: computers, tools, airplanes). These can be orchestrated towards a goal if they are the right kinds of people, processes, and physical objects capable of collectively reaching that end together.
-
-"People" refers their craft and method. "Process" refers to the rules governing their relationship with others and physical objects are the tools of execution.
-
-When someone says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
-
-This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
-
-For example, the Catholic Church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.
 
 The US Constitution, as a document, is another piece of technology - originally defining people, processes, and the relationship of physical objects, called property. 
 
