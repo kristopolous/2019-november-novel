@@ -30,6 +30,8 @@ There is no other cognitive reality beyond belief. We have ornamentation and pro
 
 10-20-30 rule
 
+The trade-off between safety and instability works on all dimensions of those words at once
+
 NIMBYism: The true anti-futurists
 =================================
 
