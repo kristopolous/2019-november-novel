@@ -24,6 +24,10 @@ the internet, arab spring
 Frankestien, The Steam Man of the Prairies, RUR 
 extraction is just rearrangement
 
+Illusions are commitments to perception not constrained by the required integrities of reality.
+They have a specific logic and language and are a rich platform of communicating thought. Like the shadows on Plato's cave or Margtittes Pipe that isn't, their power rests in that they exist on the fundamental unit of human thought, the idea.
+There is no other cognitive reality beyond belief. We have ornamentation and product packaging to try to claim otherwise but thoughts, beliefs, ideas, and knowledge are merely idiomatic separations of process and not different actual stuff.
+
 10-20-30 rule
 
 NIMBYism: The true anti-futurists
