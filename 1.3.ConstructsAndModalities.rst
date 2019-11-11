@@ -4,7 +4,81 @@ Constructs and modalities of future-thought
 > "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination."
 *Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering*
 
-## Future Orienting 
+10-20-30 year rule
+------------------
+
+In the early 2000s, I distinctly remember two events:
+
+ * the first time I saw a color cell phone that could take a picture
+ * the first time I saw a car stereo system with a touch screen
+
+I remember feeling the level of engagement felt like an old computer.  I started cataloging these migrations. When things went from:
+
+ * no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
+ * no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
+ * no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
+
+Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects. The costs were reduces, societies engagement with the object became more diverse and the objects themselves played a greater role in our lives.
+
+I coined this as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The tool itself, in this case, the computer, is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers.  For instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory.
+
+The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th class are things with limited engagement such as microwaves, refrigerators and greeting cards.
+
+Seeing such things as "behind the times" is an inaccurate, not future-oriented portrayel. Instead, the dissemination and integration of future stuff has a long-term transformative effect which ripples downmarket like the shockwave of an earthquake. But at every point in that downmarket, a new visionary approach has to be realized to justify its existence.  For instance, a sophisticated color touch-screen microwave would need a new justifiable reason for it to exist.
+
+Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer
+
+1-9-90: The lifeblood of innovation
+-----------------------------------
+
+I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a company that is trying to make financial games.
+
+The first one, which is the only one that currently pays the bills, will be dealt with in later chapters. The second company is better for introducing some premises here, and it's what I worked on today.
+
+I'm a software developer who recently gained interest in the business world but not out of any deep drive for competition or to make oodles of money. Instead it's how I saw any meaningful change, with engineering contributions, happen in the world.
+
+At the time I was constantly baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it. 
+
+Apple would release a product using a technology which had been around for 15 years, but for some reason, this was the first time people had actually seen it, so they'd falsely attribute innovation to Apple. 
+
+Even in the software development world, where people should know better, I'd read comments gushing over some technology which does effectively the exact same thing as something else which had been in wide use for years, sometimes decades. 
+
+I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all idiots? What gives?"
+
+A number of years ago, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Successfully building a future is 1% idea, 9% implementation, and 90% "marketing".  
+
+Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
+
+In other words, to an engineer in the trenches, success is 90% "bullshit" that shouldn't, but absolutely does matter. I had been missing something.
+
+The claim of 90% is important because it implies that the other part, as in what the thing actually is and what constitutes it, almost doesn't matter at all.
+
+You can see this clearly demonstrated in mid 90s pop music. Take the average boy band: 
+
+  * Their idea: yet another love song, identical to hundreds of others
+  * Their execution: a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. 
+
+Those parts as it turns out, don't actually matter at all. They simply need to exist, their quality and originality play no role.
+
+What the boys looked like, what the music video accompanying it looked like, how it was promoted, this was the only determining factor in the overall success.  This is how humanity actually operates.
+
+To be more specific, some of the hit songs of the era, such as the Fugee's Killing me softly, were just cover songs.  In this case, there had been 75 previous covers of that song spanning back 25 years. 
+
+Obviously the content, originality, idea, none of this mattered. The 76th cover of a 25 year old song was a big hit only because of the marketing, that's why that part constitutes 90%. Most people didn't know it wasn't an original song, especially one that had been covered by hit artists dozens of times. Narrative and truth is a construction of the 4ps of marketing. Objective reality, unless it's materially limiting, if not known, ultimately has no effect.
+
+The 1-9-90 importantly is not a linear process. It's an interaction of different components. Imagine a long beam on a fulcrum that's right near one side so that a little movement on one side creates a huge change on the other.  As a "build-measure-learn" cycle (see The Lean Startup, Eric Reis, 2011) moves, this is the mechanics of the clockwork. Each column informs the other and modifies it accordingly maintaining the multiplier effect implied.
+
+I first noticed this pattern far earlier, probably in the 90s.  For years I was incensed that the world worked this way, where the symbolic pageantry surrounding the thing was the actual thing of engagement while the substantive thing instead acted as a mere edifice upon which these ceremonies took place. Eventually I succumbed to the inanity of culture.
+
+If the actual machinery of the world is constituted by these gears of irrelevance, I might as well discover how they operate. I had a sense early on that trying to shoehorn human action into a framework of rationality required the assumption that people are inherently rational - I had become utterly convinced they weren't.
+
+Instead, I saw emotional, impulsive people responding unpredictably to false and incomplete beliefs all around me.
+
+Rational agency, instead of being inherent to the human condition, is a trained capacity, within the capability of human expression, but not cultivated or expressed as some core constituency.
+
+
+Future Orienting 
+-----------------
 
 Using absurdism as the guiding principle in the creation of future-stuff with thought-stuff requires an intentional exercise of diligence on the practice of absurdism.
 
@@ -70,28 +144,4 @@ Unlike with sustaining innovations or established markets, the product *has to* 
 In the next chapter we'll go over how the technology of screens on top of cars is a disruptive innovation which needs to find emerging markets because it's a downmarket innovation with a different value system for a different, as of yet, unproven demographic of users.
 
 Additionally, I'll discuss how the product encompasses all those properties and how I've structured the team that is creating it around these principles.
-
-10-20-30 year rule
-==================
-
-In the early 2000s, I distinctly remember two events:
-
- * the first time I saw a color cell phone that could take a picture
- * the first time I saw a car stereo system with a touch screen
-
-I remember feeling the level of engagement felt like an old computer.  I started cataloging these migrations. When things went from:
-
- * no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
- * no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
- * no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
-
-Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects. The costs were reduces, societies engagement with the object became more diverse and the objects themselves played a greater role in our lives.
-
-I coined this as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The tool itself, in this case, the computer, is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers.  For instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory.
-
-The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th class are things with limited engagement such as microwaves, refrigerators and greeting cards.
-
-Seeing such things as "behind the times" is an inaccurate, not future-oriented portrayel. Instead, the dissemination and integration of future stuff has a long-term transformative effect which ripples downmarket like the shockwave of an earthquake. But at every point in that downmarket, a new visionary approach has to be realized to justify its existence.  For instance, a sophisticated color touch-screen microwave would need a new justifiable reason for it to exist.
-
-Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer
 
