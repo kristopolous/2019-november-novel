@@ -76,7 +76,13 @@ Peter Kropotkin, a 19th century Russian anarchist, wrote (in English) in his 189
 
 The transmission and aggregation of shared dreams is the foundation of future-thought and is only possible, and still much effort, if all the available parts coalesce.
 
-When someone says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
+The Frankfurt philosopher Jürgen Habermas spoke of this convergence in the Structural Transformation of the Public Sphere, in 1962 (originally in German), when discussing the French Revolution of 1789:
+
+  The bourgeois public sphere may be conceived above all as the sphere of private people come together as a public; they soon claimed the public sphere regulated from above against the public authorities themselves, to engage them in a debate over the general rules governing relations in the basically privatized but publicly relevant sphere of commodity exchange and social labor.
+ 
+The process, tools, and people, as new mechanics of relationships, in the interest of an invented notion of a public sphere, was the key technology which redirected the goals of society and eventually brought down the French Monarchy.
+
+When someone in the world of business says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
 
 This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
 
