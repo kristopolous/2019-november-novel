@@ -70,6 +70,12 @@ There's three groups of technology: people (ex: skills, crafts, abilities), proc
 
 "People" refers their craft and method. "Process" refers to the rules governing their relationship with others and physical objects are the tools of execution.
 
+Peter Kropotkin, a 19th century Russian anarchist, wrote (in English) in his 1899 work Memoirs of a Revolutionary: 
+
+  I began to appreciate the difference between acting on the principle of command and discipline and acting on the principle of common understanding. The former works admirably in a military parade, but it is worth nothing where real life is concerned, and the aim can be achieved only through the **severe effort of many converging wills**.
+
+The transmission and aggregation of shared dreams is the foundation of future-thought and is only possible, and still much effort, if all the available parts coalesce.
+
 When someone says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
 
 This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
