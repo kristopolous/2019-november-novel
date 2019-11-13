@@ -9,15 +9,21 @@ In 1983, Omni magazine published a future almanac, comitting 300 pages to concre
 
 By 2020, we were *supposed* to have 2,000 people living in space, fusion reactors, asteroid mining, and be in anticipation of a new ice age. Also in this book the Soviet Union still exists.
 
-Also notable firsts that did happen, such as the first black president, expansion of gay rights, that most reading would happen over computer screens instead of books, this missed them
+Also notable firsts that did happen, such as the first black president, expansion of gay rights, that most reading would happen over computer screens instead of books, this missed them.
 
-Trajectories, even discontinuous ones, are always easier to predict as the future when compared to the self-referential adaptive mechanisms that actually permute the present and present it as the future.
+I've often wondered what historians will say about our time in a few thousand years.  Will, much like with ancient rome, the century that we're in now, be called, say "The crisis of the 21st century - the great fall" and then depict say, the enlightenment of the 18th century as the high point of civilization, followed by the slow decline that we are in?
 
-Because they have a chaotic dynamic (there's a sensitivity to initial conditions, there's a deep amount of mixing and a periodic power assymetry), futures are achievable as a metric of their "distance" from the present.  
+If the future is around us and not evenly distributed, that future to be distributed to us could as much be the homeless encampment as the driverless electric car. Are we amidst a slow creep of collapse? Is it reversible? Is it necessarily a bad thing?
 
-This distance is the challenge. As Lenin, from the Soviet Union said, "There are decades when nothing happens; and there are weeks when decades happen." or to use the title of a book by Alexei Yurchak about the final years of the Soviet Union "Everything was forever until it was no more".
+One could argue that during the dark ages perhaps people relied on strong communities instead of strong authorities. Perhaps it was a far more pleasant life to be without a king or the project of a political state, without private property or a political impetus to yield a divisiveness among humanity. The value of a tomorrow must not be judged by the context of today.
 
-The Soviet collapse was both obvious and unexpected.  Like a friend who trades stock once told me "The market is going to crash some day soon, but probably not tomorrow."
+But we live in a mileu. That's why trajectories, even discontinuous ones, are always easier to predict as the future when compared to the self-referential adaptive mechanisms that actually permute the present and present it as the future.
+
+Because the technological interlocutors have a chaotic dynamic (there's a sensitivity to initial conditions, there's a deep amount of mixing and a periodic power assymetry), at first glance it looks like the achievability of a future is a metric of their "distance" from the present.  
+
+This distance is not always a challenge. As Lenin, from the Soviet Union said, "There are decades when nothing happens; and there are weeks when decades happen." or to use the title of a book by Alexei Yurchak about the final years of the Soviet Union "Everything was forever until it was no more". Distances here are perceptive based on initial conditions. When the conditions change, the topology of the system mixes differently and the machine cycles in new ways.
+
+In that way, the Soviet collapse was both obvious and unexpected.  Like a friend who trades stock once told me "The market is going to crash some day soon, but probably not tomorrow."
 
 Even though there is a fundamental dynamic of the system that makes it inpenetrable it's the same one that makes it coherently predictable.  This same friend tells me he can draw the future price of any stock on a graph so long as he isn't required to label the axis. The timing of the inevitable is part of the initial condition to the subsequent permutation of the future and determines the affordances to opportunities.
 
