@@ -6,4 +6,6 @@ Constructing Tomorrows
 1 Calibrating a vision
 ----------------------
 
-As opposed to looking at a trajectory of tools, we need to look at a recursive implementation of a whole technology and its interplay in the three columns
+As opposed to looking at a trajectory of tools, we need to look at a recursive implementation of a whole technology and its interplay in the three columns and the availability of preconditions.  As we have seen before, things can be invented perhaps dozens of times prior to the bootstrapping mechanism of the people process and tools.
+
+For instance, far from being invented in the 1970s, electronic music albums span back to the 1930s. 
