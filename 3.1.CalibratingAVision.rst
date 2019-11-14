@@ -8,4 +8,14 @@ Constructing Tomorrows
 
 As opposed to looking at a trajectory of tools, we need to look at a recursive implementation of a whole technology and its interplay in the three columns and the availability of preconditions.  As we have seen before, things can be invented perhaps dozens of times prior to the bootstrapping mechanism of the people process and tools.
 
-For instance, far from being invented in the 1970s, electronic music albums span back to the 1930s. 
+Often times possible futures are variations of past flops. Both 1-9-90 framing and people/process/tools has to exist and be orchestrated accordingly for a crisp future vision to stick. 
+
+False starts that get closer may appear to have a scent of inevitability about them but accessibility, or windowing the opportunity is a real phenomena. 
+
+For instance, the 2006 ITU-T30e standard includes support for color faxing. That sounds like a great idea for 1983, but by 2006 that window had closed.
+
+Thus calibrating visions is about identifying windows of opportunity (through arrangement) or power vacuums (through disarrangement) and the steps to achievability.
+
+A harder but achievable task is to create the precondition dynamics for the window of opportunity to open. The classic example is in lobbying. The theory goes that by influencing the crafting of laws, the power dynamics can favorably change opening a window of opportunity.
+
+Presuming that lobbying isn't at your disposal it's probably better to look for what exists to identify what's possible.
