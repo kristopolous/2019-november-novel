@@ -6,16 +6,42 @@ Constructing Tomorrows
 1 Calibrating a vision
 ----------------------
 
-As opposed to looking at a trajectory of tools, we need to look at a recursive implementation of a whole technology and its interplay in the three columns and the availability of preconditions.  As we have seen before, things can be invented perhaps dozens of times prior to the bootstrapping mechanism of the people process and tools.
+Commonly constructed tomorrows manifest as Kurzwelien trajectories paved by future tools projected on to current systems. They assumes stasis of everything and are deeply wedded to a fulfilment narrative depicting some aspects as end states and others as racing towards some visionary apex.
 
-Often times possible futures are variations of past flops. Both 1-9-90 framing and people/process/tools has to exist and be orchestrated accordingly for a crisp future vision to stick. 
+Then they trace back a historical perspective by rewinding the trajectory and use their present context to implicate a past. The most common variation of this is found in vivid speculation about how the 95% of history, in the pre-history era lived. They'll project modern notions of individualism, modern definitions of property rights, modern ethno-specific gender relationships, even neoliberal marketing models and then state, as if factuall known how these ancient people must have existed.  Sometimes they'll find some extraordinarily specious evidence to support the idea that you can simply take their personal view of humanity, in 2019, rewind the clock 150,000 years and through some creative licensing describe a past.
 
-False starts that get closer may appear to have a scent of inevitability about them but accessibility, or windowing the opportunity is a real phenomena. 
+Such counterproductive aristotilian mythmaking would be laughable if it wasn't so endemic.
 
-For instance, the 2006 ITU-T30e standard includes support for color faxing. That sounds like a great idea for 1983, but by 2006 that window had closed.
+Instead, we need to look at recursive, holistic mutable implementations of whole technologies and their interplay in the three columns along with the availability of preconditions.  Then, instead of trying to project and rationalize the mechanisms of worlds we cannot experience and may never know, we can instead use a framework to explore the realm of possibility without commiting the misstep of probablity. 
 
-Thus calibrating visions is about identifying windows of opportunity (through arrangement) or power vacuums (through disarrangement) and the steps to achievability.
+The mathematical discipline known as "chaos theory" often gets liberally misused by authors as a placeholder for more generalized emergent self-organized properties, that is to say where only a collection of causes lead to an outcome but in this instance it serves as a solid model. In order for systems to be mathematically chaotic, 
+
+  1. they must be sensitive to initial conditions.
+
+  2. they must have mathematical "mixing" (a specific form called topologically transitive).
+
+  3. they must have periodic orbits.
+
+Chaotic systems aren't about emergent properties yielding steady states, they are about endogenous interacting systems. For instance, a bicycle can't be balanced without moving and can't be moving without balance. These properties are only possible when working together. One could argue that the reason this is emergent is more due to how we've chosen to linguistically categorize these properties by choosing to not create a new category to describe the system. Some people, such as Nicolai Hartmann, called emergence theory "new category" theory because of this.
+
+That's not what we have here. YouTube, being the 10th or so on-demand video website didn't emerge with a new category when the initial condition of mass market fast internet finally reached a threshold. Nor was the skills of the screen and stage, porting to a lower budget youtube to create youtube celebrities an emergent property. Neither were the rise of smart phones and tablets changing the fundamental field of play an emergent property or a new category. These were also not sustaining technologies. 
+
+Instead, the possible future of youtube was a variation of a past flop. The 1-9-90 framing and people/process/tools were orchestrated symbiotically in a way that did not happen on the dozens of copycat sites that came out after it.  The early intentional indistinguishability between producer and consumer, uploader and creator, and owner and fan gave an affordance to transitivity.
+
+The chaotic system is of course, not meant to be a descriptor but an analogy. The "periodic orbits", which in the math world mean that the equations will eventually come back around to at or near many of the previous values (as opposed to drifting off to infinity or stopping at some end state) can be taken here as meaning there's an assumption of motion, actionable space, possible direction, and overall path, but not of any eventuality - no end, just a continuum.
+
+There will only be a termination, or a discreteness, of a specific expression, but not of a generality. Each system state can be viewed as a goal unachieved by another state. These false starts that get closer to some presumed state may appear to have a scent of inevitability about them.  The current state of a system is simultaneously the beginning, middle, and end, a failed goal of a different state, both an unanticipated and inevitable reality.  The accessibility of a stasis has a window of opportunity because of this. The achievability of any goal of any system is merely a consequence of influencable arrangement.  
+
+Absurdity, intention, audacity, and coherency is the vehicle of actualization. Reality is maleable.
+
+As long as the goals are within the generality and not weded to a specific.  The specifics will change. The center of the current expression will not hold and it will fall apart. 
+
+For instance, in 2006, an international standard known as ITU-T30e came out which included support for the dream of the 80s office worker, color faxing. The irrelevance of this in 2019 is a function of this. because the world of faxing had long since collapsed that window had definitively closed.
+
+Thus calibrating visions is about identifying windows of opportunity (through arrangement) or power vacuums (through disarrangement) and the steps to achievability.  Mere anarchy is often loosed upon the world.
+
 
 A harder but achievable task is to create the precondition dynamics for the window of opportunity to open. The classic example is in lobbying. The theory goes that by influencing the crafting of laws, the power dynamics can favorably change opening a window of opportunity.
 
 Presuming that lobbying isn't at your disposal it's probably better to look for what exists to identify what's possible.
+As we have seen before, things can be invented perhaps dozens of times prior to the bootstrapping mechanism of the people process and tools.
