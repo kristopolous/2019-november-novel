@@ -17,7 +17,7 @@ An intellectual honesty requires two things and a functional design requires two
 
 First we have to try, as rigorously and with as much effort as possible, to layer the frameworks on failures without the preconception of their correctness in order to validate them. [#]_
 
-
+Ultimately whether a future has been actualized and a whole technology has been instrumented must be falsifiable. [#]_
 
 is whether the creation of opportunistic windowing or an exploitation of them using the frameworks will likely lead to a better outcome.
 
@@ -31,3 +31,4 @@ Unaccusative verb
 
 .. [#] The difference between science, opinion, faith, truth, and fact have been fogged probably since the beginning and many authors have dealt with 
    the question. For the purposes of the text, science and faith are processes of truth. Facts are ultimately faith based because it's in the service of disclosing a reality without a process of confirming it.
+.. [#] There's a problem of induction in any theory. Generalizations are made based on limited observations and falling victim to Humes Uniformity of Nature, which not only presupposes the future will be like the past but also the description of dynamics is that of a true mechanism.
