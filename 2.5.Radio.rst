@@ -3,6 +3,8 @@
 
 In understanding how the technology of newspapers came together in the 19th century we can use the model on each successive medium of the 20th century.
 
+The transitional technologies [#]_
+
 
 =========== ============  ==========  ==========  ========
 Technology  Start of Use  Mainstream  Disruption  2nd wave
@@ -35,3 +37,5 @@ For a generation of americans, if you captured television you captured their con
 
 
 Open source software requires cheap internet, cathedral and Bazaar, p 51
+
+.. [#] Some authors separate continuous versus discontinuous innovation. Moore (Crossing the Chasm) and Christensen (Innovator's Dilemma) describe how different mechanics are in play for two classes of product introductions.  This ultimately is a producer-side analysis.  Consumer-side discontinuity is not always in tandem with producer side. For instance, non-technical consumers likely have zero realization of the transition from mechanical magnetic platter-based storage to solid state chip based storage even though this is the most significant leap in computer storage since the first hard drive shipped in 1956. For the world writ large, there needs to be discontinuity in the "90" part of the 1-9-90 rule for a perceptual discontinuity outside the "inside baseball" of the industry.
