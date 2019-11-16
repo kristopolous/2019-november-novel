@@ -72,7 +72,7 @@ Technology in the 20th century also had the implication of these three types but
 
 By now this should be expected, that the future is about a reordering of structure and redefinition of terms.
 
-The paradigmatic pattern that was repeated 4 times in the 20th century was as follows:
+The paradigmatic pattern, called the communication wave, that was repeated 4 times was as follows:
 
 1. A new communication tool is invented
 2. Commercialization on it is initially forbidden or nascent
@@ -166,6 +166,18 @@ It was home to some of the earliest examples of skyscrapers. In the same way tha
 
    This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
 
+Following the S-Curve models, as technologies become mature, margins become thinner forcing future innovation to a reduction of cost in the tools of construction.
+
+Although fitting historical narratives into a framework of rational actors motivated by individualistic financial incentives is rather unrealistic (it requires humans to be shrewd sociopaths who callously disregard the whole of society as if we're all truly ghoulish villains [#]_ ), it is sometimes appropriate.
+
+For the process of newspapers and print this took two paths: 
+
+  * specialized hot metal type-setting machines (via the side-channel of the telegraph and typewriter) for mechanically laying out a press 
+
+  * the rise of photography based duplication machines, through technologies such as photostat and xerography (electrostat)
+
+The photocopier as a printing press for the masses became increasingly practical. Machines such as the Xerox 914 could be rented monthly at 0.3% the cost of buying it outright (about $775/month in 2019 dollars). This  meant it could be commercially rented and made available to the public
+
 Xerox machines
 Soros
 
@@ -173,3 +185,4 @@ Soros
 .. [#] J Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
 .. [#] B Kovarik, "Revolutions in Communication: Media History from Gutenberg to the Digital Age" 
 .. [#] "The June Revolution" in Collected Works of Karl Marx and Frederick Engels: Volume 7, p. 160.
+.. [#] There's many things that makes humans human. The most striking however, is we are the most social, least individualistic species to ever exist. We are the only one with things such as institutions and complex languages. Everything we do is drenched with socializing and collectivizing. When we eat, for instance, we use recipes, communicated methods of food preparations. The food we eat is not individually captured by us but came through massively collaborated collective acts. Every inch of being human is about interaction and extrinsic values, not individual gain. The notion that we are all truly greedy individuals is in direct conflict with the very essence of what makes humans human.
