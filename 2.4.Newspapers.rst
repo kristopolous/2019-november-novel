@@ -22,7 +22,7 @@ The 5 technologies
 4. Cell phones
 5. Online services and the internet
 
-These all developed along similar patterns with similar processes and similar results.
+These all developed along similar patterns with similar processes and similar results. Furthermore, these patterns can usually be fractally applied to each of the subdivision of steps.
 
 We'll start with a tool that has mostly dissappeared from the landscape: the common newspaper.
 
