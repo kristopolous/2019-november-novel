@@ -28,3 +28,5 @@ The Chicago school sees government as inept, corrupt, dysfunctional systems to f
 white nationalist internet
 
 audacity system and purple cow
+
+Time the product to be a product of the times
