@@ -26,3 +26,5 @@ Possibilities are instructed by a premise of potential that defines possible fut
 The Chicago school sees government as inept, corrupt, dysfunctional systems to fleece the tax payer and so the programs under their guidances work within this constraint on reality - ordoliberalism
 
 white nationalist internet
+
+audacity system and purple cow
