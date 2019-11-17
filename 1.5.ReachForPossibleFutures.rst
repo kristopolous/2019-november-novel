@@ -1,6 +1,71 @@
 The reach for possible futures
 ------------------------------
 
+What is the future?
+===================
+
+If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals or a different manifestation in service of higher level goals?
+
+And if so, in what service to those higher level goals? Greater value crafts, processes, and objects? What should a futurist set out to do? What is a future worth building?
+
+Every future is a construction of the past. An output of work done by past selves and past thoughts. The parameters of future technology can only be defined by present goals. A "breakthrough" technology is always accompanied by a break in the continuity of a set of goals.  Conversely, a *voluntary* break in the continuity of a set of goals is an effective method towards breakthrough technologies.
+
+As opposed to being a linear projection of current metrics ($/gb, miles/kwh), the future is instead, inherently about redirection because it requires a break in continuity, a redefinition of goals, a re-imagining of interaction between these 3 pillars of technology.
+
+This is how things have played out. In the 1920s, movies and books thought we'd have massively tall buildings in compact cities - instead, in the 1940s suburbia was invented and cities expanded horizontally.
+
+Instead of massive computers we'd be instructing to run our lives, we have tiny pocket computers that are more often instructing us.
+
+The depictions in the 1950s of centuries in the future had rockets zipping around space, but it was still a future composed of white men making decisions while their wives, in completely unmodified traditional heterosexual marriage arrangements, were slaving away in the future kitchens or doing some other dotty activity.
+
+The essence of future is a deviation and disruption in process, craft, or tool in a realignment towards a new set of goals. This is the process of technology.
+
+For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
+
+Anti-technology is also about building futures
+==============================================
+
+With the expanded framework of technology, we can see that anti-technology is instead of a return to the past, the baseline requirements to boldly redirect how no man has redirected before and orient the 3 sets of techology around a different locus of goals.
+
+Neo-luddism, in its present form is an advocacy for a different set of devices, a different mechanism of relationship with each other and the environment.
+
+In 1990, Chellis Glendinning published "Notes towards a Neo-Luddite manifesto" arguing in favor of a search for new technological forms that are local in scale and promote social (people) and political (process) freedom.
+
+Ted Kaczynski, in his Unabomber manifesto said a similar thing, calling for "new values that will free them from the yoke of the present technoindustrial system". He goes on to talk about a reverence to nature, rejection of civilization, and a change in the relationship among material goods which no longer values their acquisition (because of the rejection of the relationship of private property).
+
+Most analysis the first Luddite movement, the famous secret society that destroyed machines, claims it was craftsmen in fear of losing their jobs. Let's apply our analysis of technology and look deeper.
+
+Its namesake is after a man who may or may not have existed, Ned Ludd, who by the time "Luddite" had been adopted had been developed into a robin hood like character.  The Luddites sent magistrates, merchants, and proto-industrialists death threats and attacked them. The machines were destroyed possibly only because they represented great investments and were a conveniently exposed target.
+
+It was part of the long arc of labor struggle in the 19th century.  Labor being the people, process, and tools - the act of technology. The struggle is once again, about trying to redirect the existing goals and establish new ones.
+
+This act of destroying and disrupting current systems in the namesake of new ones is inherently a future oriented act whether it's done by releasing a hot new product or storming the statehouse, it's ultimately the same process.
+
+When viewed in this lens, Luddism is the close cousin of another British movement in the exact same era called the "March of Intellect".
+
+The tools of the industrial revolution reoriented the goals of people and processes leading to an increase in literacy along with printed literature and education. The price of education and the price of literature became attainable to a much larger segment of the population.
+
+Along with that there were new institutions such as coffee houses (as opposed to bars) and mechanics institutes (organization trying to change society by disseminating scientific thinking and research into engineering solutions), and literary and philosophy societies.
+
+The societal, social, and political implications of this technology along with the potential power disruption wasn't lost on the people of the time. Some (such as the Liberal Whigs) advocated for only disseminating "useful" information with the operative "useful" being a fluid, debated term.  There was other concerns that over-education, as in a training of new processes to guide relationships, would lead to a reduction in moral fibre and social unrest, leading to a disruptive innovation in the technology of government (which eventually happened in 1848).
+
+.. figure:: /assets/march_of_intellect.jpg
+   :alt: March of intellect
+   
+   The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour
+
+The core hypothesis of the March of Intellect in the context of the Industrial Revolution was that the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  
+
+The critics and advocates of both movements (Luddites and March of Intellect) made the same admittance by the nature of their actions: The power dynamic that guides the direction and flow of these mechanisms of relationships known as technology has a logical arrangement that is an artifact of circumstances in history which was at risk of being obsoleted and supplanted. The potential is that any column (people, process, tools) of technology in its act of goal redirection can lead to a disconnection from the structure of this past and ultimately lay a foundation for a form of liberation and power rearrangement in the future.
+
+The deep interconnectedness of the three pieces inherent ability to affect each other either intentionally or merely consequentially was obvious to the Luddites, political parties and other social movements in 19th century British society. The Industrial Revolution was fundamentally discontinuous: one of people, process, *and* tools. This meant that for a while, the new power relationships that these dynamics implicated were not only completely undefined but also, due to its disruptive nature, fundamentally undefinable.
+
+This is the nature of connection between the modern Neoluddites and a fundamental anarchism: it's not a return to the past, it's a liberation from it. Different strains of anarchist or anarchist-leanings can be found in many of the technological disruptions since the 1800s. Microcomputers came out of the counter-cultural movement and disrupted minicomputers and mainframes. The ethos of silicon valley is often characterized as AnaCap (anarchist capitalism) or techno-libertarian. 
+
+The liberation from the past and either an ignorance or haughty disregard for limiting oneself to playing inside the claimed perimeter of the possible requires an access to ability to execute the anarchy required to actualize it.  Of course people can't just free themselves from coercion and material poverty by a change in attitude. There are systems that prevent this. Participatory emancipation is required. The most maleable form of possibility expansions is fundamentally constrained by relationships.
+
+Understanding how this system of disruption, death, and rebirth happens is the key to understanding the potential and interplay between technology and future. In the following chapters we'll go more into the principles which guide processes to define a future worth building.
+
 NIMBYism: The true anti-futurists
 =================================
 
@@ -25,4 +90,8 @@ Unlike the Luddites and futurists, the NIMBYs which have been characterized in t
 
 If they own property, the development will supposedly decrease prices but if they rent, it will supposedly increase prices. It will both increase the lines and busyness of a place while simultaneously putting it out of business. The reason this contradictory nature isn't a problem is because the given reasons aren't real concerns to begin with.  The imagination of change fogs their mind and fundamentally disorients them.
 
-When presented as a continuity and not a fundamental disruption, however, there is no NIMBY response. By making things not appear divergent, this opposition disappears.
+When presented as a continuity and not a fundamental disruption, however, there is no NIMBY response. By making things not appear divergent, their opposition dissipates. An established building for instance, doing new construction will receive a much more muted response than a new business doing the same construction as a mechanism to enter the town.
+
+Taking an existing building and rezoning it to attract a different kind of resident, requiring no construction at all, will also receive pushback. 
+
+Because the PPT exists in a defensive established mileu, the engagement has to not ask, but do.

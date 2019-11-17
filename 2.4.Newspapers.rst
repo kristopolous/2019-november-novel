@@ -1,78 +1,10 @@
 4 Newspapers and the great upheaval
 -----------------------------------
-
-The US Constitution, as a document, is another piece of technology - originally defining people, processes, and the relationship of physical objects, called property. 
-
-What is the future?
-===================
-
-If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals or a different manifestation in service of higher level goals?
-
-And if so, in what service to those higher level goals? Greater value crafts, processes, and objects? What should a futurist set out to do? What is a future worth building?
-
-Every future is a construction of the past. An output of work done by past selves and past thoughts. The parameters of future technology can only be defined by present goals. A "breakthrough" technology is always accompanied by a break in the continuity of a set of goals.  Conversely, a *Voluntary* break in the continuity of a set of goals is an effective method towards breakthrough technologies.
-
-As opposed to being a linear projection of current metrics ($/gb, miles/kwh), the future is instead, inherently about redirection because it requires a break in continuity, a redefinition of goals, a re-imagining of interaction between these 3 pillars of technology.
-
-This is how things have played out. In the 1920s, movies and books thought we'd have massively tall buildings in compact cities - instead, in the 1940s suburbia was invented and cities expanded horizontally.
-
-Instead of massive computers we'd be instructing to run our lives, we have tiny pocket computers that are more often instructing us.
-
-The depictions in the 1950s of centuries in the future had rockets zipping around space, but it was still a future composed of white men making decisions while their wives, in completely unmodified traditional heterosexual marriage arrangements, were slaving away in the future kitchens or doing some other dotty activity.
-
-The essence of future is a deviation and disruption in process, craft, or tool in a realignment towards a new set of goals. This is the process of technology.
-
-For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
-
-Anti-technology is also about building futures
-==============================================
-
-With the expanded framework of technology, we can see that anti-technology is instead of a return to the past, the baseline requirements to boldly redirect how no man has redirected before and orient the 3 sets of techology around a different locus of goals.
-
-Neo-luddism, in its present form is an advocacy for a different set of devices, a different mechanism of relationship with each other and the environment.
-
-In 1990, Chellis Glendinning published "Notes towards a Neo-Luddite manifesto" arguing in favor of a search for new technological forms that are local in scale and promote social (people) and political (process) freedom.
-
-Ted Kaczynski, in his Unabomber manifesto said a similar thing, calling for "new values that will free them from the yoke of the present technoindustrial system". He goes on to talk about a reverence to nature, rejection of civilization, and a change in the relationship among material goods which no longer values their acquisition (because of the rejection of the relationship of private property).
-
-Most analysis the first Luddite movement, the famous secret society that destroyed machines, claims it was craftsmen in fear of losing their jobs. Let's apply our analysis of technology and look deeper.
-
-Its namesake is after a man who may or may not have existed, Ned Ludd, who by the time "Luddite" had been adopted had been developed into a robin hood like character.  The Luddites sent magistrates, merchants, and proto-industrialists death threats and attacked them. The machines were destroyed possibly only because they represented great investments and were a conveniently exposed target.
-
-It was part of the long arc of labor struggle in the 19th century.  Labor being the people, process, and tools - the act of technology. The struggle is once again, about trying to redirect the existing goals and establish new ones.
-
-This act of destroying and disrupting current systems in the namesake of new ones is inherently a future oriented act whether it's done by releasing a hot new product or storming the statehouse, it's ultimately the same process.
-
-When viewed in this lens, Luddism is the close cousin of another British movement in the exact same era called the "March of Intellect".
-
-The tools of the industrial revolution reoriented the goals of people and processes leading to an increase in literacy along with printed literature and education. The price of education and the price of literature became attainable to a much larger segment of the population.
-
-Along with that there were new institutions such as coffee houses (as opposed to bars) and mechanics institutes (organization trying to change society by disseminating scientific thinking and research into engineering solutions), and literary and philosophy societies.
-
-The societal, social, and political implications of this technology along with the potential power disruption wasn't lost on the people of the time. Some (such as the Liberal Whigs) advocated for only disseminating "useful" information with the operative "useful" being a fluid, debated term.  There was other concerns that over-education, as in a training of new processes to guide relationships, would lead to a reduction in moral fibre and social unrest, leading to a disruptive innovation in the technology of government (which eventually happened in 1848).
-
-.. figure:: /assets/march_of_intellect.jpg
-   :alt: March of intellect
-   
-   The machine representing new forms of craft, process, and tools, sweeps aside the London establishment towards the beck and call of Ireland in this 1828 illustration by Robert Seymour
-
-The core hypothesis of the March of Intellect in the context of the Industrial Revolution was that the effects of a technological upheavel, such as a new machine, could have a contagion effect towards the other forms of technology, such as religion, government, and the social arrangements and relationships surrounding capital and labor.  
-
-The critics and advocates of both movements (Luddites and March of Intellect) made the same admittance by the nature of their actions: The power dynamic that guides the direction and flow of these mechanisms of relationships known as technology has a logical arrangement that is an artifact of circumstances in history which was at risk of being obsoleted and supplanted. The potential is that any column (people, process, tools) of technology in its act of goal redirection can lead to a disconnection from the structure of this past and ultimately lay a foundation for a form of liberation and power rearrangement in the future.
-
-The deep interconnectedness of the three pieces inherent ability to affect each other either intentionally or merely consequentially was obvious to the Luddites, political parties and other social movements in 19th century British society. The Industrial Revolution was fundamentally discontinuous: one of people, process, *and* tools. This meant that for a while, the new power relationships that these dynamics implicated were not only completely undefined but also, due to its disruptive nature, fundamentally undefinable.
-
-This is the nature of connection between the modern Neoluddites and a fundamental anarchism: it's not a return to the past, it's a liberation from it. Different strains of anarchist or anarchist-leanings can be found in many of the technological disruptions since the 1800s. Microcomputers came out of the counter-cultural movement and disrupted minicomputers and mainframes. The ethos of silicon valley is often characterized as AnaCap (anarchist capitalism) or techno-libertarian. 
-
-The liberation from the past and either an ignorance or haughty disregard for limiting oneself to playing inside the claimed perimeter of the possible requires an access to ability to execute the anarchy required to actualize it.  Of course people can't just free themselves from coercion and material poverty by a change in attitude. There are systems that prevent this. Participatory emancipation is required. The most maleable form of possibility expansions is fundamentally constrained by relationships.
-
-Understanding how this system of disruption, death, and rebirth happens is the key to understanding the potential and interplay between technology and future. In the following chapters we'll go more into the principles which guide processes to define a future worth building.
-
-Technology in the 20th century also had the implication of these three types but in a different way.
+Whole communication technology had the implication of the TPP model in its own unique way.
 
 By now this should be expected, that the future is about a reordering of structure and redefinition of terms.
 
-This led to a paradigmatic pattern, which I'll call the "communication wave", that was repeated 4 times:
+For communication, this manifested as a paradigmatic pattern, which I'll call the "communication wave", that was repeated 5 times:
 
 1. A new communication tool is invented
 2. Commercialization on it is initially forbidden or nascent
@@ -82,40 +14,39 @@ This led to a paradigmatic pattern, which I'll call the "communication wave", th
 6. New power potential is made, undefined at first, then eventually filled as goals and power structures are redefined or reorchestrated
 7. Usually subsequent, smaller scale imitation wavex happens decades later as the *economic reproduction* [#]_ becomes democratized
 
-The four structures are as follows
+The 5 technologies
 
-1. One way radio
-2. Television
-3. Cell phones
-4. Online services and the internet
+1. Print media
+2. Radio
+3. Television
+4. Cell phones
+5. Online services and the internet
 
 These all developed along similar patterns with similar processes and similar results.
 
-To put the 20th century in context however, we're going to stick with the 19th for a bit longer with a tool that has mostly dissappeared from the landscape: the common newspaper.
+We'll start with a tool that has mostly dissappeared from the landscape: the common newspaper.
 
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the system as a whole wouldn't have.
 
 Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. [#]_ By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable way to get information.
 
-But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material  (cotton paper, also known as cotton rags), existed.
+But the mere existence of tool of newspaper wasn't enough. It wasn't until nearly 200 years later, in the 1810s, that the tool of the printing presses, capable of making over 1,000 impressions per hour (albiet typeset by hand), on both sides of the newsprint material (at this time, cotton paper, also known as cotton rags), existed.
 
 In the 1830s, a new innovation, relying on commercialization through advertising as opposed to a mostly at-cost subscription model, and a steam-powered as opposed to a hand-powered press, led to the introduction of a "penny press". [#]_  This along with the massive reduction in the price of a paper, process, and printing tools gave way to an explosion of cheap periodicals, costing 1/6th the price of the other offerings.
 
-The penny press captured a new emerging market, due to being 83% less costly, and covered different material than what was targeted towards the upper class such as sports, crime news, and gossip. Their variations today would be closest to tabloids.
+The penny press captured a new emerging market, due to being 83% less costly, and covered different material than what was targeted towards the upper class such as sports, crime news, and gossip. Their variations today would be closest to tabloids. New technology often finds a home in the forgiving world of novelty and recreation as the PPT is garnering increasing reliability. 
 
-Wood pulp pressing was developed in the 1840s to further reduce costs and increase the size of newspapers.
-
-This meant by the 1840s we had 
+By the 1840s, wood pulp pressing was developed in the 1840s to further reduce costs and increase the size of newspapers, this meant by then there was:
 
 - People skills: public literacy and a skill of sensationalist writing towards a mass audience 
 - Process: a financial model based on advertising, simple language, and daily publications
 - Tools: mass print machines, photography, railroads, and the telegraph
 
-This groundwork of people, process, and tool technology should now be in place for a realignment of goals, a disruption of process, and a new dynamic to emerge. Furthermore, these technologies, some in the works for 200 years, would not have been able to have affected things independently.
+This groundwork of people, process, and tool technology should now be in place for a realignment of goals, a disruption of process, and a new dynamic to emerge. Furthermore, these technological columns, some in the works for 200 years, would not have been able to have affected things without the interplay of the other two.  When these things come together, the reach distance of futures narrow to achievability.
 
-In 1843, a Parisian newspaper named *La Réforme* started publication. Some of the regular contributors included Karl Marx (who later became the editor of his own paper, *Neue Rheinische Zeitung* in 1848), Pierre-Joseph Proudhon, the first person to call himself an anarchist, and a journalist at three other newspapers, and Mikhail Bakunin, regarded as one of the most important anarchists in the 19th century.
+In 1843, a Parisian newspaper named *La Réforme* started publication. Some of the regular contributors included Karl Marx (who later became the editor of his own paper, *Neue Rheinische Zeitung* in 1848), Pierre-Joseph Proudhon, the first person to call himself an anarchist, and a journalist at three other newspapers, and Mikhail Bakunin, regarded as one of the most important anarchists in the 19th century.  Their writings in this newspapre was the primary vehicle that set them into their fame. The job of journalist was early on in all of their careers.
 
-Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx as a journalist writing for a Paris paper.
+Their writings in *La Réforme*, are credited with instrumenting the 1848 French Revolution and many similar copycat revolutions throughout Europe. In this context we have to consider people like Karl Marx, not as a revolutionary thinker that everyone knows, but as just a journalist writing for a Paris paper.
 
 After the success of the 1848 French Revolution, the editors, writers, and journalists of *La Réforme* were given politcal power and made part of the provisional French government. [#]_ The disruptive technologists in a disrupted society were put in charge of controlling it at the urgings of the public. 
 
@@ -123,7 +54,7 @@ These publics had assumed the future as depicted by these journalists using thes
 
 As Reid Hoffman explains in Blitzscaling, the skills to create a future, the skills to administrate a future, and the skills to control a future, are different stages of an innovation cycle and most likely, the jobs of different people.
 
-Furthermore, when this isn't done, then the earlier thing just gets done at a more massive scale by more participants, never making the transition to control and administration.
+Furthermore, when this conscious transformation isn't done, then the earlier act that led to the revolution is the thing that continues getting done but at a more massive scale by more participants. Trotsky's permanent revolution without a counterbalance means never making the transition to control and administration.
 
 In our 1848 Paris example, even though 54% of the businesses had left the cities, 479 newspapers were founded, many not in the French language.  This undefinable power vacuum, in the midst of the second revolution happened because the paper made the news events. Now the news events made the papers.
 
@@ -144,7 +75,7 @@ Five years later, by the time the Crimean War broke out, photojournalism, telegr
 
 Publications such as The London Illustrated News, prominantly featured daguerreotyphic engravings, often multiple ones on each page documenting the war. Capturing compelling photographs were so important for the sale of the paper that sometimes they may have been staged. Researchers have uncovered, for instance, a second version of Roger Fenton's "Valley of the Shadow of Death", which features numerous canonballs on a roadside, with far fewer canonballs.  Apparently, in order to create a more sensationalist photograph, canonballs might have been transferred into the frame in order to assist the narrative.
 
-As discussed in Chapter 3, it was Fenton's audacity, absurdity, intention, and coherency that led to the quality of the photograph, being the most famous and celebrated photojournalism example of the 19th century. Also as discussed, authenticity, accuracy, and reality are decidedly not part of the mix - in fact, they arguably play no role at all (see the discussion on Mayer Rothschild below).
+As discussed in 1.3, it was Fenton's audacity, absurdity, intention, and coherency that led to the quality of the photograph, being the most famous and celebrated photojournalism example of the 19th century. Also as discussed, authenticity, accuracy, and reality are decidedly not part of the mix - in fact, they arguably play no role at all (see the discussion on Mayer Rothschild below).
 
 At the beginning of the war, in 1853, it took about 4 days for news to reach London. In 1854, a new telegraph to the French coast reduced it to 2 days and the following year, an undersea cable reduced it to a few hours.  
 
@@ -154,9 +85,9 @@ The tech boom was underway and reality was being redefined.
 
 As the century went on, large newspaper empires formed and some of the wealthiest people of the 19th century came to their riches from the newspaper or the manipulation of it.
 
-The power of the press was so captured by the imagination of the people of the time, that even ficticious stories were passed around to attribute to wealth to people.  For example, in 1846, a French pamphlet made a false claim that Nathan Mayer Rothschild had early access to war news, falsely reported it, sending the market into freefall, then swooped up ownership of the shares before it was corrected, making significant profit.  However, there's no public record of such large volume trading that day, a market crash and rebound or of false, then true news being reported.  The material evidence is not there.  The frenzy of the potential of newspaper technology to be the tool that constructs the future, however, so captured the imagination, that it did not matter.  The apocryphal narrative caught on and is still repeated as if it actually happened to this day.  Audaction, absurd, intentioned, and coherent, but ultimately completely untrue.  
+The power of the press was so captured by the imagination of the people of the time, that even ficticious stories were passed around to attribute an accumulation of wealth.  For example, in 1846, a French pamphlet made a false claim that Nathan Mayer Rothschild had early access to war news, falsely reported it, sending the market into freefall, then swooped up ownership of the shares before it was corrected, making significant profit.  However, there's no public record of such large volume trading that day, a market crash and rebound or of false, then true news being reported.  The material evidence is not there.  The frenzy of the potential of newspaper technology to be the tool that constructs the future, however, so captured the imagination, that it did not matter.  The apocryphal narrative caught on and is still repeated as if it actually happened to this day.  Audaction, absurd, intentioned, and coherent, but ultimately completely untrue.  
 
-Apparently, reality doesn't actually effect the quality. Since we are in the pursuit of constructing futures, this allows us to detach ourselves from the constraints of reality at will. A strong transmission of the imaginary doesn't change the objective truths of the past, its objective, as we recall, is to make the facts of the past not actually relevant to the outcomes of the future.
+Apparently, reality doesn't actually effect the quality of an idea. Since we are in the pursuit of constructing futures, this allows us to detach ourselves from the constraints of reality at will. A strong transmission of the imaginary doesn't change the objective truths of the pastr. Its objective, as we recall, is to make the facts of the past not actually relevant to the outcomes of the future.
 
 The people who actually did make their millions in newspapers, in the US, occupied a part of manahatten known as Park Row.
 It was home to some of the earliest examples of skyscrapers. In the same way that people today speak of the flashy wealth and future orientation of the tech giants, at the late 19th century, the same thing was said about the newspaper giants.
@@ -180,9 +111,13 @@ For the process of newspapers and print this took two paths:
 
 This disunification effect led to a split of journalism politics in the early 1900s along controversies of the era, such as unionization and the suffragist movement. As the organizational capacity required to produce decrease, the number of producing organizations increased. For instance, in the 1880s, there were womens suffragist periodicals such as The Woman's Journal and The Woman Suffrage Leaflet. By 1918 however, costs had reduced so that even anti-feminist anti-suffragist women's leagues (however small in number) could publish their own journal, in this case named "The Woman Patriot".
 
-In the 1930s, "zines" containing fiction stories that were produced using spirit duplicating "ditto machines" permitted publications with circulation even in the hundreds to be feasible. The mass democratization made possible by these machines may have played significant roles in social movements of the era.  Because the publications were sustainable on such low circulation numbers. For instance, ONE magazine, a periodical advocating for things such as gay marriage and equal rights, started publishing in 1952, 17 years before the stonewall riots. This was followed 3 years later by the Mattachine Society (founded 1950), starting up their own gay rights publication, the Mattachine Review. 
+In the 1930s, "zines" containing fiction stories that were produced using spirit duplicating "ditto machines" permitted publications with circulation even in the hundreds to be feasible. At first they were novelty fictions, similar to what were called "dime store novels". Some of the later greats of science fiction, such as Isaac Asimov, got their start writing stories for such spirit duplicated zines.
 
-The photocopier as a printing press for the masses became increasingly practical. Machines such as the Xerox 914 could be rented monthly at 0.3% the cost of buying it outright (about $775/month in 2019 dollars). This meant it could be commercially rented and made available to the public in a timeshare system (like a copy shop or one machine responsible for multiple publications).
+The mass democratization made possible by these duplication machines as printing presses played significant roles in social movements of the era.  Because the publications were sustainable on such low circulation numbers. For instance, ONE magazine, a gay-themed periodical advocating for things such as gay marriage and equal rights, was able to start publishing in 1952, 17 years before the stonewall riots. This was followed, using the same physical Los Angeles Xerox machine, 3 years later by the Mattachine Society (founded 1950), starting up their own gay rights publication, the Mattachine Review.  
+
+The photocopier at this time was used like a timeshare computer.  Clusters of related organizations pooled together resources, and paid for a single machine (which cost about $300,000 in 2019 dollars) and then put it to work day and night on time-schedules for different publications.
+
+Over time, the photocopier as a printing press for the masses became increasingly practical. Machines such as the Xerox 914 could be rented monthly at 0.3% the cost of buying it outright (about $775/month in 2019 dollars). This meant it could be commercially rented and made available to the public in a timeshare system (like a copy shop or one machine responsible for multiple publications).
 
 In the same way that La Reforme in the 1840s led to the 2nd French Revolution, and the smaller suffragist publications led to the passage of the 19th amendment in 1920, the increasing number of black-owned zines made geographically diluted civil rights organization possible and gave rise to a collective identity for other marginalized minority communities.
 
