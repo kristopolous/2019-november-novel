@@ -28,6 +28,14 @@ By 1919, Frank Conrad, who worked for Westinghouse started broadcasting music an
 In the same way that newspapers were only useful if people could read them, radio broadcasts were only meaningful if people could receive them.
 
 
+Similar to the previous technologies, television had a long experimentation phase, first starting as wired transmissions to completely mechanical devices and then during the radio craze switching to wireless transmissions.  The mechanical technology had a number of fundamental limits on how big the picture could be and how smooth the video could be.  Despite this, the first television station started in 1928.  We now have a two sided marketplace, a producer and device to consume.
+
+The cathode ray tube, a much more promising mechanism than the mechanical wheel, was being perfected by independent groups around the world in the 1920s. By the late 1920s, press demonstrations were being given.  Throughout the 1930s, television cameras (which were a different technology from film cameras) were being developed to increase the light sensitivity and half-tone quality of the picture.
+
+Successfully receiving television, unlike with radio, required a number of arbitrary parameters to be agreed upon (how many scanlines for a picture, what the refresh rate was, what the direction and orientation of the picture should be, etc). This led to a fractured market. So that NBC, which was created again, by RCA, could be recieved by RCA televisions. It was even more divided than that. Philadelphia NBC and New York NBC used separate technologies which meant separate devices between the two markets. Having competing standads doesn't work out for a consumer who just wants one device for all stations.
+
+As a result nationwide standards started developing standards, with the world split into NTSC, PAL, and SECAM, 3 different standards for television broadcasting and reception, dividied among nations (which have since switched to digital standards, divided up differently among countries, as DTMB, ISDB, and DVB). 
+
 =========== ============  ==========  ==========  ========
 Technology  Start of Use  Mainstream  Disruption  2nd wave
 =========== ============  ==========  ==========  ========
