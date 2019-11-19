@@ -16,6 +16,7 @@ Concentric circles of commitment with each larger circle and the larger group ha
 
 This means the center requires radicalism. A soft commitment to a gradual change hypothesis of a mediated vision won't win in a negotiated world without further dilution and compromise
 
+Hijacking the opportunity to communicate
 
 Space race and nuclear weapons required keynsian structures
 
