@@ -3,8 +3,8 @@ Part 3
 Constructing Tomorrows
 ======================
 
-1 Calibrating a vision
-----------------------
+3.1 Calibrating a Vision
+------------------------
 
 Commonly constructed tomorrows manifest as Kurzwelien trajectories paved by future tools projected on to current systems. They assumes stasis of everything and are deeply wedded to a fulfilment narrative depicting some aspects as end states and others as racing towards some visionary apex.
 

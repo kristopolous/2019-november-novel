@@ -3,10 +3,10 @@ Part 1
 The Anatomy of a Future
 =======================
 
-1 What is technology?
+1.1 What is Technology?
 ---------------------
 
-When faced with this question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
+When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
 
 When pressed to go further, often a more abstract answer will be presented, such as "something that improves our lives" or "tools that are manufactured".
 

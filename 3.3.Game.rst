@@ -1,5 +1,5 @@
-3 What is a game?
------------------
+3.3 What is a game?
+-------------------
 
 The second company, the gaming one, is just me and one other person. We released one game that didn't totally fail, but we were able to use as a learning platform (which was the objective) in order to find out how to construct something people would play.
 

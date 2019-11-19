@@ -3,8 +3,8 @@ Part 2
 Futures Past
 ============
 
-1 The many ends of history
---------------------------
+2.1 The many ends of history
+----------------------------
 
 Perhaps the only thing more inaccurate than a description of a future world is a declaration of its absence.
 
