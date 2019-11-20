@@ -21,9 +21,11 @@ Hopefully the historical analysis up to this point has shown how both a structur
 
 The next technology we are going to look at is Hertzian waves, so named after experimental physicist Heinrich Hertz. By the early 1900s, the technology of wave transmission was suggested for Wireless Telegraphs and Wireless Telephones.  It was used by ships to send messages at sea.  The separation of the frequency spectrem into channels and the commercialization of these "radio" devices was done by Marconi, 
 
-In the 1910s radio transmitters and receivers came in kits and became a hobby of tinkerers, much like the first microcomputers in the 1970s. These "amateur radio license" were at the time just "radio license". In 1917 there were 13,581 licenses for people to transmit radio. It was mostly just telegraphs and some grainy voice (the boom for recorded music was still 10 years off).
+In the 1910s radio transmitters and receivers came in kits and became a hobby of tinkerers, much like the first microcomputers in the 1970s. The crystal radio receiver was attractive because it didn't require external power. These "amateur radio license" were at the time just "radio license". In 1917 there were 13,581 licenses for people to transmit radio but at the time it was mostly just telegraph signals and grainy voice (the boom for recorded music was still 10 years off).
 
 By 1919, Frank Conrad, who worked for Westinghouse started broadcasting music and it led to Westinghouse starting a radio station.  Newspapers followed, starting their own local stations. It created a boom in the purchase of radios, which Westinghouse was more than happy to manufacture.
+
+Part of what enabled the growth of radio in the 1920s was the complicated formation of the Radio Corporation of America. Essentially, there was a desire for the British Marconi corporation to be split off and incorporated in the US. Then there were a number of patents that needed to be leveraged to get to a whole product. This led to RCA, in 1921 being controlled by GE, Westinghouse, AT&T, and United Fruit company, essentially establishing a separate entity to focus on radio technology (following Christensen's model)
 
 In the same way that newspapers were only useful if people could read them, radio broadcasts were only meaningful if people could receive them.
 
