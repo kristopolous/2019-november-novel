@@ -36,6 +36,9 @@ Successfully receiving television, unlike with radio, required a number of arbit
 
 As a result nationwide standards started developing standards, with the world split into NTSC, PAL, and SECAM, 3 different standards for television broadcasting and reception, dividied among nations (which have since switched to digital standards, divided up differently among countries, as DTMB, ISDB, and DVB). 
 
+
+The Internet, originally called "ARPAnet" ca
+
 =========== ============  ==========  ==========  ========
 Technology  Start of Use  Mainstream  Disruption  2nd wave
 =========== ============  ==========  ==========  ========
