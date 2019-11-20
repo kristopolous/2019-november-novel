@@ -45,7 +45,7 @@ Initially, computers operated like the first telephones. There were terminals, e
 
 The idea of making a switching network for computers was an obvious step. However, much like for television, there initially wasn't any agreement on how to do this. The ARPANET, often cited as the forerunner to the internet had a number of competing, incompatible standards at the time: NPL network, X.25, Merit Network, CYCLADES, and Telenet.
 
-It's important to note that the creation of the ARPANET was not as a defense against nuclear war, as many say.  It was instead, a way so researchers could gain acccess to work done at other laboratories or as Dr. J. C. R. Licklider, one of the founders of the internet said, in 1972, "The necessity was to transfer what was learned one place effectively to other places without redoing it all. The computers were capable of doing this, the [people/process] communications was inadequate."
+It's important to note the creation of the ARPANET was not a defense against nuclear war as many say.  It was instead a way for researchers could gain acccess to work done at other laboratories or as Dr. J. C. R. Licklider, one of the founders of the internet said, in 1972, "The necessity was to transfer what was learned one place effectively to other places without redoing it all. The computers were capable of doing this, the [people/process] communications was inadequate."
 
 The internet as a distribution  solution. 
 Send at the point of consumption.
@@ -62,15 +62,21 @@ Sending an email over "internet" sounded as logical as sending an email over "ao
 
    We can see two languishing points in the logarithmic growth of internet hosts both getting unpinned by a change in organizational processes. Tools alone could not unpin these ceilings. Once again, systems have limits independent of the physical limitations of the tools. All 3 technologies must move forward together.
 
-=========== ============  ==========  ==========  ========
-Technology  Start of Use  Mainstream  Disruption  2nd wave
-=========== ============  ==========  ==========  ========
-Newspaper   1600          1820        1840        1960
-Radio       1900          1920        1930        1960
-Television  1920          1950        1960        2010
-Internet    1960          1990        2010        not yet
-Cell phones 1980          1990        2010        not yet
-=========== ============  ==========  ==========  ========
+Cell phones were initially started as radio phones. As we discussed with early phone technology in the internet section and early radio technology, the distinction between two radio and mobile telephony was rather indistinguishable at first. In the 1940s there were centralized towers and phones weighing quite a bit to connect to them.  Over the next 70 years lots of things happened including the rise of cell phones and introduction of text messaging but we're going to actually skip all of that until the smart phone.  The smart phone completed the personalized 2nd wave of the internet. No longer were you calling a place, you were calling a person. No longer were there shared computers by proximity, now they were truly personal for the first time.
+
+The one-device-to-rule-them-all had been in the popular mind since at least the 1980s with the rise of the PDA. Companies like HP, Psion, RIM, and Palm provided a vision of a device being a communication singularity. The notion of it as a singular communication point goes back to the 1970s under a work called the dynabook. Initially invisioned as a modern netbook during a time when nobody even had a computer at home, the inventor of this absurd device, XXX.  There were many early ventures into these devices. IBM had the XXX, Apple had the Newton, ...
+
+The science arguably wasn't where it needed to be to fill the dream but arguably more important was the network wasn't. Predecessor to 802.11 (simply called WiFi) existed but there were many standards and very little ubiquity.  There were cellular modems and even ones with RJ-11 jacks (phone jacks) to do 28.8 kb/s dialup speeds so you'd temporarily go online at either great inconvenience or great cost, slowly check a few things, then quickly disconnect. 
+
+===========  ============  ==========  ==========  ========
+Technology   Start of Use  Mainstream  Disruption  2nd wave
+===========  ============  ==========  ==========  ========
+Newspaper    1600          1820        1840        1960
+Radio        1900          1920        1930        1960
+Television   1920          1950        1960        2010
+Internet     1960          1990        2010        not yet
+Cell phones  1980          1990        2010        not yet
+===========  ============  ==========  ==========  ========
 
 Online 
 1. Radio
