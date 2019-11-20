@@ -36,8 +36,26 @@ Successfully receiving television, unlike with radio, required a number of arbit
 
 As a result nationwide standards started developing standards, with the world split into NTSC, PAL, and SECAM, 3 different standards for television broadcasting and reception, dividied among nations (which have since switched to digital standards, divided up differently among countries, as DTMB, ISDB, and DVB). 
 
+> If one wants to deal with information he ought to deal with the information and not with the paper it's written on
+Linkletter (23:44)
 
-The Internet came out of the same trajectory as telephones and telegraphs (which this text is not covering).
+The Internet came out of the same trajectory as telephones and telegraphs (which this text is not covering). The earliest devices were self contained under single administrative bodies (owners). The initial telephones, for instance, were shared lines over say, a large farm. This was of limited utility when one person wanted to communicate with say, their neighbor. The notion of an indirect, on-demand "switching" network started in the 1870s.
+
+Initially, computers operated like the first telephones. There were terminals, even remote ones, to a single computer. Fully automated mechanical telephone switching had been around since the 1880 and by the 1950s, completely relay controlled number 5 crossbar switching systems allowed for a fully automated national phone network. They were, however, completely mechanical (with relay memory and punchcard routing and debugging). 
+
+The idea of making a switching network for computers was an obvious step. However, much like for television, there initially wasn't any agreement on how to do this. The ARPANET, often cited as the forerunner to the internet had a number of competing, incompatible standards at the time: NPL network, X.25, Merit Network, CYCLADES, and Telenet.
+
+It's important to note that the creation of the ARPANET was not as a defense against nuclear war, as many say.  It was instead, a way so researchers could gain acccess to work done at other laboratories or as Dr. J. C. R. Licklider, one of the founders of the internet said, in 1972, "The necessity was to transfer what was learned one place effectively to other places without redoing it all. The computers were capable of doing this, the [people/process] communications was inadequate."
+
+The internet as a distribution  solution. 
+Send at the point of consumption.
+
+It's gotta include more than just the technology of getting computer A to talk to Computer B, it's gotta include the human institutions that will bring together these resources and people to solve real problems of real people.
+Rihard W. Watson (25:10)
+
+The linguistic transformation from "Internet" as a tool to "The Internet" as a whole technology happened around 1994. This was not so much a cultural shift in understanding but a changed appropriation of use.
+
+Sending an email over "internet" sounded as logical as sending an email over "aol" or "compuserve" (other online networks of the time). Generally we put "the" in front of words when we consider it a peerless class, it's an exalted state wherein we implicitly claim either non-ambiguity or non-equivalence with others. For instance, you can get "a cold" but you get "the flu". This classification is the expanding of the possible as all encompassing around a specific instance and as the instance to be an unambigous representative of the class.  
 
 .. figure:: /assets/internet_growth.png
    :alt: Internet Growth
