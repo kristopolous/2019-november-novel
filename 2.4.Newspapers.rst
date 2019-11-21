@@ -107,9 +107,9 @@ Although fitting historical narratives into a framework of rational actors motiv
 
 For the process of newspapers and print this took two paths: 
 
-  * specialized hot metal type-setting machines (via the side-channel of the telegraph and typewriter) for mechanically laying out a press 
+- specialized hot metal type-setting machines (via the side-channel of the telegraph and typewriter) for mechanically laying out a press 
 
-  * the rise of photography based duplication machines, through technologies such as spirit duplicating, photostat and xerography (electrostat)
+- the rise of photography based duplication machines, through technologies such as spirit duplicating, photostat and xerography (electrostat)
 
 This disunification effect led to a split of journalism politics in the early 1900s along controversies of the era, such as unionization and the suffragist movement. As the organizational capacity required to produce decrease, the number of producing organizations increased. For instance, in the 1880s, there were womens suffragist periodicals such as The Woman's Journal and The Woman Suffrage Leaflet. By 1918 however, costs had reduced so that even anti-feminist anti-suffragist women's leagues (however small in number) could publish their own journal, in this case named "The Woman Patriot".
 
