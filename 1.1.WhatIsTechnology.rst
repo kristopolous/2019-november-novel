@@ -4,7 +4,7 @@ The Anatomy of a Future
 =======================
 
 1.1 What is Technology?
----------------------
+-----------------------
 
 When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
 
@@ -12,21 +12,28 @@ When pressed to go further, often a more abstract answer will be presented, such
 
 This class of answers presents a problem: Did techology exist before say, 1800 CE? What about prior to 1000 BCE?
 
-Most then come back with the acknowledgement that spears and weapons, those are technologies as well. So that means technology is tools. 
+Most then come back with the acknowledgement that spears and weapons are technologies as well. So this would mean technology is generally tools. 
 
-Alright, so now we have physical tools as technology. IS that all it is?
+Let's look at words related to technology: technical, and technique. Those two words are much more about process and craft. They are transitive in nature and transitioning in intent. Technical is about a richer understanding and technique is about a richer manipulation. 
 
-What about the advancement in germ theory that led to medicine doing the simple task of sterilization, is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used, is that too, the act of cleaning tools, also a technology?  
+So what about the advancement in germ theory that led to the medical world doing the simple task of sterilization? Is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used.  Would that too, the act of cleaning tools, also be a technology? Likely so.
 
-What about the skills to do it.  Surely different methods have different outcomes and different results.  The shephearding of the tools between the cleaning and use and the mechanisms for doing that, aren't those also technologies?
+What about the skills to do it? Surely different methods of cleaning have different outcomes and different results.  The shephearding of the tools between the cleaning and use and the mechanisms for doing that, aren't those processes and knowledge also a set technologies?
 
-Do all of these things appear to follow roughly the same paths of improvements and refinements? When we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease, the classifications, the systems for dealing with it?
+Do all of these "technologies" as defined appear to follow roughly the same paths of improvements and refinements? 
 
-Isn't technology then, really a kind of system?  Is it an abstraction of thought with many manifestations? What isn't it? For instance, most would agree the act of building a computer is an act of technology but the act of writing a novel on the building of the computer is not.  What if, instead of this novel, we're talking about Miguel de Cervantes writing the first European novel, Don Quixote, in 1605? Would the innovation of being the first novel thus make it a technological act? Don't worry, you'll be able to answer all these questions in a few paragraphs.
+For instance, when we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease or the classifications of the systems for dealing with it?
 
-Let's look at words related to technology: technical, and technique. Those two words are much more about process and craft. They are transitive in nature and transitioning in intent. Technical is about a richer understanding and technique is about a richer manipulation.  What is technology then?
+Wouldn't this implicate that technology is really a kind of system?  Is it an abstraction of thought with many manifestations? What is it not? 
 
-The biggest insight to help me understand these problems and what technology is actually came from an unusual place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrafice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen, for no obvious immediate reason, to just give the animals away to someone else in a grand elaborate ceremony with no materials exchanged in return. Then the gift giver would leave.  
+For instance, most would agree the act of building a computer is an act of technology but the act of writing a novel on the building of the computer is not.  But perhaps that's simply because novels have been around for a long time.  What if, instead of this novel, we are talking about Miguel de Cervantes writing the first European novel, Don Quixote, in 1605? 
+
+Would the innovation of being the first novel thus make it a technological act? Is technology then, the space occupied between invention and commodity? Don't worry, you'll be able to answer all these questions in a few paragraphs.
+
+Technology as an abstraction
+============================
+
+The biggest insight to help me understand these problems and what technology is comes from an unsuspecting place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrafice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen, for no obvious immediate reason, to just give the animals away to someone else in a grand elaborate ceremony with no materials exchanged in return. Then the gift giver would leave.  
 
 In fact, in many instances, there was no separate market economy of exchange. This was the only mechanism of exchange. What is going on here?
 
@@ -44,23 +51,24 @@ That means that property is a set of conventions practiced with physical objects
 
 Thus the notion of property is fundamentally a relationship. What can and cannot be property and the rights one can do on their property is also a function of relationships. The rights and liberties surrounding the properties are consequences of these. Someone making money through illegal means for instance, doesn't have the same property protections as someone else making the money through legal means.
 
-If property is the object of relationship, technology is the mechanism of relationships among people and their environment.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself*. In the same way that property is the relationship, technology is a mechanism of that relationship.
+If property is the object of relationship, technology is the *mechanism of relationships among people and their environment*.  It's a physical or fictional (in the legal sense) device that has a describable mechanical nature. Technology may or may not involve a physical object but *it is not the object itself*. In the same way that property is the relationship, technology is a mechanism of that relationship.
 
-A plant growing leaves with medicinal properties isn't itself a technology, the mechanism of using that plant in a medicinal way, that's the technology.  If this plant is cultivated in a way to make that medicinal more effective, the newer plants are objects of technology in the same way that a private thing is an object of property.  The technology is the exercising of these objects.
+A plant growing leaves with medicinal properties isn't itself a technology, the mechanism of using that plant in a medicinal way, that's the technology.  If this plant is cultivated in a way to make that medicinal more effective, the newer plants are objects of technology in the same way that a private thing is an object of property.  The technology is the exercising (mechanization) of these objects just like the poperty is the relationship.
 
-To illustrate this further, let's use a microscope. The microscope isn't The technology, it's an object of the technology of magnitfication and a mechanism of relationships of using magnification. 
+To illustrate this further, let's use a microscope. Microscopes aren't The technology but an object of the technology of magnitfication and a mechanism of relationships of using magnification. Relationships with who? Relationships with what? Imagine a single person in a lab, looking through the microscope, writing down observations. What is the relationship? 
 
-Even if it's just one person using a microscope, making an observation, there's still a fundamental technology relationship. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations. 
+Even if it's just one person using a microscope, making an observation, there's still a fundamental technology relationship. To understand it, we have to look deeper at what a relationship is. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations.  The microscope is a realtionship that facilitates the creation of new relationships. Tools bridge technologies. They are the connections and lead to technologies which birth further tools.
 
-The microscope was key in understanding diseases and how humans related with the diseases. The microscope is a device of environmental relationship. 
+On another level, the microscope was also an instrumental instrument in understanding diseases and how humans related with  diseases. The microscope is a device for connecting environmental relationship. 
 
-Marx calls this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, the economic relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object.
+Mistaking the action for the object and the object for the action is an immensely easy thing to do that robs us of deeper throught.
+Marx calls this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, our personal relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object. That's why science fiction that tells basic stories but substitutes fictional future stuff are considered to be rather low quality. The future is a holistic study.
 
 Some people are still unconvinced of the encompassing definition of technology as something that doesn't use fuel or physics or plug into a wall. I'm going to show how that's an artificial confinement of how we choose to think about technology and not a core requirement of it. 
 
-Think about how it's used. Before an engineer automates a task, they often have people do a manual, traditional version and then automate the parts that are necessary when it's necessary. Are only the software parts here technology or is the entire approach a form of technology? 
+Think about how technology is used. Before an engineer automates a task, they often have people do a manual, traditional version of the task and then automate the parts that are necessary when it's necessary. Are only the software parts here technology or is the entire approach a form of technology? Can't it be argued that the entirety is a technology and the detail of what is or is not automated is a characteristic of and not the nature of the technology?
 
-When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is too say, the human process with the tool because that's also part of the technology.
+When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is to say, the human process with the tool.  The interfacing of the tool, which is a relationship, that's the point of criticism. That is also part of the technology.
 
 Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
 
