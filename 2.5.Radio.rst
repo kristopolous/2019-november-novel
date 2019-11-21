@@ -63,9 +63,15 @@ Send at the point of consumption.
 It's gotta include more than just the technology of getting computer A to talk to Computer B, it's gotta include the human institutions that will bring together these resources and people to solve real problems of real people.
 Rihard W. Watson (25:10)
 
+
 The linguistic transformation from "Internet" as a tool to "The Internet" as a whole technology happened around 1994. This was not so much a cultural shift in understanding but a changed appropriation of use.
 
 Sending an email over "internet" sounded as logical as sending an email over "aol" or "compuserve" (other online networks of the time). Generally we put "the" in front of words when we consider it a peerless class, it's an exalted state wherein we implicitly claim either non-ambiguity or non-equivalence with others. For instance, you can get "a cold" but you get "the flu". This classification is the expanding of the possible as all encompassing around a specific instance and as the instance to be an unambigous representative of the class.  
+
+The Internet, as in the networked highway of machines, is not the same thing as the web, technically a set of protocols, but for our purposes, a network highway of thought; well that was the idea of the web anyway.  
+
+The web was talked about in AICA terms for about 40 years before it arguably first happened for real as TBL's WWW. The first mass exposure to some mechanically instrumented library of all knowledge using completely fanciful interfaces was by an extremely well respected Engineer who worked on the Manhatten Project and started Raythen and the National Science Foudnation, Vannevar Bush. He described a Roald Dahl style machine called the Memex in a 1945 article for the Atlantic Monthly called "As We May Think". This was followed and built upon by other philosophers and thinkers such as Ted Nelson who coined the term hypertext in 1963. A number of early systems were built by people such as Douglas Engelbart in 1968 and the hypercard system in 1987.
+
 
 .. figure:: /assets/internet_growth.png
    :alt: Internet Growth
