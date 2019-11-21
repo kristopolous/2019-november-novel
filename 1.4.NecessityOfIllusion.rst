@@ -21,6 +21,7 @@ Current reality must be aside to accommodate enough space to dream and imagine f
 
 In a Proof of Concept, what is a concept and what's being proved?
 
+"Pretotyping is a set of tools, techniques, and tactics designed to help you validate any idea for a new product quickly, objectively, and accurately. The goal is pretotyping is to help you make sure that you are building The Right It before you build It right."
 
 Palm Pilot
 Concept cars
