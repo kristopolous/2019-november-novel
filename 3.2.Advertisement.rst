@@ -7,12 +7,12 @@
 
 What is termed "Digital Out of Home (DOOH)" programmatic, essentially electronic billboards, is often called an emerging field. As of the writing of this, here's how it works:
 
- * SSP - Supply side platforms are the people who own the screens and built, or at least controls the technology that runs on them
- * Ad Network - A supply of SSP "real-estate" for sale usually from multiple SSPs. The number, location, and description of the platforms is part of this. SSPs can be on multiple Ad networks. 
- * Ad Exchange - A broker managing a consolidation of different ad networks to help maximize the reach
- * CPM - The impression unit, essentially the thing being bought and sold, the eyeballs.
- * RTB - A real-time bidding marketplace run by an ad exchange
- * DSP - A demand side platform for managing assets on Ad exchanges and facilitating in RTB on behalf of brands and agencies.
+- SSP - Supply side platforms are the people who own the screens and built, or at least controls the technology that runs on them
+- Ad Network - A supply of SSP "real-estate" for sale usually from multiple SSPs. The number, location, and description of the platforms is part of this. SSPs can be on multiple Ad networks. 
+- Ad Exchange - A broker managing a consolidation of different ad networks to help maximize the reach
+- CPM - The impression unit, essentially the thing being bought and sold, the eyeballs.
+- RTB - A real-time bidding marketplace run by an ad exchange
+- DSP - A demand side platform for managing assets on Ad exchanges and facilitating in RTB on behalf of brands and agencies.
 
 Essentially someone has clients with ads. They find places to put the ads within their budget and a bunch of middlemen act as layers between the physical device and the customer.
 
@@ -22,9 +22,9 @@ That dumb ad that keeps coming up from that website you were on for 5 minutes? T
 
 Here's some problems with this system:
 
- * No consumer wants it: It's been around more or less since the 90s and people still hate it.
- * It's a priesthood of wonkiness: There's about a dozen SSPs, Networks, Exchanges, and DSPs out there along with about another dozen acronyms. It's likely *the most complicated and unintelligible way to advertise*. The industry is awash in middlemen agencies that exist between every step and sometimes even a second tier of more finely tuned middlemen agencies between them.
- * It assumes an advertiser either has the time or the money to hire someone to deal with all of this.
+- No consumer wants it: It's been around more or less since the 90s and people still hate it.
+- It's a priesthood of wonkiness: There's about a dozen SSPs, Networks, Exchanges, and DSPs out there along with about another dozen acronyms. It's likely *the most complicated and unintelligible way to advertise*. The industry is awash in middlemen agencies that exist between every step and sometimes even a second tier of more finely tuned middlemen agencies between them.
+- It assumes an advertiser either has the time or the money to hire someone to deal with all of this.
 
 This system works for say billboards, where they sometimes cost $50,000/month, each!  A multi-million dollar advertising campaign can have all of these, sure.
 
@@ -43,10 +43,10 @@ Each one is fundamentally different in how things are sold and who you are selli
 
 Additionally the traditional value systems of digital ads don't exist in DOOH:
 
- * Low accuracy of reporting: Various firms are trying to attach cameras to do eyeball tracking.
- * Low audience attention: Size, nits, resolution, placement, are all factors that people use to try to address this.
- * Low specificity of audience: SSPs are trying to target things like PoS terminals so they can do audience slicing better.
- * Low provability: Since the vehicle is moving, it's hard for the SSP to prove to anyone else in the chain that the ad played when they report it as played back up to the network.
+- Low accuracy of reporting: Various firms are trying to attach cameras to do eyeball tracking.
+- Low audience attention: Size, nits, resolution, placement, are all factors that people use to try to address this.
+- Low specificity of audience: SSPs are trying to target things like PoS terminals so they can do audience slicing better.
+- Low provability: Since the vehicle is moving, it's hard for the SSP to prove to anyone else in the chain that the ad played when they report it as played back up to the network.
 
 Even though DOOH is bad at these things, the industry, as a whole, doesn't seem to be interested in trying something else. Instead they are trying to cram this round peg into that square hole at whatever level of exhaustion is necessary to get there. They'll occasionally do a subversive tactic around these systems as direct sales but it's to the same customer, promising the same things, just without the architecture to back it up. So they build it out bespoke on a per advertiser basis. Dumb...
 
@@ -58,10 +58,10 @@ A way around this is to have an inventory of about $50,000,000 in thousands of s
 
 Or, you could look for new markets.  DOOH is an innovator's and early adopter's playground which are the foundations of the emerg*ent* market. There is a separate value system that they have which are unique:
 
- * hyper localized - it's the only advertisement that drifts down side streets as a matter of course
- * low entry cost - usually a CLTV that doesn't make a sales team or any middleman (who are in it to take some icing off the margins) make sense
- * a place to experiment - different ads can be played to different parts of town 
- * a longer timeline of execution - since vehicles aren't necessarily guaranteed in any location, a campaign lasting weeks or even months at an affordable rate can lead to a decent MRR (monthly recuring revenue) ROI (return on investment).
+- hyper localized - it's the only advertisement that drifts down side streets as a matter of course
+- low entry cost - usually a CLTV that doesn't make a sales team or any middleman (who are in it to take some icing off the margins) make sense
+- a place to experiment - different ads can be played to different parts of town 
+- a longer timeline of execution - since vehicles aren't necessarily guaranteed in any location, a campaign lasting weeks or even months at an affordable rate can lead to a decent MRR (monthly recuring revenue) ROI (return on investment).
 
 This is fundamentally a substantively different kind of customer. It becomes a low maintenance, low cost, low touch, low expectation product similar to any social media account.  It's ideal for small businesses such as private tutors or a local restaurant, for small events or things like a yard sale, lost dog, anything that can placed on a bulletin board.  It's a NextDoor for advertising. That's the product/market fit (see The four steps to epiphany).
 

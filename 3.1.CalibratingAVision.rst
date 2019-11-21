@@ -16,11 +16,11 @@ Instead, we need to look at recursive, holistic mutable implementations of whole
 
 The mathematical discipline known as "chaos theory" often gets liberally misused by authors as a placeholder for more generalized emergent self-organized properties, that is to say where only a collection of causes lead to an outcome but in this instance it serves as a solid model. In order for systems to be mathematically chaotic, 
 
-  1. they must be sensitive to initial conditions.
+1. they must be sensitive to initial conditions.
 
-  2. they must have mathematical "mixing" (a specific form called topologically transitive).
+2. they must have mathematical "mixing" (a specific form called topologically transitive).
 
-  3. they must have periodic orbits.
+3. they must have periodic orbits.
 
 Chaotic systems aren't about emergent properties yielding steady states, they are about endogenous interacting systems. For instance, a bicycle can't be balanced without moving and can't be moving without balance. These properties are only possible when working together. One could argue that the reason this is emergent is more due to how we've chosen to linguistically categorize these properties by choosing to not create a new category to describe the system. Some people, such as Nicolai Hartmann, called emergence theory "new category" theory because of this.
 
