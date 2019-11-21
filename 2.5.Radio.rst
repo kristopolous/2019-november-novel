@@ -19,6 +19,9 @@ Possible horizons are both constrained by the action and the imaginary and the m
 
 Hopefully the historical analysis up to this point has shown how both a structuring of possibility and a structuring of action are needed before the trajectories diverge to constitute future steps.
 
+Radio: Walls no longer matter
+=============================
+
 The next technology we are going to look at is Hertzian waves, so named after experimental physicist Heinrich Hertz. By the early 1900s, the technology of wave transmission was suggested for Wireless Telegraphs and Wireless Telephones.  It was used by ships to send messages at sea.  The separation of the frequency spectrem into channels and the commercialization of these "radio" devices was done by Marconi, 
 
 In the 1910s radio transmitters and receivers came in kits and became a hobby of tinkerers, much like the first microcomputers in the 1970s. The crystal radio receiver was attractive because it didn't require external power. These "amateur radio license" were at the time just "radio license". In 1917 there were 13,581 licenses for people to transmit radio but at the time it was mostly just telegraph signals and grainy voice (the boom for recorded music was still 10 years off).
@@ -29,6 +32,8 @@ Part of what enabled the growth of radio in the 1920s was the complicated format
 
 In the same way that newspapers were only useful if people could read them, radio broadcasts were only meaningful if people could receive them.
 
+Television: Communication through illusion
+==========================================
 
 Similar to the previous technologies, television had a long experimentation phase, first starting as wired transmissions to completely mechanical devices and then during the radio craze switching to wireless transmissions.  The mechanical technology had a number of fundamental limits on how big the picture could be and how smooth the video could be.  Despite this, the first television station started in 1928.  We now have a two sided marketplace, a producer and device to consume.
 
@@ -40,6 +45,9 @@ As a result nationwide standards started developing standards, with the world sp
 
 > If one wants to deal with information he ought to deal with the information and not with the paper it's written on
 Linkletter (23:44)
+
+Internet: As we may dream
+=========================
 
 The Internet came out of the same trajectory as telephones and telegraphs (which this text is not covering). The earliest devices were self contained under single administrative bodies (owners). The initial telephones, for instance, were shared lines over say, a large farm. This was of limited utility when one person wanted to communicate with say, their neighbor. The notion of an indirect, on-demand "switching" network started in the 1870s.
 
@@ -63,6 +71,9 @@ Sending an email over "internet" sounded as logical as sending an email over "ao
    :alt: Internet Growth
 
    We can see two languishing points in the logarithmic growth of internet hosts both getting unpinned by a change in organizational processes. Tools alone could not unpin these ceilings. Once again, systems have limits independent of the physical limitations of the tools. All 3 technologies must move forward together.
+
+Smart Phones: The truly personal computer
+=========================================
 
 The concept of a cell phone was initially implemented as radio phones. As we discussed with early phone technology in the internet section and early radio technology, the distinction between two-way radio and mobile telephony was rather indistinguishable at first. In the 1940s there were centralized towers and phones weighing quite a bit to connect to them (this period is retroactively referred to as 0G).  Over the next 70 years lots of things happened including the rise of cell phones and introduction of text messaging but we're going to actually skip all of that until the smart phone.  The smart phone completed the personalized 2nd wave of the internet. No longer were you calling a place, you were calling a person. No longer were there shared computers by proximity, now the computer followed the individual and were truly personal for the first time.
 
