@@ -35,3 +35,5 @@ Time the product to be a product of the times
 10-20-30 is an instance of democratization
 
 The frontier is where civilization meets savagery
+
+Newspaper connection to tulip mania
