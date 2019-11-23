@@ -37,3 +37,4 @@ Time the product to be a product of the times
 The frontier is where civilization meets savagery
 
 Newspaper connection to tulip mania
+  - probably invalid
