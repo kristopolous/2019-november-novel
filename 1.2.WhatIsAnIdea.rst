@@ -3,7 +3,9 @@
 
 Whole technologies exist in the service of another amorphous concept, the idea.
 
-Ideas are abstract destinations, with the same properties as physical destinations. They can be an unknown distance, an unknown nature, or something we are quite familiar with. The physicality of a place as an abstract is the soul of the idea  
+Ideas for the intent of our analysis are abstract destinations, with the same properties as physical destinations. They can be an unknown distance, an unknown nature, or something we are quite familiar with. The physicality of a state of existence (such as place or being) as an abstract is the soul of the idea. [#]_
+
+
 ## Make tomorrow worth waiting for
 Hopes and dreams can have a crippling effect.
 
@@ -22,7 +24,7 @@ Creation of future stuff is nicely encapsulated by the beginning of O'Shaughness
 > Yet we are the movers and shakers 
 > Of the world for ever, it seems.
 
-Success, to me, isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one. The process of getting there is about making sure our dreams aren't lost in transmission. 
+Success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one. The process of getting there is about making sure our dreams aren't lost in transmission. 
 
 Concrete goals are the most common ways to define the destination: "Write a 50,000 word novel in 30 days." Jim Collins and Reid Hoffman call such things "vanity metrics" - a measure of what's measurable.
 
@@ -70,3 +72,4 @@ The signal to noise ratio is crucial. Nonsense needs clean, transmittable purity
 
 Hopes and dreams can have a crippling effect.
 
+.. [#] There's a philosophical pedigree about ideas and perception that goes back to the dawn of modern philosophy (see Plato, Descartes, Locke, Hume, etc.). Since we are confining the text into "future thought" we confine the notion of idea within that context. This text intentionally confines things in order to define them. The goal is to construct a repeatable, actionable, but abstract enough to be perpetually unique framework of thought which can be identified and applied as a method. The frontier of concepts like "idea" become a lot less relevant when we commit to drawing our own perimeters around them.

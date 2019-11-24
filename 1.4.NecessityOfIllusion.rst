@@ -1,13 +1,54 @@
 1.4 The necessity of illusion
 ---------------------------
 
-Illusions are commitments to perception not constrained by the required integrities of reality.
-They have a specific logic and language and are a rich platform of communicating thought. Like the shadows on Plato's cave or Margtittes Pipe that isn't, their power rests in that they exist on the fundamental unit of human thought, the idea.
+Illusions are commitments to perception not constrained by the required integrities of reality. Illusions are our closest approximations to experiencable ideas.
+
+They have a specific logic and language and are a rich platform of communicating thought. Like the shadows on Plato's cave or Margrittes Pipe that isn't, their power rests in that they exist on the fundamental unit of human thought, the idea.
+
 There is no other cognitive reality beyond belief. We have ornamentation and product packaging to try to claim otherwise but thoughts, beliefs, ideas, and knowledge are merely idiomatic separations of process and not different actual stuff.
 
 Belief in something working, or that it can be done or that it's at hand. Belief in achievability or unachievability. Belief in why a particular investment of time is justified, belief in that it's an investment and that it's a justifiable reason.
 
-This is the stories we are told, tell our selves, and tell others.  It is at its purest form, a story, an illusion of reality. Stories are orchestrations of illusion, theaters for the minds eye. The best ones come indistinguishale from reality. They have a crisp transmission of thought, a communicated value of being, the necessary illusion before a future realized.
+This is the stories we are told, tell our selves, and tell others.  Stories at their purest form are orchestrations of illusions of reality and are theaters for the minds eye. The best ones come indistinguishale from reality. They have a crisp transmission of thought, a communicated value of being, the necessary illusion before a future realized.
+
+The Palm Pilot: Empowered Illusions 
+====================================
+
+A classic story often repeated is the Jeff Hawkins garage-made block of wood representing a future device he called the Palm Pilot.
+
+This tale is often told as follows: Here's Jeff, Ed, and Donna, the fable goes, with nothing but an idea who go to repeated investor meetings and leave with failure. Then Jeff has an idea! He pretotypes a block of wood mocking it up to be the device he seeks to create. It looks and feels much like the Palm 1000. He goes to his next investor meeting, tosses it on the table to curious eyes who pick it up, feel it in their hands, play with it and imagines.  For the furst time these rich curmudgeons understand the concept of a handheld computer, they toss their money into his project and the rest is history.
+
+It's an illusion of an illusion. A mostly fictionalized historical narrative that brings together a number of real events imagined as a single narrative. Here's the real history:
+
+Palm was a software company that started in 1992, funded by Tandy to write software on a failed PDA called the Zoomer that they were releasing with Casio. The principle was Jeff Hawkins who had worked on a previous tablet computer for GRiD (running MS-DOS, called the GRidPad,released in 1989) a subsidiary of Tandy.  They continued on as a software-for-handhelds company selling things like Graffiti for the Apple Newton, exiting in 1995 in a sale to US Robotics without ever releasing their own device.  Their first device, under ownership of US Robotics was the Palm 1000 in March of 1996.  There were no failed investor meetings, no tossing of a block of wood on a table, none of that. 
+
+The actual history here and the fictional narrative are both important. We can see how the models of future-stuff work with the process of illusion.  The Palm 1000 and 5000 were part of project "Touchdown", which came out of frustration between Palm and Casio over the design of the Zoomer (meant to rhyme with Consumer). (http://kevinboudreau.com/CASE_Palm_Licensing.pdf). A Casio executive stated about the design: "Everything and the kitchen sink had to be in the product" effectively stating that they wanted to take existing paradigms and stuff it into a smaller box.
+
+The Palm cadre were fairly convinced that this was wrong and nobody was doing PDA right, which was why, their theory goes, they continually failed. Going back to 1.2, we stated "Success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one." and "The process of getting there is about making sure our dreams aren't lost in transmission." Hawkins exemplified this in project Touchdown.
+
+Instead of being a smaller computer, Touchdown was to be a computer companion. Palm turned down deals with a number of companies who wanted to compromise the design. As the project became more expensive, their cash problems grew. A takeover by US Robotics, who had connection to nationwide retailers, was agreed upon for $44 million in stock, finalizing in Sept 1995 on the condition that Hawkins and Dubinsky (Palms CEO) could continue on Touchdown.
+
+What about the famous block of wood? Was it made after and just mythically backdated? No. It existed. Here Hawkins spoke of the famous block of wood in an Apr 13 1998 interview on NPR:
+
+"It's true, I went home in my garage. And I have a bunch of materials I work with -- foam boarding, wood and so on, and tape. And I knocked out a model of a Palm Pilot with a stylus in a cradle, and I still have it and it looks remarkably similar to the current product. And that took about 18 months from that block of wood 'til we actually shipped the first Pilot."
+
+So here's what happened,
+
+01-1992 - Palm Inc, funded by GRiD's parent Tandy, launches to write software for the Zoomer.
+07-1992 - Microsoft announces their "Window for Pen" project, later dubbed WinPad.
+12-1992 - Original deadline for Zoomer flies by, no device yet.
+08-1993 - Apple releases Newton, flops
+10-1993 - Zoomer finally ships, 10 months late, flops
+09-1994 - Hawkins builds his block of wood Pilot
+10-1994 - Microsoft cancels their WinPad tablet project
+12-1994 - Microsoft forms project Pegasus, another palmtop attempt
+09-1995 - USRobotics acquisition of Palm finalized
+04-1996 - Pilot 1000/5000 released, success!
+11-1995 - Microsoft releases Windows CE 1.0, flops
+
+There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner."
+
+Instead of trying to "shoehorn Windows into a hand-held computer" (Hawkins), he tried something different, an audacious crispness of vision.  For instance, Grafitti, the input system, "Everyone in the industry thought we were crazy [to have users adapt to the product]" was about going beyond the confinement of reality.  The illusion of the block of wood "designed to fit in a shirt pocket" was the transmission of the dream the built the success.
 
 There's always a sliding scale between story and reality when reaching for a goal; the distance between them is the "reach distance" or the gulf of illusion. The distance between the beginning and the end is the "goal distance". One of the main goals in developing new products is to narrow the reach distance. This can be done in one of two ways:
 
@@ -23,7 +64,6 @@ In a Proof of Concept, what is a concept and what's being proved?
 
 "Pretotyping is a set of tools, techniques, and tactics designed to help you validate any idea for a new product quickly, objectively, and accurately. The goal is pretotyping is to help you make sure that you are building The Right It before you build It right."
 
-Palm Pilot
 Concept cars
 What is a 1.0?
 
