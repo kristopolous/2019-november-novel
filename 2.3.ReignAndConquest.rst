@@ -7,6 +7,13 @@ Doing this requires a nuance and complexity. A kind of detail that reaps deep re
 
 Discovery's companion word is invention and the process of all of them surround relationships and objects, whether material or not and of assigned agency.
 
+Invention has an antiquated use from Middle English which is still often part of its implicit parlance of a "devised method of organization" which looks quite similar to our PPT model with organization being applicable to all 3 pillars.
+
+When the word is used to attribute a person to a tool, often it's historically errant or at best dubious. Thomas Edison is linked with the light bulb, often given the "inventor" label even though there's a significant number of people who did incandescent illumination prior. It's the commercialization, the devised method of organization, that's the important part. That is where "invention" is attributed.  
+
+Another classic example is the computer mouse. Often misattributed to Apple around the early 1980s, it was invented (along with a chorded input) by Douglas Engelbart in the late 1960s. Well, kind of. His mouse had two circular rotational discs instead of the ball underneath. They were perpendicular to each other so the mouse couldn't really do diagonal that well.  Xerox's mouse had an innovative tiny metal ball which made it less frustrating but still quite a pain. Jeff Raskin, who invented drag and drop and drag to select, made it larger, rubber, and put in the center at Apple, which ended up getting it into the hands of countless people. [#]_ So who's the "inventor"?
+
+
 Tomorrows are intrinsically dependent on their ontological mileu. Discoveries for this conversation, which is about imagining and actualizing utilization requires a notion of othernewss. An idea that there is a "there" there which can be manipulated through godmaking acts.
 
 The connection of imperialism, enlightenment, and the scientific revolution coming from the same countries, at the same time constitute what some have called "the age of discovery".
@@ -48,3 +55,5 @@ tools: To understand the tools, we have to look at the long view. The peak year 
 1-9-90: The 90% here, the dream of leaving the soot laden industrial cities for your own house on the prarie was the strong narrative. The execution was rather murky but the narrative was strong enough so that it didn't matter. The idea of escape was there, that's important, but that was the easy part.
 
 And there you have it. This is how the "unorganized terrotories" of the west eventually ethnically cleansed the natives, destroyed the praries, converted it to farms, and then later consolidated it into the agrobusiness we have now.  Ethical? Probably not. Conquest usually isn't.  But did it work? absolutely.
+
+.. [#] The computer mouse had an uphill battle because nobody could figure out how to use it. A story which may or may not be aprocryphal from Apple was that people would turn the device upside down and roll the ball like the controllers in popular arcade games at the time.  The idea of pushing the device around the table to interact with the computer supposedly wasn't obvious to anyone.
