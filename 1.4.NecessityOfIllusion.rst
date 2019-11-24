@@ -1,5 +1,5 @@
 1.4 The necessity of illusion
----------------------------
+-----------------------------
 
 Illusions are commitments to perception not constrained by the required integrities of reality. Illusions are our closest approximations to experiencable ideas.
 
@@ -26,14 +26,26 @@ The actual history here and the fictional narrative are both important. We can s
 
 The Palm cadre were fairly convinced that this was wrong and nobody was doing PDA right, which was why, their theory goes, they continually failed. Going back to 1.2, we stated "Success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one." and "The process of getting there is about making sure our dreams aren't lost in transmission." Hawkins exemplified this in project Touchdown.
 
-Instead of being a smaller computer, Touchdown was to be a computer companion. Palm turned down deals with a number of companies who wanted to compromise the design. As the project became more expensive, their cash problems grew. A takeover by US Robotics, who had connection to nationwide retailers, was agreed upon for $44 million in stock, finalizing in Sept 1995 on the condition that Hawkins and Dubinsky (Palms CEO) could continue on Touchdown.
+Instead of being a smaller computer, Touchdown was to be a computer companion. Palm turned down deals with a number of companies who wanted to compromise the design. As the project became more expensive, their cash problems grew. A takeover by US Robotics, who had connection to nationwide retailers, was agreed upon for $44 million in stock, finalizing in Sept 1995 on the condition that Hawkins and Dubinsky (Palm's CEO) could continue on Touchdown.
 
-What about the famous block of wood? Was it made after and just mythically backdated? No. It existed. Here Hawkins spoke of the famous block of wood in an Apr 13 1998 interview on NPR:
+What about the famous block of wood? Was it made after and just mythically backdated? No. It existed. Here Hawkins spoke of the famous block of wood in an April 13 1998 interview on NPR:
 
-"It's true, I went home in my garage. And I have a bunch of materials I work with -- foam boarding, wood and so on, and tape. And I knocked out a model of a Palm Pilot with a stylus in a cradle, and I still have it and it looks remarkably similar to the current product. And that took about 18 months from that block of wood 'til we actually shipped the first Pilot."
+  I went home in my garage. And I have a bunch of materials I work with -- foam boarding, wood and so on, and tape. And I knocked out a model of a Palm Pilot with a stylus in a cradle, and I still have it and it looks remarkably similar to the current product. And that took about 18 months from that block of wood 'til we actually shipped the first Pilot.
 
-So here's a brief run-down of Palm computers and other pen-computing related technologies
-over the 1992-1996 period:
+The block of wood allowed Hawkins to address what he saw were the problems in the pen computing market:
+
+- They couldn't be put in a pocket
+
+- There were too difficult to use
+
+- They were too expensive
+
+- By being focused on features, the features lost focus
+
+Hawkings would constantly use the block of wood to imagine the product, carrying it around with him. He dogfooded the illusion. Did it pay off? 
+
+Here's a brief run-down of Palm computers and other pen-computing related technologies
+over the 1992-1996 period (leaving out the innovative Nokia 9100, which is arguably a different class):
 
 ======= ========= =========================================================================
 Date    Company   Action
@@ -56,9 +68,12 @@ Date    Company   Action
 11-1996 Microsoft Releases Windows CE 1.0, flops
 ======= ========= =========================================================================
 
-There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner."
+There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner." The commitment to idea through the illusion was critical in not repeating the issues that led GRiDPad and the Zoomer to go off the rails like all the other pen computing products of the era.
 
-Instead of trying to "shoehorn Windows into a hand-held computer" (Hawkins), he tried something different, an audacious crispness of vision.  For instance, Grafitti, the input system, "Everyone in the industry thought we were crazy [to have users adapt to the product]" was about going beyond the confinement of reality.  The illusion of the block of wood "designed to fit in a shirt pocket" was the transmission of the dream the built the success.
+Instead of trying to "shoehorn Windows into a hand-held computer" (Hawkins), he tried something different, an audacious crispness of vision.  For instance, Grafitti, the input system which required you to learn a new alphabet instead of trying to recognize everyone's handwriting: "Everyone in the industry thought we were crazy [to have users adapt to the product]" this was about going beyond the confinement of reality.  The Grafitti system allowed them to set aside the most challenging part of pen computing, recognition, and have plenty of space and resources for the things that people cared about, applications. The illusion of the block of wood "designed to fit in a shirt pocket" was the transmission of the dream the built the success.
+
+1.4.2 Sell now, build later
+===========================
 
 There's always a sliding scale between story and reality when reaching for a goal; the distance between them is the "reach distance" or the gulf of illusion. The distance between the beginning and the end is the "goal distance". One of the main goals in developing new products is to narrow the reach distance. This can be done in one of two ways:
 
@@ -68,15 +83,17 @@ There's always a sliding scale between story and reality when reaching for a goa
 
 This model, although easy to understand, needs some nuance. Goals aren't material, they are idealized. They should be impractical and unattainable because they work as a collection of principles that constitute a value of being.  The manifestations should be approximations of the thought stuff.  If they are exact hits, then it isn't future enough.
 
-Microsoft brilliantly executed this when they were fighting off a very innovative Pen Computing company, GO, in 1991. Go had released a fairly revolutionary PenPoint OS. [#]_  6 weeks after it was demoed, Microsoft had a "product" called Pen Windows, that appeared to do the same things.  But it was an illusion.
+The software term for this is vaporware, promises of futures not yet built. At press-laden conferences such as CES (and beforehand Comdex), companies would often have videos showing a product working or have a demonstration device that seeks to convince the public that something exists. This is often done to either secure contracts or hurt partnerships of their competitors. It's the art of techno-bluster, this theater of illusion is essential for the narrative building of future-stuff (see 2.5.2).  Often these can be created (as in the Palm Pilot example) in the process of product development.  Presenting the illusion as a reality to the public can be used as a form of "paper testing" (roleplaying with the consumer to complete the product).  It can also be used to try to neutralize would-be competition.
 
-For instance, in PenPoint, a user could fully embed documents within documents in a cross-contextual navigable way allowing the user to swim around the system via pen creating new contextual links that permit them to inter-connect thought. They had spaces for bookmarks where the pen could deep link any part of any document which would move with the document, as it was being edited. Simply extraordinary.
+Microsoft brilliantly executed this when they were fighting off a very innovative Pen Computing company, GO, in 1991. $75 million and 3 years in development, Go had finished and released a fairly revolutionary PenPoint OS. [#]_  6 weeks after it was demoed, Microsoft had a "product" called Pen Windows, that appeared to do the same things.  But it was an illusion.
 
-This existential threat of what was essentially the Xerox Parc boys giving it another go, this time through pen computing, shook Microsoft. GO had elegantly and seemlessly achieved what Microsoft had been promissing and dreaming of for years. That was a problem. They couldn't deliver or compete against GO in any reasonable amount of time but they could pull dirty tricks and lie. 
+For instance, in PenPoint, a user could fully embed documents within documents in a cross-contextual navigable way allowing the user to swim around the system via pen creating new contextual links that permit them to inter-connect thought. They had spaces for bookmarks where the pen could deep link any part of any document which would move with the document, as it was being edited. Simply extraordinary. Doing this today at an inter and cross-organizational level at a core functional level would be somewhat revolutionary in b2b interconnectedness. There was always an intention up to the late 90s for the internet to be a deeper intermingling of business logic than some custom-built non-interoperable non-integrable facade presenting database results in HTML. We should probably revisit that sometime soon.
+
+This existential threat to Windows of what was essentially the Xerox Parc boys giving it another go, this time through pen computing, shook Microsoft. GO had elegantly and seemlessly achieved what Microsoft had been promissing and dreaming of for years. That was a problem. They couldn't deliver or compete against GO in any reasonable amount of time but they could pull dirty tricks and lie through the power, the necessity, of illusion.
 
 And that's exactly what they did.
 
-Their illusion of equivalency provided by Microsoft is well documented in "BARBARIANS LED BY BILL GATES" by Jennifer Edstrom and Marlin Eller:
+The illusion of equivalency provided by Microsoft is well documented in "BARBARIANS LED BY BILL GATES" by Jennifer Edstrom and Marlin Eller:
 
   Eller's group kluged up this demo for videotape that showed how
   edit in place would work. He launched Excel with a chart in it. Then

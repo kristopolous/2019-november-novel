@@ -22,7 +22,9 @@ Hopefully the historical analysis up to this point has shown how both a structur
 2.5.1 Radio: Walls no longer matter
 ===================================
 
-The next technology we are going to look at is Hertzian waves, so named after experimental physicist Heinrich Hertz. By the early 1900s, the technology of wave transmission was suggested for Wireless Telegraphs and Wireless Telephones.  It was used by ships to send messages at sea.  The separation of the frequency spectrem into channels and the commercialization of these "radio" devices was done by Marconi, 
+The next technology we are going to look at is Hertzian waves, so named after experimental physicist Heinrich Hertz. By the early 1900s, the technology of wave transmission was suggested for Wireless Telegraphs and Wireless Telephones.  It was used by ships to send messages at sea.  The separation of the frequency spectrem into channels and the commercialization of these "radio" devices was done by the Italian businessman Guglielmo Marconi who was the first to see the business potential of long-distance radio and is often credited with the invention of modern radio.
+
+"Invention" was dealt with in 2.3
 
 In the 1910s radio transmitters and receivers came in kits and became a hobby of tinkerers, much like the first microcomputers in the 1970s. The crystal radio receiver was attractive because it didn't require external power. These "amateur radio license" were at the time just "radio license". In 1917 there were 13,581 licenses for people to transmit radio but at the time it was mostly just telegraph signals and grainy voice (the boom for recorded music was still 10 years off).
 
