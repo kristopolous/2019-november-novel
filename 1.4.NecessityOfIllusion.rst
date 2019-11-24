@@ -32,25 +32,29 @@ What about the famous block of wood? Was it made after and just mythically backd
 
 "It's true, I went home in my garage. And I have a bunch of materials I work with -- foam boarding, wood and so on, and tape. And I knocked out a model of a Palm Pilot with a stylus in a cradle, and I still have it and it looks remarkably similar to the current product. And that took about 18 months from that block of wood 'til we actually shipped the first Pilot."
 
-So here's what happened,
+So here's a brief run-down of Palm computers and other pen-computing related technologies
+over the 1992-1996 period:
 
-Date      Company   Action
-01-1992 - Palm      Funded by GRiD's parent Tandy, launches to write software for the Zoomer.
-07-1992 - Microsoft Announces their "Window for Pen" project, later dubbed WinPad.
-12-1992 - Casio     Original deadline for Zoomer flies by, no device yet.
-08-1993 - Apple     Releases Newton MessagePad (50,000 sold), flops.
-10-1993 - Casio     Zoomer finally ships, 10 months late, flops.
-12-1993 - Dauphin   Releases "Desktop Replacement" (DTR-1 - under 30,000 sold), flops.
-08-1994 - IBM       Releases Simon (50,000 sold), flops.
-09-1994 - Palm      Hawkins builds his block of wood Pilot
-10-1994 - Microsoft Cancels their WinPad tablet project, not releasing anything
-12-1994 - Microsoft Announces project Pegasus, another palmtop attempt
-12-1994 - Sony      Releases MagicLink, flops
-01-1995 - Dauphin   Files for bankruptcy
-03-1995 - Motorola  Releases Envoy, flops
-09-1995 - Palm      Bought by USRobotics
-04-1996 - Palm      Releases Pilot 1000/5000, success!
-11-1996 - Microsoft Releases Windows CE 1.0, flops
+======= ========= =========================================================================
+Date    Company   Action
+======= ========= =========================================================================
+01-1992 Palm      Funded by GRiD's parent Tandy, launches to write software for the Zoomer.
+07-1992 Microsoft Releases Windows for Pen Computing, announces a tablet named WinPad.
+12-1992 Casio     Original deadline for Zoomer flies by, no device yet.
+08-1993 Apple     Releases Newton MessagePad (50,000 sold), flops.
+10-1993 Casio     Zoomer finally ships, 10 months late, flops.
+12-1993 Dauphin   Releases "Desktop Replacement" (DTR-1 - under 30,000 sold), flops.
+08-1994 IBM       Releases Simon (50,000 sold), flops.
+09-1994 Palm      Hawkins builds his block-of-wood Pilot
+10-1994 Microsoft Cancels their WinPad tablet project, not releasing anything
+12-1994 Microsoft Announces project Pegasus, another palmtop attempt
+12-1994 Sony      Releases MagicLink, flops
+01-1995 Dauphin   Files for bankruptcy
+03-1995 Motorola  Releases Envoy, flops
+09-1995 Palm      Bought by USRobotics
+04-1996 Palm      Releases Pilot 1000/5000, success!
+11-1996 Microsoft Releases Windows CE 1.0, flops
+======= ========= =========================================================================
 
 There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner."
 
@@ -64,6 +68,51 @@ There's always a sliding scale between story and reality when reaching for a goa
 
 This model, although easy to understand, needs some nuance. Goals aren't material, they are idealized. They should be impractical and unattainable because they work as a collection of principles that constitute a value of being.  The manifestations should be approximations of the thought stuff.  If they are exact hits, then it isn't future enough.
 
+Microsoft brilliantly executed this when they were fighting off a very innovative Pen Computing company, GO, in 1991. Go had released a fairly revolutionary PenPoint OS. [#]_  6 weeks after it was demoed, Microsoft had a "product" called Pen Windows, that appeared to do the same things.  But it was an illusion.
+
+For instance, in PenPoint, a user could fully embed documents within documents in a cross-contextual navigable way allowing the user to swim around the system via pen creating new contextual links that permit them to inter-connect thought. They had spaces for bookmarks where the pen could deep link any part of any document which would move with the document, as it was being edited. Simply extraordinary.
+
+This existential threat of what was essentially the Xerox Parc boys giving it another go, this time through pen computing, shook Microsoft. GO had elegantly and seemlessly achieved what Microsoft had been promissing and dreaming of for years. That was a problem. They couldn't deliver or compete against GO in any reasonable amount of time but they could pull dirty tricks and lie. 
+
+And that's exactly what they did.
+
+Their illusion of equivalency provided by Microsoft is well documented in "BARBARIANS LED BY BILL GATES" by Jennifer Edstrom and Marlin Eller:
+
+  Eller's group kluged up this demo for videotape that showed how
+  edit in place would work. He launched Excel with a chart in it. Then
+  he launched Word with the chart cut from the Excel program. The
+  smaller Excel window was hiding in the background, and the Word
+  window was bigger so the audience couldn't see Excel. Eller drew a
+  gesture on the chart sitting in Word, which called Excel to the top.
+  As long as Excel was in the right place, it came right up on top of
+  where Word was, and it didn't look like anything had moved. It
+  looked like Word had just popped up the Excel menus right into the
+  middle of the Word documents so it could be edited. Eller made the
+  changes in Excel and closed it. He hooked up a software instruction
+  that told Excel to move to the background and disappear behind
+  Word. Then it looked like he was working again in Word with the
+  proper Excel document embedded in it.
+
+  It looked great on the tape, but it was total bull, pure smoke and
+  mirrors, the apotheosis of vaporware. There was no linking or embedding 
+  occurring. Eller was simply pulling one application to the
+  front of the other one.
+
+  At the company meeting, executive Mike Maples stepped up to
+  the podium.
+
+  "Okay, here's this other thing we're working on," Maples said.
+  "Here I have my document, and I have my tablet here." He held the
+  pen up and waved it.
+
+  "Now I can go into my Word document here, and I can write."
+  While Maples was talking, charts and images flashed on the
+  screen, and everybody thought he was actually writing on the pen
+  tablet as he spoke at the podium. In actuality, he was just waving his
+  pencil over blank paper while the videotape ran.
+
+Classic skullduggery from the days of evil Microsoft.
+
 Current reality must be aside to accommodate enough space to dream and imagine future worlds. Our depictions of a future through narrative illusions such as theater, literature, and film are about exploring relationships with a context change.  The act of divergence expressed through the illusion is as if not more important than the content of the divergence.  
 
 In a Proof of Concept, what is a concept and what's being proved?
@@ -73,3 +122,4 @@ In a Proof of Concept, what is a concept and what's being proved?
 Concept cars
 What is a 1.0?
 
+.. [#] PenPoint OS had such novel features as being able to hyperlink any offset of any document (Ted Nelson's Xanadu has this feature by separating the control and data files, the former being byte offsetted) not just through a link, but through actual media that is fully embedded and fully editable (where MSFT's OLE/ActiveX model never quite achieved).  Beyond this, it had a universal, but also contextual gesture system that applied across all applications, you could remove a wall in a CAD drawing with the same gesture that you remove a word in a text document. It is a novel approach that brings the insights of HyperCard to general computer interfaces. There's many more profound features that haven't been replicated. Watching the promotional video "Introducing PenPoint" from 1991 is highly recommended for the curious.
