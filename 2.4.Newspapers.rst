@@ -1,5 +1,5 @@
 2.4 Newspapers and the great upheaval
------------------------------------
+-------------------------------------
 Whole communication technology have the implication of the TPP model in its own unique way.
 
 By now it should be expected that the future is about a reordering of structure and redefinition of terms, someone who takes society's coloring book and draws an entirely new thing on the page instead.
@@ -25,6 +25,9 @@ The 5 technologies it was repeated with are
 These all developed along similar patterns with similar processes and similar results. Furthermore, these patterns can usually be fractally applied to each of the subdivision of steps.
 
 We'll start with a tool that has mostly dissappeared from the landscape: the common newspaper.
+
+2.4.1 News produced for the masses
+==================================
 
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the potential of future shaping in the system as a whole wouldn't have.
 
@@ -98,6 +101,10 @@ It was home to some of the earliest examples of skyscrapers. In the same way tha
    :alt: Park Row
 
    This photograph, taken around 1900, shows, what at the time were some of the tallest skyscrapers in the world. In order, the Pulitzer New York World (newspaper) building, New Yorker Staats-Zeitung (the leading German newspaper) building, New York Tribune building, and the New York Times building.
+
+2.4.2 The masses produce the News
+=================================
+
 
 Following the S-Curve models, as technologies become mature, margin on production become thinner forcing future innovation to a reduction of cost in the tools of construction.  This decrease in production cost eventually collapses the power of the gatekeepers as they existed primarily because of the barriers of production implicated producers being selected through a process of kingmaking.
 
