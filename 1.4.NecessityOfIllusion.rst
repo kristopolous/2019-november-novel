@@ -11,8 +11,8 @@ Belief in something working, or that it can be done or that it's at hand. Belief
 
 This is the stories we are told, tell our selves, and tell others.  Stories at their purest form are orchestrations of illusions of reality and are theaters for the minds eye. The best ones come indistinguishale from reality. They have a crisp transmission of thought, a communicated value of being, the necessary illusion before a future realized.
 
-The Palm Pilot: Empowered Illusions 
-====================================
+1.4.1 The Palm Pilot: Empowered Illusions 
+=========================================
 
 A classic story often repeated is the Jeff Hawkins garage-made block of wood representing a future device he called the Palm Pilot.
 
