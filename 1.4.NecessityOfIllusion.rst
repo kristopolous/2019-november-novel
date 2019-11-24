@@ -16,19 +16,21 @@ This is the stories we are told, tell our selves, and tell others.  Stories at t
 
 A classic story often repeated is the Jeff Hawkins garage-made block of wood representing a future device he called the Palm Pilot.
 
-This tale is often told as follows: Here's Jeff, Ed, and Donna, the fable goes, with nothing but an idea who go to repeated investor meetings and leave with failure. Then Jeff has an idea! He pretotypes a block of wood mocking it up to be the device he seeks to create. It looks and feels much like the Palm 1000. He goes to his next investor meeting, tosses it on the table to curious eyes who pick it up, feel it in their hands, play with it and imagines.  For the furst time these rich curmudgeons understand the concept of a handheld computer, they toss their money into his project and the rest is history.
+This tale is often told as follows: Here's Jeff, Ed, and Donna, the fable goes, with nothing but an idea and classic silicon valley grit, who go to repeated investor meetings trying to describe their idea for a PDA but never quite get the idea across and leave dejected, failing. Then Jeff has an idea! He pretotypes a block of wood mocking it up to be the device he seeks to create. It looks and feels much like the Palm 1000/5000. He goes to his next investor meeting, tosses it on the table to curious eyes who pick it up, feel it in their hands, play with it and imagines.  For the first time the rich curmudgeons understand the concept of a handheld computer and the ideas start flowing. It becomes about problem solving and not about selling the idea. They toss their money into his project, he emerges victorious and the rest is history.
 
-It's an illusion of an illusion. A mostly fictionalized historical narrative that brings together a number of real events imagined as a single narrative. Here's the real history:
+Great story, too bad it's fake. Even more, it's an illusion about an illusion. A mostly fictionalized historical narrative that brings together a number of real events from other people's actual history imagined as a single consolidate narrative and then attributed to Palm. 
 
-Palm was a software company that started in 1992, funded by Tandy to write software on a failed PDA called the Zoomer that they were releasing with Casio. The principle was Jeff Hawkins who had worked on a previous tablet computer for GRiD (running MS-DOS, called the GRidPad,released in 1989) a subsidiary of Tandy.  They continued on as a software-for-handhelds company selling things like Graffiti for the Apple Newton, exiting in 1995 in a sale to US Robotics without ever releasing their own device.  Their first device, under ownership of US Robotics was the Palm 1000 in March of 1996.  There were no failed investor meetings, no tossing of a block of wood on a table, none of that. 
+The real history is about a class of devices called Pen Computers, an ancestoral relative of the modern smart phone. Pen computer was the biggest perpetrator, utilizer, and victim of the process and power of illusion.  But first, here's Palm Inc.'s  more accurate history:
+
+Palm was a software company that started in 1992 as a spinoff off of GRiD, funded by Tandy to write software on a failed PDA called the Zoomer that they were releasing with Casio. The principle was Jeff Hawkins who had worked on a previous tablet computer for GRiD (running MS-DOS, called the GRidPad, released in 1989) a subsidiary of Tandy. He hired Donna Dubinsky from Apple and Ed Colligan from Radius Corporation (who made successful UX accessory products for the macintosh and exited in 1990 via IPO). As far as their consumer-facing image, they continued on as a software-for-handhelds company selling things like Graffiti for the Apple Newton, exiting in 1995 in a sale to US Robotics without ever releasing their own device.  Their first device, under ownership of US Robotics was the Palm 1000 in March of 1996.  There were no failed investor meetings, no tossing of a block of wood on a table, none of that. 
 
 The actual history here and the fictional narrative are both important. We can see how the models of future-stuff work with the process of illusion.  The Palm 1000 and 5000 were part of project "Touchdown", which came out of frustration between Palm and Casio over the design of the Zoomer (meant to rhyme with Consumer). (http://kevinboudreau.com/CASE_Palm_Licensing.pdf). A Casio executive stated about the design: "Everything and the kitchen sink had to be in the product" effectively stating that they wanted to take existing paradigms and stuff it into a smaller box.
 
-The Palm cadre were fairly convinced that this was wrong and nobody was doing PDA right, which was why, their theory goes, they continually failed. Going back to 1.2, we stated "Success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one." and "The process of getting there is about making sure our dreams aren't lost in transmission." Hawkins exemplified this in project Touchdown.
+The Palm cadre were fairly convinced that this was wrong and nobody was doing PDA right, which was why, their theory goes, pen computers continually failed. Going back to 1.2, we stated "Success isn't a commitment existing within the confinement of a reality as much as it is a commitment to creating a new one." and "The process of getting there is about making sure our dreams aren't lost in transmission." Hawkins exemplified this in project Touchdown.
 
-Instead of being a smaller computer, Touchdown was to be a computer companion. Palm turned down deals with a number of companies who wanted to compromise the design. As the project became more expensive, their cash problems grew. A takeover by US Robotics, who had connection to nationwide retailers, was agreed upon for $44 million in stock, finalizing in Sept 1995 on the condition that Hawkins and Dubinsky (Palm's CEO) could continue on Touchdown.
+Instead of being a smaller computer, Touchdown was to be a computer companion. Palm turned down deals with a number of companies who wanted to compromise the design; the PPT is fundamentally corruptible if you don't tend to it like a gardener, Hawkins knew this intuitively. However, as the project became more expensive, Palms cash problems grew. A takeover by US Robotics (the leading modem company at the time), who had connections to nationwide retailers, was agreed upon for $44 million in stock, finalizing in Sept 1995 on the condition that Hawkins and Dubinsky (Palm's CEO) could continue on Project Touchdown.
 
-What about the famous block of wood? Was it made after and just mythically backdated? No. It existed. Here Hawkins spoke of the famous block of wood in an April 13 1998 interview on NPR:
+What about the famous block of wood? Was it made after and just mythically backdated? No. It did exist, and how it was used is important to look at for the way futures get made. Here Hawkins speaks of the famous block of wood in an April 13, 1998 interview on NPR:
 
   I went home in my garage. And I have a bunch of materials I work with -- foam boarding, wood and so on, and tape. And I knocked out a model of a Palm Pilot with a stylus in a cradle, and I still have it and it looks remarkably similar to the current product. And that took about 18 months from that block of wood 'til we actually shipped the first Pilot.
 
@@ -42,10 +44,10 @@ The block of wood allowed Hawkins to address what he saw were the problems in th
 
 - By being focused on features, the features lost focus
 
-Hawkings would constantly use the block of wood to imagine the product, carrying it around with him. He dogfooded the illusion. Did it pay off? 
+Hawkings would constantly use the block of wood, with various papers he would put on top of it to represent applications, to imagine the product, carrying it around with him. He dogfooded the illusion and tried to have a full experience of an imaginary product. How well did it pay off? 
 
 Here's a brief run-down of Palm computers and other pen-computing related technologies
-over the 1992-1996 period (leaving out the innovative Nokia 9100, which is arguably a different class):
+over the 1992-1996 period (leaving out the innovative Nokia 9100, which is arguably a different class of object):
 
 ======= ========= =========================================================================
 Date    Company   Action
@@ -56,21 +58,24 @@ Date    Company   Action
 08-1993 Apple     Releases Newton MessagePad (50,000 sold), flops.
 10-1993 Casio     Zoomer finally ships, 10 months late, flops.
 12-1993 Dauphin   Releases "Desktop Replacement" (DTR-1 - under 30,000 sold), flops.
+07-1994 GO        Declares Bankruptcy.
 08-1994 IBM       Releases Simon (50,000 sold), flops.
 09-1994 Palm      Hawkins builds his block-of-wood Pilot
 10-1994 Microsoft Cancels their WinPad tablet project, not releasing anything
-12-1994 Microsoft Announces project Pegasus, another palmtop attempt
+12-1994 Microsoft Announces project Pegasus, another pen computer attempt
 12-1994 Sony      Releases MagicLink, flops
-01-1995 Dauphin   Files for bankruptcy
+01-1995 Dauphin   Declares Bankruptcy.
 03-1995 Motorola  Releases Envoy, flops
 09-1995 Palm      Bought by USRobotics
 04-1996 Palm      Releases Pilot 1000/5000, success!
 11-1996 Microsoft Releases Windows CE 1.0, flops
 ======= ========= =========================================================================
 
-There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner." The commitment to idea through the illusion was critical in not repeating the issues that led GRiDPad and the Zoomer to go off the rails like all the other pen computing products of the era.
+There's a timeline littered with failures from all the big players yet Hawkins sprints out of the pack with a success, what was it about Touchdown that was different? Hawkins stated in the NPR interview, "It had to be better than paper, and previous products were thought of as computers. And we realized our competition was the paper day planner." The commitment to idea through the illusion was critical in not repeating the issues that led GRiDPad and the Zoomer to go off the rails like all the other pen computing products of the era. 
 
-Instead of trying to "shoehorn Windows into a hand-held computer" (Hawkins), he tried something different, an audacious crispness of vision.  For instance, Grafitti, the input system which required you to learn a new alphabet instead of trying to recognize everyone's handwriting: "Everyone in the industry thought we were crazy [to have users adapt to the product]" this was about going beyond the confinement of reality.  The Grafitti system allowed them to set aside the most challenging part of pen computing, recognition, and have plenty of space and resources for the things that people cared about, applications. The illusion of the block of wood "designed to fit in a shirt pocket" was the transmission of the dream the built the success.
+Even tablets in the class, like the AT&T EO were too bulky, slow, expensive, and complicated to be a substitute for paper. Interactive illusions, like the Turing test, have a higher bar to meet - they must be thoroughly convincing. New processes can exist, but it has to "feel" right.
+
+So instead of trying to "shoehorn Windows into a hand-held computer" (Hawkins), he tried something different, an audacious crispness of vision.  For instance, Grafitti, the input system which required you to learn a new, similar, alphabet instead of trying to recognize everyone's handwriting: "Everyone in the industry thought we were crazy [to have users adapt to the product]" this was about going beyond the confinement of reality.  The Grafitti system allowed them to set aside the most challenging part of pen computing, recognition, and have plenty of space and resources for the things that people cared about, size, price, weight, battery life... The illusion of the block of wood "designed to fit in a shirt pocket" was the transmission of the dream that built the success.
 
 1.4.2 Sell now, build later
 ===========================
@@ -85,9 +90,9 @@ This model, although easy to understand, needs some nuance. Goals aren't materia
 
 The software term for this is vaporware, promises of futures not yet built. At press-laden conferences such as CES (and beforehand Comdex), companies would often have videos showing a product working or have a demonstration device that seeks to convince the public that something exists. This is often done to either secure contracts or hurt partnerships of their competitors. It's the art of techno-bluster, this theater of illusion is essential for the narrative building of future-stuff (see 2.5.2).  Often these can be created (as in the Palm Pilot example) in the process of product development.  Presenting the illusion as a reality to the public can be used as a form of "paper testing" (roleplaying with the consumer to complete the product).  It can also be used to try to neutralize would-be competition.
 
-Microsoft brilliantly executed this when they were fighting off a very innovative Pen Computing company, GO, in 1991. $75 million and 3 years in development, Go had finished and released a fairly revolutionary PenPoint OS. [#]_  6 weeks after it was demoed, Microsoft had a "product" called Pen Windows, that appeared to do the same things.  But it was an illusion.
+Microsoft brilliantly executed this when they were fighting off a very innovative Pen Computing company, GO, in 1991. $75 million and 3 years in development, GO had finished and released a fairly revolutionary product called PenPoint OS. [#]_  6 weeks after it was demoed, Microsoft had a "product" called Pen Windows, that appeared to do the same things.  But it was an illusion.
 
-For instance, in PenPoint, a user could fully embed documents within documents in a cross-contextual navigable way allowing the user to swim around the system via pen creating new contextual links that permit them to inter-connect thought. They had spaces for bookmarks where the pen could deep link any part of any document which would move with the document, as it was being edited. Simply extraordinary. Doing this today at an inter and cross-organizational level at a core functional level would be somewhat revolutionary in b2b interconnectedness. There was always an intention up to the late 90s for the internet to be a deeper intermingling of business logic than some custom-built non-interoperable non-integrable facade presenting database results in HTML. We should probably revisit that sometime soon.
+For instance, in PenPoint, a user could fully embed documents within documents in a cross-contextual navigable way allowing the user to swim around the system via pen creating new contextual links that permit them to inter-connect thought. They had spaces for bookmarks where the pen could deep link any part of any document which would move with the document, as it was being edited. Simply extraordinary. Doing this today at an inter and cross-organizational level at a core functional level would be somewhat revolutionary in b2b interconnectedness. There was always an intention up to the late 1990s for the internet to be a deeper intermingling of business logic than some custom-built non-interoperable non-integrable facade presenting database results in HTML. We should probably revisit that sometime soon.
 
 This existential threat to Windows of what was essentially the Xerox Parc boys giving it another go, this time through pen computing, shook Microsoft. GO had elegantly and seemlessly achieved what Microsoft had been promissing and dreaming of for years. That was a problem. They couldn't deliver or compete against GO in any reasonable amount of time but they could pull dirty tricks and lie through the power, the necessity, of illusion.
 
@@ -130,7 +135,7 @@ The illusion of equivalency provided by Microsoft is well documented in "BARBARI
 
 Classic skullduggery from the days of evil Microsoft.
 
-Current reality must be aside to accommodate enough space to dream and imagine future worlds. Our depictions of a future through narrative illusions such as theater, literature, and film are about exploring relationships with a context change.  The act of divergence expressed through the illusion is as if not more important than the content of the divergence.  
+Current reality must be set aside to accommodate enough space to dream and imagine future worlds. Our depictions of a future through narrative illusions such as theater, literature, and film are about exploring relationships with a context change.  The act of divergence expressed through the illusion is as if not more important than the content of the divergence.  
 
 In a Proof of Concept, what is a concept and what's being proved?
 
