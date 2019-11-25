@@ -30,8 +30,8 @@ For instance, most would agree the act of building a computer is an act of techn
 
 Would the innovation of being the first novel thus make it a technological act? Is technology then, the space occupied between invention and commodity? Don't worry, you'll be able to answer all these questions in a few paragraphs.
 
-Technology as an abstraction
-============================
+1.1.1 Technology as an abstraction
+==================================
 
 The biggest insight to help me understand these problems and what technology is comes from an unsuspecting place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrifice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen, for no obvious immediate reason, to just give the animals away to someone else in a grand elaborate ceremony with no materials exchanged in return. Then the gift giver would leave.  
 
@@ -62,6 +62,7 @@ Even if it's just one person using a microscope, making an observation, there's 
 On another level, the microscope was also an instrumental instrument in understanding diseases and how humans related with  diseases. The microscope is a device for connecting environmental relationship. 
 
 Mistaking the action for the object and the object for the action is an immensely easy thing to do that robs us of deeper thought.
+
 Marx calls this mistaking of the relationship (among people) for the physical object "commodity fetishism", or in our case, our personal relationship among physical objects obscures the true nature of technology. If we fetishize the physical object of the microscope and assume it *is* the technology, it misdirects our intentions away from our goals in using the physical object. That's why science fiction that tells basic stories but substitutes fictional future stuff are considered to be rather low quality. The future is a holistic study.
 
 Some people are still unconvinced of the encompassing definition of technology as something that doesn't use fuel or physics or plug into a wall. I'm going to show how that's an artificial confinement of how we choose to think about technology and not a core requirement of it. 

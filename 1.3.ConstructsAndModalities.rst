@@ -4,8 +4,11 @@
 > "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination."
 *Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering*
 
-10-20-30 year rule
-------------------
+Framing what happens in treating the future as process is quite important in order to see if patterns emerge.
+
+
+1.3.1 Democratization and the 10-20-30 year rule
+================================================
 
 In the early 2000s, I distinctly remember two events:
 
@@ -26,20 +29,42 @@ The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th
 
 Seeing such things as "behind the times" is an inaccurate, not future-oriented portrayel. Instead, the dissemination and integration of future stuff has a long-term transformative effect which ripples downmarket like the shockwave of an earthquake. But at every point in that downmarket, a new visionary approach has to be realized to justify its existence.  For instance, a sophisticated color touch-screen microwave would need a new justifiable reason for it to exist.
 
-Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer
+Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer.
 
-1-9-90: The lifeblood of innovation
------------------------------------
+The 10-20-30 model is actually the most understandable version of a process called technological democratization. 
 
-I'm instrumental in two companies right now.  The first one is an advertising technology firm that has screens on top of cars and the second one is a company that is trying to make financial games.
+As will be discussed in 2.4.2, the expansive nature of future is only possible if it scales. Scale is about mass production and mass production is about reducing production costs. As technology scales, the production costs inherently decrease. For consumers this is even more pronounced, in the case of Lockean Property technology, as after-markets from previous generation objects emerge. 
 
-The first one, which is the only one that currently pays the bills, will be dealt with in later chapters. The second company is better for introducing some premises here, and it's what I worked on today.
+Often "Basement price" theories emerge, some theory of an asymptotic lowest possible price almost as some kind of law of physics. However, they are constantly broken when different implementations of the same function emerge. This is because technology is fundamentally the mechanism of relationship. It's not the mechanical hard drive, it's the act of being able to store and retrieve information. It's not the cathode ray tube, it's the ability to have an interactive session (relationship) with the computer through a rich output device. 
 
-I'm a software developer who recently gained interest in the business world but not out of any deep drive for competition or to make oodles of money. Instead it's how I saw any meaningful change, with engineering contributions, happen in the world.
+Getting caught up in the notion of "how much lower can CRT displays go" is the form of commodity fetishism here. As of this writing there's $10 touch screens available on Amazon. This is the act of democratization.  This affordable $10 tool can now not only get in the hands of a democracy of consumers but a democracy of other devices and help guide various PPTs.
 
-At the time I was constantly baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as these breakthrough successes in the marketplace with hoardes of people liberally using all caps and exclamation points when describing it. 
+The nature of this during the process becomes increasingly, then decreasingly stratified.
 
-Apple would release a product using a technology which had been around for 15 years, but for some reason, this was the first time people had actually seen it, so they'd falsely attribute innovation to Apple. 
+This was captured in the 1990s as a notion of a digital divide; a division of the public into those who had access to and those who did not have access to, cheap available internet. 
+
+A July 1999 Department of Commerce report called "Falling Through the Net: Defining the Digital Divide" packs the PPT and the democratization into a number of euphemisms with this observation:
+
+  To be connected today increasingly means to have access to telephones, computers, and the Internet. While
+  these items may not be necessary for survival, arguably in today’s emerging digital economy they are
+  necessary for success.
+
+They made an observation that although internet access had increased over the past 4 years, it had increased at a faster pace in wealthier households, meaning that the difference in percentages of households based on income which had internet actually increased from 1994 - 1998 (and then eventually closed). When the velocity of change is rapid, the distribution is uneven.  There's lagtime in pipelines of change. 
+
+This arbitrage of opportunity is one of the oldest professions, that of the merchant reseller who purchases something which is plentiful in one place and then makes the purchased thing available somewhere it is scarce at a higher cost.
+
+1.3.2 1-9-90: The lifeblood of innovation
+=========================================
+
+Technology is how any meaningful change happens in the world. It's the product of our capacity to socialize, learn skills, have ideas, and build tools. It's part of our innate humanity.
+
+Some thing doesn't need to merely exist however. There's much more to that.  In fact, sometimes as will be demonstrated in the next chapter, it doesn't need to exist at all.
+
+For a long time I had been baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as breakthrough successes in the marketplace. Hoardes of people would liberally use all caps and exclamation points when describing something. 
+
+It gets worse. Oftentimes it was complete nonsense, some digital myths founded deeply in misunderstanding. In 2006, Facebook had a drop-up menu in the bottom left with apps and people referred to it as an "operating system". Around the same time, people commonly claimed MySpace would give them "computer viruses". Neither of these were even remotely true.
+
+Even when it was a bit more true, it was still rather confounding. Apple, for instance, would release a product using a technology which had been around for 15 years, but for some reason, apparently it was the first time people had actually seen it, so they'd falsely attribute the innovation to Apple. 
 
 Even in the software development world, where people should know better, I'd read comments gushing over some technology which does effectively the exact same thing as something else which had been in wide use for years, sometimes decades. 
 
@@ -49,22 +74,34 @@ A number of years ago, I formalized what I saw as the "1-9-90" rule to explain t
 
 Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
 
-In other words, to an engineer in the trenches, success is 90% "bullshit" that shouldn't, but absolutely does matter. I had been missing something.
+Most importantly it's about to whom and how something is presented. In a way, both Apple and Microsoft's success wasn't about innovating technologies as in making new novel tools, but in innovating technologies as in finding new people, new processes, new presentations of those. Taking the Xerox Alto and repackaging it, not for the busy executive, but as a home computer, was more important than getting the technology right. For instance, in our example, the Apple Macintosh, released 1984, didn't eclipse sales for the Apple ][ until fiscal year 1988. What more, it was seen as a failure against the encroachment of IBM PCs and led to Steve Jobs firing in 1985. When compared against the Xerox Alto, selling a few hundred thousand machines is a smashing success. However, when presented as the IBM PC killer, the story is different.
 
-The claim of 90% is important because it implies that the other part, as in what the thing actually is and what constitutes it, almost doesn't matter at all.
+Why? It's somewhat absurd, even the notion of what success is. Microsoft didn't have GUI success for 6 more years - Apples was the only usable game in town for under $10,000 for years. 
 
-You can see this clearly demonstrated in mid 90s pop music. Take the average boy band: 
+It appeared that success, even the notion of what it means, is 90% bullshit that shouldn't, but for some unknown reason, absolutely does. Not only, but it is the deciding force behind everything, the prime mover of the entire system. I had been missing something.
 
-  * Their idea: yet another love song, identical to hundreds of others
-  * Their execution: a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. 
+The claim of this dark matter being 90% is important because it implies that the other part, as in what the thing actually is and what constitutes it, almost doesn't matter at all.
+
+My earliest realization of this was looking at music. Why does such identical sounding music seem to repeatedly do so well? This was especially apparent in the 1990s. You can see this clearly demonstrated in mid-1990s pop music.
+
+There were a number of hit boy bands that were only remarkable because it kept happening. Boys II Men, All-4-One, Backstreet Boys, 98 Degrees, 'N Sync, they're essentially clones of each other. Futhermore, they weren't innovative at all:
+
+- Their idea: yet another love song, identical to hundreds of others
+- Their execution: a quartet in a 100 year old configuration singing a song following a pop format that had been established for 50 years. 
 
 Those parts as it turns out, don't actually matter at all. They simply need to exist, their quality and originality play no role.
 
-What the boys looked like, what the music video accompanying it looked like, how it was promoted, this was the only determining factor in the overall success.  This is how humanity actually operates.
+What the boys looked like, what the music video accompanying it looked like, how they lived thier private lives, how their content was promoted; this was the only determining factor in the overall success of the product.  This is how humanity writ large actually operates, in that last section of the 1-9-90.  They aren't rational actors who carefully consider idea and execution. None of that matters.
 
-To be more specific, some of the hit songs of the era, such as the Fugee's Killing me softly, were just cover songs.  In this case, there had been 75 previous covers of that song spanning back 25 years. 
+A specific example here is the Fugee's "Killing me softly", initially composed in 1971. The Fugee's version was the 76th listed coversong on Wikipedia.
 
-Obviously the content, originality, idea, none of this mattered. The 76th cover of a 25 year old song was a big hit only because of the marketing, that's why that part constitutes 90%. Most people didn't know it wasn't an original song, especially one that had been covered by hit artists dozens of times. Narrative and truth is a construction of the 4ps of marketing. Objective reality, unless it's materially limiting, if not known, ultimately has no effect.
+Clearly the content, originality, and idea was not part of the commercial success. The new demographic, the presentation, the paackaging, that's the important piece. The 76th cover of a 25 year old song was a big hit only because of the marketing and that's why that part constitutes 90%. 
+
+Most people didn't know it wasn't an original song, especially one that had been covered by hit artists such as Perry Como, Sergio Mendez, Shirley Bassey, Andy Williams, Engelbert Humperdinck, Petula Clark, even the Surf Guitar group The Ventures. The people I interviewed about the song all think it's an invention of the Fugees. 
+
+Reality is irrelevant. Narrative and truth is a construction of the 4ps of marketing. Objective reality, unless it's materially limiting, if not known, ultimately has no effect.
+
+This isn't a bad thing. It means the future can be freed from the past. The confinements of the present matter but the narratives of the past actually do not.  So long as we forbid them from doing so.
 
 The 1-9-90 importantly is not a linear process. It's an interaction of different components. Imagine a long beam on a fulcrum that's right near one side so that a little movement on one side creates a huge change on the other.  As a "build-measure-learn" cycle (see The Lean Startup, Eric Reis, 2011) moves, this is the mechanics of the clockwork. Each column informs the other and modifies it accordingly maintaining the multiplier effect implied.
 
@@ -78,8 +115,8 @@ Rational agency, instead of being inherent to the human condition, is a trained 
 
 Authoritarian power dynamics constrain the possibility frontiers of future thought by limiting who is entrusted in exercising them. By reducing the number of participants, the number of perspectives, possibilities and their advocacies don't receive a rich articulation fully exercising the freedom of thought
 
-Future Orienting 
------------------
+1.3.3 Forming goals with AICA 
+=============================
 
 Using absurdism as the guiding principle in the creation of future-stuff with thought-stuff requires an intentional exercise of diligence on the practice of absurdism.
 

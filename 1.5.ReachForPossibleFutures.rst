@@ -1,8 +1,8 @@
 1.5 The reach for possible futures
 ----------------------------------
 
-What is the future?
-===================
+1.5.1 What is the future?
+=========================
 
 If the future is a place with "better" technology, what does that mean, given the idea that technology is such a broad categorization? Does it mean more cleanly achieving the lower-level goals of say, doing more tangible things with fewer tangible resources or a different manifestation in service of higher level goals of doing more abstract things with fewer abstract resources?
 
@@ -22,8 +22,8 @@ The essence of future is a deviation and disruption in process, craft, or tool i
 
 For instance, the Athenian Solonian Constitution, in the early 6th century BC abolished all debts, freed all debt-based slaveries, abolished an early form of serfdom, got rid of hereditary political offices, and created a bicameral legislature. That's technology, that's a vision for a new future.
 
-Anti-technology is also about building futures
-==============================================
+1.5.2 Anti-technology: A different kind of future
+=================================================
 
 With the expanded framework of technology, we can see that anti-technology is instead of a return to the past, the baseline requirements to boldly redirect how no man has redirected before and orient the 3 sets of techology around a different locus of goals.
 
@@ -66,8 +66,8 @@ The liberation from the past and either an ignorance or haughty disregard for li
 
 Understanding how this system of disruption, death, and rebirth happens is the key to understanding the potential and interplay between technology and future. In the following chapters we'll go more into the principles which guide processes to define a future worth building.
 
-NIMBYism: The true anti-futurists
-=================================
+1.5.3 NIMBYism: The true anti-futurist
+======================================
 
 The trade-off between safety and instability works on all dimensions of those words at once
 
