@@ -80,6 +80,8 @@ The web was talked about in AICA terms for about 40 years before it arguably fir
 
    We can see two languishing points in the logarithmic growth of internet hosts both getting unpinned by a change in organizational processes. Tools alone could not unpin these ceilings. Once again, systems have limits independent of the physical limitations of the tools. All 3 technologies must move forward together.
 
+The internet disrupts consumer by consumer and product by product, not industry by industry.
+
 2.5.4 Smart Phones: The truly personal computer
 ===============================================
 

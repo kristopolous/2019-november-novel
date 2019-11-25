@@ -146,3 +146,6 @@ In the next chapter we'll go over how the technology of screens on top of cars i
 
 Additionally, I'll discuss how the product encompasses all those properties and how I've structured the team that is creating it around these principles.
 
+unless explicit, protocol and process are practiced without purpose.
+
+stubbornness will always destroy what it happens to have created.

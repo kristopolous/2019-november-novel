@@ -38,3 +38,5 @@ The frontier is where civilization meets savagery
 
 Newspaper connection to tulip mania
   - probably invalid
+
+Your velocity of innovation is more important than your protection of the past.
