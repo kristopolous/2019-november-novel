@@ -42,3 +42,5 @@ Newspaper connection to tulip mania
   - probably invalid
 
 Your velocity of innovation is more important than your protection of the past.
+
+The difference between HURD and Linux is of organizational structure
