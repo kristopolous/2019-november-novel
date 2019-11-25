@@ -28,7 +28,7 @@ A classic story often repeated is the Jeff Hawkins garage-made block of wood rep
 
 This tale is often told as follows: Here's Jeff, Ed, and Donna, the fable goes, with nothing but an idea and classic silicon valley grit, who go to repeated investor meetings trying to describe their idea for a PDA but never quite get the idea across and leave dejected, failing. Then Jeff has an idea! He pretotypes a block of wood mocking it up to be the device he seeks to create. It looks and feels much like the Palm 1000/5000. He goes to his next investor meeting, tosses it on the table to curious eyes who pick it up, feel it in their hands, play with it and imagines.  For the first time the rich curmudgeons understand the concept of a handheld computer and the ideas start flowing. It becomes about problem solving and not about selling the idea. They toss their money into his project, he emerges victorious and the rest is history.
 
-Great story, too bad it's fake. Even more, it's an illusion about an illusion. A mostly fictionalized historical narrative that brings together a number of real events from other people's actual history imagined as a single consolidate narrative and then attributed to Palm. 
+Great story, I've heard it a few times. Too bad it's almost 100% fake. [#]_ Even more, it's an illusion about an illusion. A mostly fictionalized historical narrative that brings together a number of real events from other people's actual history imagined as a single consolidate narrative and then attributed to Palm. 
 
 The real history is about a class of devices called Pen Computers, an ancestoral relative of the modern smart phone. Pen computer was the biggest perpetrator, utilizer, and victim of the process and power of illusion.  But first, here's Palm Inc.'s  more accurate history:
 
@@ -154,4 +154,8 @@ In a Proof of Concept, what is a concept and what's being proved?
 Concept cars
 What is a 1.0?
 
+Notes
+-----
+
+.. [#] The Silicon Valley has its own set of fables. Another great one is about the engineer who was working for, usually HP but sometimes Fairchild or Intel, who drops a large box of organized chips and then starts picking them up when a senior engineer comes by with a broom and dust pan saying something like "we don't pay you $80 an hour to pick up $5 in electronics. Let's throw these away". 
 .. [#] PenPoint OS had such novel features as being able to hyperlink any offset of any document (Ted Nelson's Xanadu has this feature by two-way linking and separating the control and data files, the former being byte offsetted - see more in section 2.5.3) not just through a link, but through actual media that is fully embedded and fully editable (where MSFT's OLE/ActiveX model never quite achieved).  Beyond this, it had a universal, but also contextual gesture system that applied across all applications, you could remove a wall in a CAD drawing with the same gesture that you remove a word in a text document. It is a novel approach that brings the insights of HyperCard to general computer interfaces. There's many more profound features that haven't been replicated. Watching the promotional video "Introducing PenPoint" from 1991 is highly recommended for the curious.
