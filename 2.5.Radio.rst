@@ -123,4 +123,7 @@ For a generation of americans, if you captured television you captured their con
 
 Open source software requires cheap internet, cathedral and Bazaar, p 51
 
+Notes
+*****
+
 .. [#] Some authors separate continuous versus discontinuous innovation. Moore (Crossing the Chasm) and Christensen (Innovator's Dilemma) describe how different mechanics are in play for two classes of product introductions.  This ultimately is a producer-side analysis.  Consumer-side discontinuity is not always in tandem with producer side. For instance, non-technical consumers likely have zero realization of the transition from mechanical magnetic platter-based storage to solid state chip based storage even though this is the most significant leap in computer storage since the first hard drive shipped in 1956. For the world writ large, there needs to be discontinuity in the "90" part of the 1-9-90 rule for a perceptual discontinuity outside the "inside baseball" of the industry. Even then, there isn't a single dimension of appraisal. Some dimensions have continuity while others have breaks and redirections. The lynchpins of continuous dimensions are the core function of coherency in the AICA model. 
