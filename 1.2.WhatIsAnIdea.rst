@@ -6,6 +6,8 @@ Whole technologies exist in the service of another amorphous concept, the idea.
 Ideas for the intent of our analysis are abstract destinations, with the same properties as physical destinations. They can be an unknown distance, an unknown nature, or something we are quite familiar with. The physicality of a state of existence (such as place or being) as an abstract is the soul of the idea. [#]_
 
 
+There is no future. There's only now.
+
 ## Make tomorrow worth waiting for
 
 Hopes and dreams can have a crippling effect.  Ideas are things that are simultaneously given up on and committed too. The religious idea of "handing yourself over", or the 12-step program contradiction of a commitment to powerless action, is the platform upon which ideas grow.
@@ -33,7 +35,9 @@ There's a number of common ways presented to get there. The first we'll look at 
 
 Concrete goals are the most common ways to define the destination. For instance, the goal of say, "Write a 50,000 word novel in 30 days." is a goal, it's achievable, but it's not very meaningful because it's extrinsic to any reality beyond the goal. There is no meaning beyond hitting the number. It's not an idea, it's not a future, it's just a game. Jim Collins and Reid Hoffman call such things "vanity metrics". By having a concrete goal be a quantitative measure of what's measurable, we can organize and graph things fine, but all futures that come of it are merely incidental, done in spite of, and not because of the system.
 
-Vanity metrics are quite common in goal oriented thinking. People get the feeling that they are just drifting through time without a solid notion of orientation or enterprise to steer their intentions.  The measurable, the metric, is there to help guide them. Corporations make up "key performance indicators" - numerical benchmarks that are easy to compute and graph in excel. They can expect to see over a 6 month period that they are going up.
+Vanity metrics are quite common in goal-oriented thinking. Many get the feeling that they are just drifting through time without a solid notion of orientation or enterprise to steer their intentions.  The measurable, the metric, is there to help guide them. Corporations make up "key performance indicators" - numerical benchmarks that are easy to compute and graph in excel. They can expect to see over a 6 month period that they are going up.
+
+If selling an idea is more important than selling an object, the problem with KPIs is they become the idea that is sold in place of the goal. It's yet another form of object fetishism, like swapping the bag of sand for the priceless jewel.
 
 "Oh look at that improvement, this chart is going up!" is depression looking for meaning, futility looking for purpose, systemic failure seeking endogenous reinforcement. The numbers end up being the anti-depressant that fuels motivation by gamifying action and rationalizing the intent. It's a visible value creation from the ashes of our collective broken dreams.  The methods for the madness become the madness itself, incentives cannabalizing the goals.
 
@@ -49,7 +53,9 @@ This is important because it's not intrinsic. You don't have, for instance, inte
 
 So was the wisdom in the 1970s business books when they were gushing over the F.W. Woolworth Company, Sears & Roebuck, and General Electric. As if their success was anything more than not having their shoelaces untied when it was time for them to dance.
 
-This happens in engineering as well. Google comes out with a "MapReduce" paper and then all engineers believe they need to use that strategy to succeed. The shiny object claiming to be the heir apparent vehicle to ride the road going to somewhere called success constantly changes. It goes from Scrum to Agile, timeboxing, extreme programming, ruby on rails, NoSQL; a different magic trick every few weeks and a crowd of onlookers running around from one celebrity technology to the next. The magic is the act, not the tricks.
+This happens in engineering as well. Google comes out with a "MapReduce" paper and then all engineers believe they need to use that strategy to succeed. The shiny object claiming to be the heir apparent vehicle to ride the road going to somewhere called success constantly changes. It goes from Scrum to Agile, timeboxing, extreme programming, ruby on rails, NoSQL; a different magic trick every few weeks and a crowd of onlookers running around from one celebrity technology to the next. The magic is the act, not the tricks. 
+
+With respect to ideas, the velocity of innovation is more important than an emulation of the past.
 
 There is some silver bullet, we were told, that we all must emulate, in order to dance like them. Eventually all those companies collapsed, continuing to do their rain dances with more vigour and energy as their once great empires vanished.
 
@@ -75,7 +81,5 @@ Has the world gone mad? The secret of humanity is that it was never sane to begi
 
 The signal to noise ratio is crucial. Nonsense needs clean, transmittable purity to be captured and valued. The dance must be seen, understood, and believed in by the dancer to work. The way we sincerely commit to living our lives constitute the signal quality of the transmission of our dreams.
 
-Hopes and dreams can have a crippling effect.
-selling an idea is more important than selling an object.
 
 .. [#] There's a philosophical pedigree about ideas and perception that goes back to the dawn of modern philosophy (see Plato, Descartes, Locke, Hume, etc.). Since we are confining the text into "future thought" we confine the notion of idea within that context. This text intentionally confines things in order to define them. The goal is to construct a repeatable, actionable, but abstract enough to be perpetually unique framework of thought which can be identified and applied as a method. The frontier of concepts like "idea" become a lot less relevant when we commit to drawing our own perimeters around them.
