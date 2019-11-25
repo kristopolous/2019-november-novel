@@ -36,6 +36,8 @@ Time the product to be a product of the times
 
 The frontier is where civilization meets savagery
 
+Huxterism and manipulation, convincing people on unlikely futures to pull a fast one.
+
 Newspaper connection to tulip mania
   - probably invalid
 
