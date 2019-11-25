@@ -134,6 +134,9 @@ By the 1980s, this process was seen as so central that NGOs sent Xerox machines 
 
 This is how revolution happened. This is how technology happens and this is what future is.  But we have more ways of communicating then words on a page.
 
+Notes
+*****
+
 .. [#] Economic reproduction is a technical term from Marxist Economics covering the entire product lifecycle of production, distribution, circulation, and consumption. A democratization of this structure means that any party can participate at any step unencumbered by restricted access due to things such as price and access barriers. Also see Tableau économique from Quesnay for materialist examples.
 .. [#] J Weber, "Strassburg, 1605: The origins of the newspaper in Europe". German History 24#3 (2006) pp: 387-412.
 .. [#] There were a few notable publications of philosophy that were instrumental during the 18th century. However, they were not newspapers and their actual influence is debatable. 
