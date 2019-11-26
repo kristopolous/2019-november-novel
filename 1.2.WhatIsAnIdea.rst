@@ -3,7 +3,35 @@
 
 Whole technologies exist in the service of another amorphous concept, the idea.
 
-Ideas for the intent of our analysis are abstract destinations, with the same properties as physical destinations. They can be an unknown distance, an unknown nature, or something we are quite familiar with. The physicality of a state of existence (such as place or being) as an abstract is the soul of the idea. [#]_
+Ideas for the intent of our analysis are abstract destinations with the same properties as physical destinations. They can be an unknown distance, an unknown nature, or something we are quite familiar with. The physicality of a state of existence (such as place or being) as an abstract is the soul of the idea. [#]_
+
+In practical terms, ideas are things that are simultaneously given up on and committed too. This ostensibly contradictory relationship is actually a core principle of many organizations and thought systems.  For instance, in religion there's an idea of "handing yourself over" to the God. Giving up is intrinsic to the commitment. It transforms the engagement into action.
+
+12-step recovery programs share this similar contradiction of a commitment to powerless action. This fundamental contradiction is the platform upon which ideas grow.
+
+Understanding this dynamic is crucial to understanding how ideas crystalize as a set of inclusive and exclusive memberships. Exploration happens before an idea has a name and its parameters are defined. As it is developed, fundamental compromises are made which crystalize and define it.
+
+This is important, because when looking for categorical innovation or categorical divergence, looking early on is the best place to find it.
+
+In 1968, Douglas Engelbart was trying to demo his version of Vannevar Bush's memex machine from Atlantic Monthly (July 1945). In it he demos the Graphical User Interface, the first one really.  He has two novel input devices.  The first is the mouse, the second is something called the chorded keyset, a 5 key entry method.  These days it may look utterly bizarre
+
+.. figure:: /assets/engelbart.jpg
+   :alt: Douglas Engelbart's novel input methods
+
+   Along with the mouse, Engelbart introduced a "chorded keyset" where input would be entered like playing a piano. 
+
+But it had a much richer precedence than the mouse: the punchcard and stenography machine. The idea of playing columns of a punchcard as a form of computer input like a stenography takes dictation sounds like a graceful innovative way to interact with a 1960s era computer.
+
+This type of innovation is endemic to early instances of things because it's not clear as to what something is or is not. Instead, like in the keyset example, there's amalgamations of previous systems placed into new ideas
+
+Another example is the early smartphone entry by Nokia, the N9000. As opposed to the common iPhone-inspired full device as a screen or even the blackberry-inspired most of device as a screen with a small keyboard, the Communicator combined two existing forms, a palmtop computer and a phone, by placing the phone interface on the clamshell of the palmtop. 
+
+.. figure:: /assets/nokia.jpg
+   :alt: Nokia N9110i
+
+   The 1996 Nokia Communicator tried combining a palmtop computer with a portable phone through an innovative package. Not small enough for a pocket, but easily fittable in a briefcase or bag.
+
+Hopes and dreams can have a crippling effect.
 
 Importance of creating environments to express and opportunities to learn
 
@@ -11,11 +39,10 @@ There is no future. There's only now.
 
 ## Make tomorrow worth waiting for
 
-Hopes and dreams can have a crippling effect.  Ideas are things that are simultaneously given up on and committed too. The religious idea of "handing yourself over", or the 12-step program contradiction of a commitment to powerless action, is the platform upon which ideas grow.
 
 This is because the more that's expected from something, the less action can be taken because the more significance is placed on any part.
 
-Conversely, the less someone expects, the better they do. But the lack of expectations can't be merely theatrical - someone has to genuinely believe nothing is going to happen for things to happen. Imagination only moves when after a commitment to both dismissing reality and ignoring the past.  That's a required act to permit a new reality to be imagined, believed in, and acted upon. 
+Conversely, the less someone expects, the better they do. But the lack of expectations can't be merely theatrical - someone has to genuinely believe nothing is going to happen for things to happen. Imagination only moves when after a commitment to both dismissing reality and ignoring the past.  That's a required act to permit a new reality to be imagined, believed in, and acted upon.
 
 Only through a sincere commitment to fiction can the future be made because all ideas and futures first form as a fiction before acted as a reality.  Faking things for others is fine but only through a true and faithful fakery can things truly change. That's the nature of imagination and ideation.
 
