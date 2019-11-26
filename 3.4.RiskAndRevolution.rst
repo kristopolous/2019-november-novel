@@ -34,6 +34,9 @@ riches come of faith and foolery
 
 Unaccusative verb
 
+Notes
+*****
+
 .. [#] The difference between science, opinion, faith, truth, and fact have been fogged probably since the beginning and many authors have dealt with 
    the question. For the purposes of the text, science and faith are processes of truth. Facts are ultimately faith based because it's in the service of disclosing a reality without a process of confirming it.
 .. [#] There's a problem of induction in any theory. Generalizations are made based on limited observations and falling victim to Humes Uniformity of Nature, which not only presupposes the future will be like the past but also the description of dynamics is that of a true mechanism.

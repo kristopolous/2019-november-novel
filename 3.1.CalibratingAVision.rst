@@ -48,3 +48,6 @@ A harder but achievable task is to create the precondition dynamics for the wind
 
 Presuming that lobbying isn't at your disposal it's probably better to look for what exists to identify what's possible.
 As we have seen before, things can be invented perhaps dozens of times prior to the bootstrapping mechanism of the people process and tools.
+
+Notes
+*****
