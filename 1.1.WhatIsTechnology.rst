@@ -30,7 +30,7 @@ For instance, most would agree the act of building a computer is an act of techn
 Would the innovation of being the first novel thus make it a technological act? Is technology then, the space occupied between invention and commodity? Don't worry, you'll be able to answer all these questions in a few paragraphs.
 
 1.1.1 Technology as an abstraction
-==================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The biggest insight to help me understand these problems and what technology is comes from an unsuspecting place.  I've long been interested in gift economies.  Some societies instead of bartering goods would apparently give things to others, sometimes at significant sacrifice, without any traditional model of reciprocity.  Often years of effort would go into constructing elaborate gifts, such as raising livestock, and then long dangerous journeys would happen, for no obvious immediate reason, to just give the animals away to someone else in a grand elaborate ceremony with no materials exchanged in return. Then the gift giver would leave.  
 
@@ -99,7 +99,7 @@ This is the interplay of technology.  A complete technology execution has all 3 
 For example, the Catholic Church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.
 
 Notes
-*****
+^^^^^
 
 .. [#] If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
        It's a certain subset of language called a "formal language" which follows well defined proscribed ways of structuring words.
