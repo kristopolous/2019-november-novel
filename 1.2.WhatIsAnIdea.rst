@@ -13,6 +13,9 @@ Understanding this dynamic is crucial to understanding how ideas crystalize as a
 
 This is important, because when looking for categorical innovation or categorical divergence, looking early on is the best place to find it.
 
+1.2.1 Pre-semantic executions
+=============================
+
 In 1968, Douglas Engelbart was trying to demo his version of Vannevar Bush's memex machine from Atlantic Monthly (July 1945). In it he demos the Graphical User Interface, the first one really.  He has two novel input devices.  The first is the mouse, the second is something called the chorded keyset, a 5 key entry method.  These days it may look utterly bizarre
 
 .. figure:: /assets/engelbart.jpg
@@ -57,6 +60,9 @@ This is because the more that's expected from something, the less action can be 
 Conversely, the less someone expects, the better they do. But the lack of expectations can't be merely theatrical - someone has to genuinely believe nothing is going to happen for things to happen. Imagination only moves when after a commitment to both dismissing reality and ignoring the past.  That's a required act to permit a new reality to be imagined, believed in, and acted upon.
 
 Only through a sincere commitment to fiction can the future be made because all ideas and futures first form as a fiction before acted as a reality.  Faking things for others is fine but only through a true and faithful fakery can things truly change. That's the nature of imagination and ideation.
+
+1.2.2 False Maps to Reality
+===========================
 
 Amorphous words like "success" unmanifested by no change in the material reality of society doesn't really mean much. Success doesn't mean money, it doesn't mean power, it means change.
 
