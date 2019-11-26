@@ -1,15 +1,17 @@
-Part 2 
-======
-Futures Past
-============
+2 Futures Past
+==============
 
 2.1 The many ends of history
 ----------------------------
 
-Perhaps the only thing more inaccurate than a description of a future world is a declaration of its absence.
+Perhaps the only thing more inaccurate than a description of a future world is a declaration of its absence. 1.2 and 1.4 showed how interaction of a few ideas with the world helped shape their semantics creating platforms for new ideas to be built on top of them.  
+
+This is the tower model of future building, an iterative creation of strong edifices which sit on top of each other.  Perhaps they are strong, perhaps they are weak. Perhaps it's all an illusion.
+
+Maybe this is the end of history, in our time. Or maybe it's just an end of a history of our time.
 
 2.1.1 Perpetual change in the infinite present
-==============================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The inability to participate in either an evolutionary or revolutionary imaginary of the present rests fundamentally on the idea that the world right now is at or near the final stage of existence.  This manifests itself in either one of two ways:
 
@@ -42,7 +44,7 @@ A society at its most informative can be found in the stories they tell themselv
 Around 1980 a fake quote attributed to a patent office official, supposedly from 1899 began circulating, "Everything that can be Invented has been Invented".  This became popular up to the early 2000s when it started suffering a decline (https://patentlyo.com/patent/2011/01/tracing-the-quote-everything-that-can-be-invented-has-been-invented.html).
 
 2.1.2 Technology: the first 5,000 years
-=======================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The second part of this book is about how vanquished visions of tomorrow give birth to new ways of change.
 
@@ -52,4 +54,4 @@ Why would a false proclamation of history's end meet such a trajectory?
 
 
 Notes
-*****
+^^^^^
