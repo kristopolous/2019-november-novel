@@ -32,8 +32,6 @@ audacity system and purple cow
 
 Time the product to be a product of the times
 
-10-20-30 is an instance of democratization
-
 The frontier is where civilization meets savagery
 
 Huxterism and manipulation, convincing people on unlikely futures to pull a fast one.

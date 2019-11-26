@@ -71,7 +71,7 @@ Think about how technology is used. Before an engineer automates a task, they of
 
 When people complain about how a difficult device is a challenge to use, they'll blame the technology, that is to say, the human process with the tool.  The interfacing of the tool, which is a relationship, that's the point of criticism. That is also part of the technology.
 
-Laws, language, arithmetic, these are also technologies. If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
+Laws, language, arithmetic, these are also technologies. [#]_ Computer programming, for example, is a language that, using the arithmetic of the computer, describes a law of interaction called the computer program. 
 
 When these things are viewed as the process and systems of skills, crafts, art and techniques it allows us to see tekne(the root word which means those things: arts, crafts, techniques)-logy in the way we organize our institutions, govern our relationships, and also, of course, in the physical objects of our use.  But more importantly, our use of it is part of the technology and a separate and distinct form of technology.
 
@@ -95,9 +95,12 @@ The process, tools, and people, as new mechanics of relationships, in the intere
 
 When someone in the world of business says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
 
-This is the interplay of technology.  A complete technology execution has all 3 of these and gets to the value of being.
+This is the interplay of technology.  A complete technology execution has all 3 of these and gets to what is called a value of being.
 
 For example, the Catholic Church has people, processes, and physical objects that are orchestrated together and as a result is a continuous technology dating, as an institution, at least 1500 years. Because they are all tightly and intimately connected, the institution of the church tries to exist as its own thing, disconnected from reality except through certain levers and mechanisms, in the same way that a machine is defined by the finite number of operations that can be done upon it.
 
 Notes
 *****
+.. [#] If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
+       It's a certain subset of language called a "formal language" which follows well defined proscribed ways of structuring words.
+
