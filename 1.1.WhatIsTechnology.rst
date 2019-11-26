@@ -5,11 +5,11 @@
 1.1 What is Technology?
 -----------------------
 
-When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
+When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?"  For example, they'll point to modern tools such as computers or automobiles.
 
 When pressed to go further, often a more abstract answer will be presented, such as "something that improves our lives" or "tools that are manufactured".
 
-This class of answers presents a problem: Did technology exist before say, 1800 CE? What about prior to 1000 BCE?
+This class of answers presents a problem: Did technology exist before say, 1800 CE? What about prior to 1000 BCE? Of course it did!
 
 Most then come back with the acknowledgment that spears and weapons are technologies as well. So this would mean technology is generally tools. 
 
