@@ -1,7 +1,6 @@
-Part 1
-======
-The Anatomy of a Future
-=======================
+
+1 The Anatomy of a Future
+=========================
 
 1.1 What is Technology?
 -----------------------
@@ -90,7 +89,7 @@ In this context, culture can be seen as an adaptive machine, where the interplay
 The Frankfurt philosopher Jürgen Habermas spoke of this convergence in the Structural Transformation of the Public Sphere, in 1962 (originally in German), when discussing the French Revolution of 1789:
 
   The bourgeois public sphere may be conceived above all as the sphere of private people come together as a public; they soon claimed the public sphere regulated from above against the public authorities themselves, to engage them in a debate over the general rules governing relations in the basically privatized but publicly relevant sphere of commodity exchange and social labor.
- 
+
 The process, tools, and people, as new mechanics of relationships, in the interest of an invented notion of a public sphere, was the key technology which redirected the goals of society and eventually brought down the French Monarchy.
 
 When someone in the world of business says "it's a people problem" or "people problems can't be fixed with technology" what they mean is that the methods and crafts do not necessarily depend on physical objects.  The same paintbrush in different hands can yield dramatically different results.  Trying to orient the results by redesigning the paintbrush is far less effective then just finding the right person to hand the brush to.
@@ -101,6 +100,7 @@ For example, the Catholic Church has people, processes, and physical objects tha
 
 Notes
 *****
+
 .. [#] If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
        It's a certain subset of language called a "formal language" which follows well defined proscribed ways of structuring words.
 
