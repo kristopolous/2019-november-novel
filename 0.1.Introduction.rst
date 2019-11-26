@@ -5,15 +5,15 @@ Why does one-fifth of the way into the 21st century just feel like it's been one
 
 What happened to our promised future? Fusion energy, automated flying cars, and commercial space travel through the galaxy? We have none of this.
 
-Did any future ever happen? Will it ever happen? Could we already be living in one and just not realize it? Are we at the end of a future, a giant S curve of society where we asymptotically are approaching a steady state?
+Did any future ever happen? Will it ever happen? Could we already be living in one and just not realize it? Are we at the end of a future, a giant S curve of society where we are asymptotically approaching a steady state?
 
-Is that even a valid way to look at the world around us?
+Is that even a valid framework to use when looking at the world around us?
 
-Is there a peaceful revolution of the mind in our lifetimes in store? How can we build this next future? Are some potential futures more valuable than others? How would such a nexus of values be contoured in our collectively imagined worlds of tomorrow?
+Is there a peaceful revolution of the mind in our lifetimes in store? How can we build the next future? Are some potential futures more valuable than others? How would such a nexus of values be contoured in our collectively imagined worlds of tomorrow?
 
-Is there a blueprint or a guide that can help us with actualizing this future stuff?  Are there methods or processes of creating futures that work better than others? If so, how do we structure efforts around them and continually validate that we are going where we intend to? 
+Is there a blueprint or a guide that can help us with actualizing future stuff?  Are there methods or processes of creating futures that work better than others? If so, how do we structure efforts around them and continually validate that we are going where we intend to? 
 
-Is having an intended specific goal even possible or is it, at its best, inherently undefinable? If it is inherently undefinable does that mean it's also inherently inactionable or no better than random shots in the dark?
+Is having an intended specific goal possible or is it, at its best, inherently undefinable? If it is inherently undefinable does that mean it's also inherently inactionable or no better than random shots in the dark?
 
 What is technology and what role does it play? Will simply having more wondrous manufactured devices be the future we've been looking for or is there fundamentally more to it? How does what we build affect society and how does society affect what we build? Have previous futures fundamentally changed the nature of being human?
 
@@ -34,6 +34,8 @@ Part 3 presents companies and projects I'm currently involved in and how these m
 The future doesn't come from having new answers, but by the perpetual struggle of asking the right questions at the right time.  If the future *only* comes from changes that *were not* anticipated, the task of futurists is to facilitate the fostering of unanticipated change.  
 
 The hope is to be able to empower people to help forefront ideas and perspectives to constitute a better tomorrow.
+
+Lastly, for academics or the academically incline: there's an existing bodyy of work under sociological studies that deal with technoscientific imaginaries called science and technology studies. This text can be seen as an adjacent work to STS literature and there's been academic references placed where appropriate. This hopefully shouldn't preclude mass audience comprehension of the work.
 
 Let me close the Introduction with a bit of poetry I wrote about 10 years ago, early on in my thoughts about the matter:
 
