@@ -7,11 +7,11 @@ todo: negative versus positive futures
 
 The evidence of the text points to the answer being a resounding "no".  The necessity in avoiding catastrophe is an insufficient impetus for systemic change.  
 
-The threat of nuclear war is a great example. We continued business as usual and are 65 years into mere minutes to Doomsday. 
+The threat of nuclear war is a great example of this: We continued business as usual and are 65 years into mere minutes to Doomsday. As of the writing of this text (Nov 2019), there are no plans to have any nuclear treaty between Russia and the United States replace the one that is due to expire in 2021, signed during 2010, limiting the stockpile to 1,500 units. Many of these in what is called the "nuclear triad" are ready to go in under 15 minutes, at all times.
 
-We should have gone to nuclear war. Multiple times. 
+In fact that should have already gone, multiple times. Failures gave false positive results and commands were issued. It should have happened.
 
-However, each time, the human who was entrusted to take the action of launching the missiles acted defiantly, disobeying military order and declined to do so. In all of these instances, either miscommunication or malfunction led to a false conclusion that an attack was underway and it was up to some person to do a counter-attack.  Each time, they chose not to as their commitment to humanity exceeded their commitment to country. 
+However, each time, the human who was entrusted to take the action of launching the missiles acted defiantly, disobeying military order and declined to do so. In all of these instances, either miscommunication or malfunction led to a false conclusion that an attack was underway and it was up to some person to do a counter-attack.  Each time, they chose not to as their commitment to humanity exceeded their commitment to country. [#]_
 
 This is despite the fact that there were muliple opportunities to initiate a counterattack to a phantom system.  Nobody was willing to take the responsibility of making the final human decision.  The tools said yes, the process said yes but the people still said no. Two of the three pillars is insufficient for the divergence.
 
@@ -60,3 +60,5 @@ Tomorrow is achievable when we know how to reach for it. We are the generation t
 
 Notes
 *****
+
+.. [#] There's the famous Cuban Missile Crisis which had planes (F-102A) in the air, with nuclear armaments (GAR-11 Falcon) on them, flown by pilots who were instructed to use them when appropriate, flying over Cuba. Then there were things like a 1965 power outage which caused malfunctioning nuclear bomb detectors to go off, the 1967 solar flare which caused radar jamming of the detection units, leading to a counterstrike almost launching.  Then there are the various computer errors such as the 1979 computer failures, which were discovered 7 or so minutes after the failure (response was supposed to be done by this time, it wasn't).  Additionally there were actual airships that were misinterpreted such as the Korean Air flight in 1983 and a Norweigen rocket in 1995 (which led to Boris Yeltsin activating a nuclear briefcase and preparing submarines for a counterstrike). Every time rules were violated and the trigger wasn't pulled yet we still leave the proverbial loaded gun sitting in the nursery and fail to dismantle the system.
