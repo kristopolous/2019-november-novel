@@ -20,16 +20,26 @@ In 1968, Douglas Engelbart was trying to demo his version of Vannevar Bush's mem
 
    Along with the mouse, Engelbart introduced a "chorded keyset" where input would be entered like playing a piano. 
 
-But it had a much richer precedence than the mouse: the punchcard and stenography machine. The idea of playing columns of a punchcard as a form of computer input like a stenography takes dictation sounds like a graceful innovative way to interact with a 1960s era computer.
+Although the device on the left looks somewhat interesting and unfamiliar, it actually had a much richer precedence than the mouse: the punchcard and stenography machine. The idea of playing columns of a punchcard as a form of computer input like a stenography takes dictation sounds like a graceful innovative way to interact with a 1960s era computer.
 
-This type of innovation is endemic to early instances of things because it's not clear as to what something is or is not. Instead, like in the keyset example, there's amalgamations of previous systems placed into new ideas
+This type of innovation where the initial perimeter is larger, more abstract, and more adventurous is endemic to early instances of things because it's not clear as to what something is or is not. 
 
-Another example is the early smartphone entry by Nokia, the N9000. As opposed to the common iPhone-inspired full device as a screen or even the blackberry-inspired most of device as a screen with a small keyboard, the Communicator combined two existing forms, a palmtop computer and a phone, by placing the phone interface on the clamshell of the palmtop. 
+Without such a consensus, there's amalgamations of previous systems placed into new ideas. 
+
+These combinations are deviations of all things combined because they are constituting in a new way. Because certain things fail to gain purchase in the eventual contours of the notion of the thing, they continue to reside in an innovation purgatory, a set of roads not taken because of a context of the times which may no longer apply.
+
+There's a deep richness to explore things before they have names.
+
+Another example of this phenomena is the early smartphone entry by Nokia, the N9000. As opposed to the common iPhone-inspired full device as a screen or even the blackberry-inspired most of device as a screen with a small keyboard, the Communicator combined two existing forms, a palmtop computer and a phone, by placing the phone interface on the clamshell of the palmtop. 
 
 .. figure:: /assets/nokia.jpg
    :alt: Nokia N9110i
 
    The 1996 Nokia Communicator tried combining a palmtop computer with a portable phone through an innovative package. Not small enough for a pocket, but easily fittable in a briefcase or bag.
+
+There's a wild possibility of a richness of innovation when we stop using the confinements of our categories and voluntarily step out of our reservations of thought.
+
+Consciously availing ourselves to the possibilities of category deviations and permutations is one of the key ways that future happens.
 
 Hopes and dreams can have a crippling effect.
 
