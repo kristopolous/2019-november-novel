@@ -1,5 +1,5 @@
-Introduction
-============
+Introducing Tomorrow, Today
+===========================
 
 Why does one-fifth of the way into the 21st century just feel like it's been one continuous slow ride over the past half a century? Why is it when we think of life 50 years ago, it doesn't really seem that different except for smartphones? Was that all we did?
 
@@ -35,7 +35,7 @@ The future doesn't come from having new answers, but by the perpetual struggle o
 
 The hope is to be able to empower people to help forefront ideas and perspectives to constitute a better tomorrow.
 
-Lastly, for academics or the academically incline: there's an existing bodyy of work under sociological studies that deal with technoscientific imaginaries called science and technology studies. This text can be seen as an adjacent work to STS literature and there's been academic references placed where appropriate. This hopefully shouldn't preclude mass audience comprehension of the work.
+Lastly, for academics or the academically inclined there's an existing body of work under sociological studies that deal with technoscientific imaginaries called science and technology studies. This text can be seen as an adjacent work to STS literature and you'll find STS academic references placed where appropriate. This hopefully shouldn't preclude mass audience comprehension of the work.
 
 Let me close the Introduction with a bit of poetry I wrote about 10 years ago, early on in my thoughts about the matter:
 
@@ -55,4 +55,5 @@ Let me close the Introduction with a bit of poetry I wrote about 10 years ago, e
   | We just all decided to switch gears.
 
 Chris Mckenzie
+
 November 2019
