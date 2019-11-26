@@ -12,14 +12,14 @@ Framing what happens in treating the future as process is quite important in ord
 
 In the early 2000s, I distinctly remember two events:
 
- * the first time I saw a color cell phone that could take a picture
- * the first time I saw a car stereo system with a touch screen
+- the first time I saw a color cell phone that could take a picture
+- the first time I saw a car stereo system with a touch screen
 
 I remember feeling the level of engagement felt like an old computer.  I started cataloging these migrations. When things went from:
 
- * no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
- * no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
- * no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
+- no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
+- no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
+- no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
 
 Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects. The costs were reduces, societies engagement with the object became more diverse and the objects themselves played a greater role in our lives.
 
