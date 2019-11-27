@@ -1,7 +1,7 @@
 2.5 Radio, television, and the internet
 ---------------------------------------
 
-In understanding how the technology of newspapers came together in the 19th century we can use the model on each successive medium of the 20th century.
+The narrative dynamics of the technology of newspapers and their cultural and societal impacts in the 19th century worked off mechanics that instrumented themselves multiple times on each successive medium of the 20th century.
 
 The transitional technologies [#]_ which moved the theater of narrative from the written page to the pocket video player followed the same communication wave as newspapers as the new stepwise plateaus became available via their PPT requirements.
 
