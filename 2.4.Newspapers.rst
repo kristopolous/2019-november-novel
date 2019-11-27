@@ -29,6 +29,15 @@ We'll start with a tool that has mostly dissappeared from the landscape: the com
 2.4.1 News produced for the masses
 ==================================
 
+  The social revolution of the nineteenth century cannot take its poetry from the past but only from
+  the future. It cannot begin with itself before it has stripped away all superstition about the past.
+  The former revolutions required recollections of past world history in order to smother their own
+  content. The revolution of the nineteenth century must let the dead bury their dead in order to
+  arrive at its own content. There the phrase went beyond the content – here the content goes
+  beyond the phrase.
+
+  Karl Marx, The Eighteenth Brumaire, 1852 (translated from German by Saul K. Padover)
+
 The future shaping impact of the newspaper was only possible in a society of literate people. These people had to have acquired the skills to read, the process of the newsroom and organizational structure of gathering news had to exist, and the tools of both electronic wire communication, mechanical type-casting machine, and cheap on the fly mass production had to exist. If any one of these didn't work, the potential of future shaping in the system as a whole wouldn't have.
 
 Newspapers, defined as a periodic, universal, publicly accessible, and current (as opposed to say, the kind of historical analysis this book offers) had been around, without dispute since at least 1605. [#]_ By the 1660s, newspapers were available in France, Spain, Portugal, Sweden, and to German and Italian speakers. Provided mostly at-cost or at small profit, publications were viewed as a public service as a more reliable, organized, and dependable way to get information than simply by word of mouth.
