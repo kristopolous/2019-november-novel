@@ -5,23 +5,25 @@
 1.1 What is Technology?
 -----------------------
 
-When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?".  For example, they'll point to modern tools such as computers or automobiles.
+When faced with the question of defining technology many at first give the answer to a different question: "What are examples of technologies?"  For example, they'll point to modern tools such as computers or automobiles.
 
 When pressed to go further, often a more abstract answer will be presented, such as "something that improves our lives" or "tools that are manufactured".
 
-This class of answers presents a problem: Did technology exist before say, 1800 CE? What about prior to 1000 BCE?
+This class of answers presents a problem: Did technology exist before say, 1800 CE? What about prior to 1000 BCE? Of course it did!
 
-Most then come back with the acknowledgment that spears and weapons are technologies as well. So this would mean technology is generally tools. 
+Most people I asked then would come back with the acknowledgment that spears and weapons are technologies as well. So under this thought, technology is generally "tools", something you do something with. 
+
+Luckily it's much more interesting than that.
 
 Let's look at words related to technology: technical, and technique. Those two words are much more about process and craft. They are transitive in nature and transitioning in intent. Technical is about a richer understanding and technique is about a richer manipulation. 
 
-So what about the advancement in germ theory that led to the medical world doing the simple task of sterilization? Is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used.  Would that too, the act of cleaning tools, also be a technology? Likely so.
+How are technical and technique related to technology? Are some technologies techniques? Let's look at the advancement in germ theory that led to the medical world doing the simple task of sterilization? Is that also a technology?  It's a process, it improves lives, it's based on some scientific understanding, there's tools used.  Would that too, the act of cleaning tools, also be a technology? Likely so.
 
-What about the skills to do it? Surely different methods of cleaning have different outcomes and different results.  The shepherding of the tools between the cleaning and use and the mechanisms for doing that, aren't those processes and knowledge also a set technologies?
+What about the skills to do it? Surely different methods of cleaning have different outcomes and thus different results.  The shepherding of the tools between the cleaning and use and the mechanisms for doing that, aren't those processes and knowledge also a set technologies?
 
 Do all of these "technologies" as defined appear to follow roughly the same paths of improvements and refinements? 
 
-For instance, when we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease or the classifications of the systems for dealing with it?
+For instance, when we look back on say, how we chose to act on treating a disease in the past and compare it to how we do it now, isn't that cognitively the same epistemological distinction as looking at say, the tools of diagnostics of the disease or the classifications of the systems for dealing with it? Is it a similar process to say, all other technologies, from putting people on the moon to say the development of a robotic cleaning rover that rolls through your house?
 
 Wouldn't this implicate that technology is really a kind of system?  Is it an abstraction of thought with many manifestations? What is it not? 
 
