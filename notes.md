@@ -46,3 +46,5 @@ The difference between HURD and Linux is of organizational structure
 On occupy wall Street, February 27 2019, the dig
 Jonathan Smucker: leaderlessness as a cultural narrative,  if you were taking leadership, that was bad. If there's skill sets it takes to be leaders then those leaders aren't cultivated and they weren't
 Occupy wall Street and the Paris commune
+
+The structural failings of the Paris Commune of 1871 and Occupy WallStreet are the same
