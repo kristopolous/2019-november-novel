@@ -32,6 +32,13 @@ Human reaction and condition isn't replicable unless on a fairly large, statisti
 Embrace failure. There's nothing more liberating than being freed from the social obligations of success.
 riches come of faith and foolery
 
+We touched upon "reach distance" briefly in 1.4. It'd be important to define it now that we have more context:
+
+  Reach distance: The distance (number of permutations of current reality) to a particular innovation is a consequence of current context.
+
+Or less technically, "an idea whose time has come". There have been numerous times where multiple groups, without any communication with each other, separate incentives and funding sources, came upon nearly identical inventions at about the same time. [#]_
+
+
 Unaccusative verb
 
 Notes
@@ -40,3 +47,4 @@ Notes
 .. [#] The difference between science, opinion, faith, truth, and fact have been fogged probably since the beginning and many authors have dealt with 
    the question. For the purposes of the text, science and faith are processes of truth. Facts are ultimately faith based because it's in the service of disclosing a reality without a process of confirming it.
 .. [#] There's a problem of induction in any theory. Generalizations are made based on limited observations and falling victim to Humes Uniformity of Nature, which not only presupposes the future will be like the past but also the description of dynamics is that of a true mechanism.
+.. [#] Exclusive monopoly rights for the first the patent office is rather indefensible unless you think the world should be some giant unfair game of lopsided allocation where indiscriminate absolute monopolistic power is given based on mere chance.  Truly if some inventions were inevitable and many independent groups effectively thought of the same thing because it was obvious given the time, then anyone should be able to make money from it, not just some swift footed person bee-lining to the patent office so they can crush the other inventors in the courts.

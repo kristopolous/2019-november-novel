@@ -11,7 +11,13 @@ Invention has an antiquated use from Middle English which is still often part of
 
 When the word is used to attribute a person to a tool, often it's historically errant or at best dubious. Thomas Edison is linked with the light bulb, often given the "inventor" label even though there's a significant number of people who did incandescent illumination prior. It's the commercialization, the devised method of organization, that's the important part. That is where "invention" is attributed.  
 
-Another classic example is the computer mouse. Often misattributed to Apple around the early 1980s, it was invented (along with a chorded input) by Douglas Engelbart in the late 1960s. Well, kind of. His mouse had two circular rotational discs instead of the ball underneath. They were perpendicular to each other so the mouse couldn't really do diagonal that well.  Xerox's mouse had an innovative tiny metal ball which made it less frustrating but still quite a pain. Jeff Raskin, who invented drag and drop and drag to select, made it larger, rubber, and put in the center at Apple, which ended up getting it into the hands of countless people. [#]_ So who's the "inventor"?
+Another classic example is the computer mouse. Often misattributed to Apple around the early 1980s, it was invented as we've seen, by Douglas Engelbart in the late 1960s. Well, kind of. His mouse had two circular rotational discs instead of the ball underneath. They were perpendicular to each other so the mouse couldn't really do diagonal that well.  Xerox's mouse had an innovative tiny metal ball which made it less frustrating but still quite a pain. That ball was done by Bill English who was working with Engelbart on the first mouse. 
+
+Jeff Raskin, who invented drag and drop and drag to select, made it larger, rubber, and put in the center at Apple, which ended up getting it into the hands of countless people. [#]_ 
+
+Or was it? A few years before Engelbart's demo a German company, Telefunken, was developing a computer that used a track rollerball to move a cursor around a screen. A few months before Engelbart, they had a hemisphere shaped device, essentially the rollerball turned upside down, which dragged across the table and had a button on top of it.  It's a "mouse". They called it a Rollkugel (roller ball) but we wouldn't.
+
+So who's the "inventor"?
 
 2.3.2 Manifest Destiny
 ======================
