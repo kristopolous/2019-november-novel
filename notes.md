@@ -48,3 +48,5 @@ Jonathan Smucker: leaderlessness as a cultural narrative,  if you were taking le
 Occupy wall Street and the Paris commune
 
 The structural failings of the Paris Commune of 1871 and Occupy WallStreet are the same
+
+Unintended consequences of science, the admitance of the success of the AICA/PPT model going in any direction, with or without *Agency*.
