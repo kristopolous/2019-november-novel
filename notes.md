@@ -54,3 +54,6 @@ Unintended consequences of science, the admitance of the success of the AICA/PPT
 Scifi movies implicitly subscribe to the theory of the machinery of future building outlined in this book, many play with the consequences of the transformative effects of the systems.
 
 Perhaps the content was more an allegory of the system then it was a concrete proclamation.
+
+The allegory of the mad scientist Is the AICA model manifested as a person
+
