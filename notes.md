@@ -56,4 +56,5 @@ Scifi movies implicitly subscribe to the theory of the machinery of future build
 Perhaps the content was more an allegory of the system then it was a concrete proclamation.
 
 The allegory of the mad scientist Is the AICA model manifested as a person
+As ideas become more familiar to people they don't have direct allegorical embodiments. They can exist as an abstract while new concepts get those embodiments instead
 
