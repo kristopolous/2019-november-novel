@@ -33,7 +33,7 @@ Although things can be simply slapped on devices in the sole purpose of being fl
 
 The 10-20-30 model is actually the most understandable version of a process called technological democratization. 
 
-As will be discussed in 2.4.2, the expansive nature of future is only possible if it scales. Scale is about mass production and mass production is about reducing production costs. As technology scales, the production costs inherently decrease. For consumers this is even more pronounced, in the case of Lockean Property technology, as after-markets from previous generation objects emerge. 
+As will be discussed in 2.4.2, the expansive nature of future is only possible if it scales. Scale is about mass production and mass production is about reducing production costs. As technology scales, the production costs inherently decrease. For consumers this is even more pronounced, in the case of Lockean Property technology, as after-markets from previous generation objects emerge. [#]_
 
 Often "Basement price" theories emerge, some theory of an asymptotic lowest possible price almost as some kind of law of physics. However, they are constantly broken when different implementations of the same function emerge. This is because technology is fundamentally the mechanism of relationship. It's not the mechanical hard drive, it's the act of being able to store and retrieve information. It's not the cathode ray tube, it's the ability to have an interactive session (relationship) with the computer through a rich output device. 
 
@@ -198,3 +198,8 @@ Additionally, I'll discuss how the product encompasses all those properties and 
 unless explicit, protocol and process are practiced without purpose.
 
 stubbornness will always destroy what it happens to have created.
+
+Notes
+^^^^^
+
+.. [#] Second order products with a refined lower effort production cost aren't isolated to physical objects. Mimicry and efficiency refinement happen across the production spectrum. Women and gay liberation happening after civil rights is as much of a second order effect as televisions getting hard drives and their own little computers. The "reach distance" (see 1.5) reduces as the necessary effort of production reduces to be within the institutional capabilities of increasingly disperse and differentiated groups.
