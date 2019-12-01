@@ -74,7 +74,7 @@ Some produced technological thing doesn't need to merely exist however. There's 
 
 For a long time I had been baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as breakthrough successes in the marketplace. Hoardes of people would liberally use all caps and exclamation points when describing something. 
 
-It gets worse. Oftentimes it was complete nonsense, some digital myths founded deeply in misunderstanding. In 2006, Facebook had a drop-up menu in the bottom left with apps and people referred to it as an "operating system". Around the same time, people commonly claimed MySpace would give them "computer viruses". Neither of these were even remotely true.
+It gets worse. Oftentimes it was complete nonsense, some digital myths are founded deeply in misunderstanding. In 2006, Facebook had a drop-up menu in the bottom lefthand of their website with apps and people referred to it as an "operating system". Around the same time, people commonly claimed MySpace would give them "computer viruses". Neither of these were even remotely true.
 
 Even when it was a bit more true, it was still rather confounding. Apple, for instance, would release a product using a technology which had been around for 15 years, but for some reason, apparently it was the first time people had actually seen it, so they'd falsely attribute the innovation to Apple. 
 
