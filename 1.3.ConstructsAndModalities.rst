@@ -27,7 +27,9 @@ Essentially there was a dissemination of tools, as features, trickling down a hi
 
 The power of anyone uploading a video for anyone to see in real-time over a $70 device and a $20/month connection is a fundamentally different mechanism then when it was limited to media vans with a satellite uplink.
 
-I coined this phenomena as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The tool itself, in this case, the computer, is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers.  For instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory.
+I coined this phenomena as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The dedicated entity, the tool itself, in this case, the computer (or the media company, or the entity dedicated to the purpose, either high or low cost) is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers or how say, libraries were the 2nd class internet consumers in the early 90s, after the dedicated institutional computer rooms were interconnected.  
+
+For a more specific instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory. This waterfall effect isn't always so quantitatively clean and that's not the point, it's about the dissemination of empowerment to *intersectional devices* on a fairly consistent time horizon.
 
 The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th class are things with limited engagement such as microwaves, refrigerators and greeting cards.
 
