@@ -17,7 +17,16 @@ Jeff Raskin, who invented drag and drop and drag to select, made it larger, rubb
 
 Or was it? A few years before Engelbart's demo a German company, Telefunken, was developing a computer that used a track rollerball to move a cursor around a screen. A few months before Engelbart, they had a hemisphere shaped device, essentially the rollerball turned upside down, which dragged across the table and had a button on top of it.  It's a "mouse". They called it a Rollkugel (roller ball) but we wouldn't.
 
-So who's the "inventor"?
+.. figure:: /assets/mouse.jpg
+   :alt: Two rolling pointing devices
+
+   The frontier-thought of idea ownership comes with all the warts, including the anomaly of claiming ones traversal of an existing paths is actually the first and entitles them to shape the narrative going forward. See 1.3.2 for how historical narrative shape claims of future entitlements
+
+So who's the inventor, the discoverer, the first, the pioneer?
+
+2.3.1 The World Map: The first 5,000 years
+==========================================
+
 
 2.3.2 Manifest Destiny
 ======================
@@ -67,4 +76,4 @@ And there you have it. This is how the "unorganized terrotories" of the west eve
 Notes
 *****
 
-.. [#] The computer mouse had an uphill battle because nobody could figure out how to use it. A story which may or may not be aprocryphal from Apple was that people would turn the device upside down and roll the ball like the controllers in popular arcade games at the time.  The idea of pushing the device around the table to interact with the computer supposedly wasn't obvious to anyone.
+.. [#] The computer mouse, as an interface, had an uphill battle because nobody could figure out how to use it. A story which may or may not be aprocryphal from Apple was that people would turn the device upside down and roll the ball like the controllers in popular arcade games at the time.  The idea of pushing the device around the table to interact with the computer supposedly wasn't obvious to anyone.
