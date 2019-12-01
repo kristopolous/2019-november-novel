@@ -80,7 +80,7 @@ Even when it was a bit more true, it was still rather confounding. Apple, for in
 
 Even in the software development world, where people should know better, I'd read comments gushing over some technology which does effectively the exact same thing as something else which had been in wide use for years, sometimes decades. 
 
-I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all idiots? What gives?"
+I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all ignorant of the world? What gives?"
 
 A number of years ago, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Successfully building a future is 1% idea, 9% implementation, and 90% "marketing".  
 
