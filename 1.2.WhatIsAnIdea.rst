@@ -64,7 +64,19 @@ Only through a sincere commitment to fiction can the future be made because all 
 1.2.2 False Maps to Reality
 ===========================
 
-Amorphous words like "success" unmanifested by no change in the material reality of society doesn't really mean much. Success doesn't mean money, it doesn't mean power, it means change.
+Amorphous words like "success" unmanifested by no change in the material reality of society doesn't really mean much. For the purposes of this text success doesn't mean greater money or greater power, it means a change in the dynamics of power and money. 
+
+Part of this is the idea of success being "to make some thing happen" or "to [have agency](make) [over a relation or mechanism](some thing) [intrumented towards a goal](happen)"
+
+The "false map" here comes from another model of reality which will be explored in 2.1 which comes from an illusion of focus: human relationship dynamics and mechanics are consistent, knowable, and describable and simply scale by a linear multiplier called "progress" or perhaps, in exceptionalist lenses, "greatness". In this model, the individuals playing the roles change so therefore success is an individualized endeavor to change ones role in this constant forever pecking order of society.
+
+This is a dominant, alternative, view of progress and success; a self-driven individual using techniques to amount a pile of cash.
+
+The illusion of focus is a "forcing" of systems into linear narratives that by their construction, implicitly define subsequent steps. They presume an end of history and the infinite present as a foundation for this construction to work.
+
+If the goal isn't future stuff and authority is valued more than discovery, control valued more than exploration, and knowns valued more than unknowns then this model works fine. The perpetuation of the present is not infinite but it is usually free of shock enough to work within it.
+
+But this isn't the creation of future stuff. The fundamental problem with this dynastic system is the accelerated temporality of dynasties. The anticipation of disorder is the new order as it will happen with or without, perhaps even once a decade. [#]_
 
 This creation of future stuff is nicely encapsulated by the beginning of O'Shaughnessy's Ode, 
 > We are the music makers, And we are the dreamers of dreams, 
@@ -131,3 +143,4 @@ Notes
 *****
 
 .. [#] There's a philosophical pedigree about ideas and perception that goes back to the dawn of modern philosophy (see Plato, Descartes, Locke, Hume, etc.). Since we are confining the text into "future thought" we confine the notion of idea within that context. This text intentionally confines things in order to define them. The goal is to construct a repeatable, actionable, but abstract enough to be perpetually unique framework of thought which can be identified and applied as a method. The frontier of concepts like "idea" become a lot less relevant when we commit to drawing our own perimeters around them.
+.. [#] Software engineering is a good example. It's not that the language and practice of the industry changes quickly (it does) but the systems and products fundamentally change. Software has gone from the mainframe to the minicomputer to the desktop to the smart phone in the length of someone's career. Each level is fundamentally different in how things are designed, who is using the devices, for what purpose, where the data lives, what the nature of the data is, etc. For instance, a smart phone with dozens of accounts, an email server, and a handful of remote terminals makes as much sense as a touchscreen on a mainframe for setting up romantic dates with various other mainframe operators around town. The illusion of focus works temporarily if the actions are swift enough but it's ultimately a short-lived enterprise as evident by the number of successful mainframe software companies (there's a few with the institutional capability to construct and deploy supercomputers such as Cray (now HP), IBM, and Fujitsu, but it's a retreat to the highest end of the market with only governments as clients)
