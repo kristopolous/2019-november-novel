@@ -1,10 +1,12 @@
 1.3 Constructs and modalities of future-thought
 -----------------------------------------------
 
-> "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination."
-*Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering*
+  "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination."
+  *Frederick P. Brooks Jr., The Mythical Man-Month: Essays on Software Engineering*
 
 Framing what happens in treating the future as process is quite important in order to see if patterns emerge.
+
+Moving from future thought to future stuff has a consistent pattern of a number of dynamics based on abstract classifications. Much like with the prior discussions, identifying the mechanics requires new ways of thinking about old ideas.
 
 
 1.3.1 Democratization and the 10-20-30 year rule
@@ -15,27 +17,33 @@ In the early 2000s, I distinctly remember two events:
 - the first time I saw a color cell phone that could take a picture
 - the first time I saw a car stereo system with a touch screen
 
-I remember feeling the level of engagement felt like an old computer.  I started cataloging these migrations. When things went from:
+Interacting with these devices looked and felt like an older computer.  A limited use, flashy interface for playing car audio that was stored on a USB stick was not the state of "the" "art". Or maybe it was, what art is this a state of. I started cataloging these migrations. When things went from:
 
 - no display, to a crude LED single line display (like a microwave), to a black and white display, to finally a color display.
 - no customization, to a binary customization, to a multi-dimensional customization, to one with custom applications.
 - no storage, to storage of current state, to storage of previous state, to storage of things you didn't think were stored at all.
 
-Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects. The costs were reduces, societies engagement with the object became more diverse and the objects themselves played a greater role in our lives.
+Essentially there was a dissemination of tools, as features, trickling down a hierarchy of objects based on their price of consumption. As time progressed, the cost (effort+time+resources) were reduced, enabling societies engagement with the object to become more diverse and the objects themselves to play a greater role in our lives, especially cultural reproduction. 
 
-I coined this as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The tool itself, in this case, the computer, is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers.  For instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory.
+The power of anyone uploading a video for anyone to see in real-time over a $70 device and a $20/month connection is a fundamentally different mechanism then when it was limited to media vans with a satellite uplink.
+
+I coined this phenomena as the 10-20-30 year rule essentially saying that there's 1st, 2nd, 3rd and 4th class tools which have more or less a 10, 20, and 30 year lag.  The dedicated entity, the tool itself, in this case, the computer (or the media company, or the entity dedicated to the purpose, either high or low cost) is the 1st class tool.  The 2nd class tools are those of high engagement featuring the properties of the 1st class tool, such as cell phones and tablet computers or how say, libraries were the 2nd class internet consumers in the early 90s, after the dedicated institutional computer rooms were interconnected.  
+
+For a more specific instance, as of this writing, the iPhone 11 has 4GB of memory.  The MacBook, by the same company, 10 years prior, also had 4GB of memory. This waterfall effect isn't always so quantitatively clean and that's not the point, it's about the dissemination of empowerment to *intersectional devices* on a fairly consistent time horizon.
 
 The 3rd class are smart appliances such as smart TVs, ATMs, and kiosks.  The 4th class are things with limited engagement such as microwaves, refrigerators and greeting cards.
 
 Seeing such things as "behind the times" is an inaccurate, not future-oriented portrayel. Instead, the dissemination and integration of future stuff has a long-term transformative effect which ripples downmarket like the shockwave of an earthquake. But at every point in that downmarket, a new visionary approach has to be realized to justify its existence.  For instance, a sophisticated color touch-screen microwave would need a new justifiable reason for it to exist.
 
-Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer.
+When they don't, they've reached a plateau of applicability limited by the current imaginary. This permanence of purgatory "can stick" realizations of future trajectories, sometimes for centuries (as we'll see in 2.3 and 2.4). 
+
+Although things can be simply slapped on devices in the sole purpose of being flashy, there isn't long term market (here used as a synonym for "usage", not necessarily the commodity market of objects) acceptance until a need arrives.  There has to be an underlying justifiable vision.  Those come with time as the potential applications of new tools to do old things in new ways materialize in the headspace of both the consumer and producer.
 
 The 10-20-30 model is actually the most understandable version of a process called technological democratization. 
 
-As will be discussed in 2.4.2, the expansive nature of future is only possible if it scales. Scale is about mass production and mass production is about reducing production costs. As technology scales, the production costs inherently decrease. For consumers this is even more pronounced, in the case of Lockean Property technology, as after-markets from previous generation objects emerge. 
+As will be discussed in 2.4.2, the expansive nature of future is only possible if it scales. Scale is about mass production and mass production is about reducing production costs. As technology scales, the production costs inherently decrease. For consumers this is even more pronounced, in the case of Lockean Property technology, as after-markets from previous generation objects emerge. [#]_
 
-Often "Basement price" theories emerge, some theory of an asymptotic lowest possible price almost as some kind of law of physics. However, they are constantly broken when different implementations of the same function emerge. This is because technology is fundamentally the mechanism of relationship. It's not the mechanical hard drive, it's the act of being able to store and retrieve information. It's not the cathode ray tube, it's the ability to have an interactive session (relationship) with the computer through a rich output device. 
+Often "Basement price" theories emerge, some theory of an asymptotic lowest possible price almost as some kind of law of physics. However, they are constantly broken when different implementations of the same function emerge. This is because technology is fundamentally the mechanism of relationship. It's not the mechanical hard drive, it's the act of being able to store and retrieve information. It's not the cathode ray tube, it's the ability to have an interactive session (relationship) with the computer through a rich output device. It's not the violent revolution, it's the process of resetting relationships in the political economy.
 
 Getting caught up in the notion of "how much lower can CRT displays go" is the form of commodity fetishism here. As of this writing there's $10 touch screens available on Amazon. This is the act of democratization.  This affordable $10 tool can now not only get in the hands of a democracy of consumers but a democracy of other devices and help guide various PPTs.
 
@@ -53,28 +61,32 @@ They made an observation that although internet access had increased over the pa
 
 This arbitrage of opportunity is one of the oldest professions, that of the merchant reseller who purchases something which is plentiful in one place and then makes the purchased thing available somewhere it is scarce at a higher cost.
 
+This remarkably successful business model works because markets, accessibility, and availability are more important than the things which have the properties. The availability of the unhealthy processed food is more important than the content of a healthier alternative in the success of us production.
+
+This too, can be generalized.
+
 1.3.2 1-9-90: The lifeblood of innovation
 =========================================
 
 Technology is how any meaningful change happens in the world. It's the product of our capacity to socialize, learn skills, have ideas, and build tools. It's part of our innate humanity.
 
-Some thing doesn't need to merely exist however. There's much more to that.  In fact, sometimes as will be demonstrated in the next chapter, it doesn't need to exist at all.
+Some produced technological thing doesn't need to merely exist however. There's much more to that.  In fact, sometimes as will be demonstrated in the next chapter, things don't need to exist for technology to exist.
 
 For a long time I had been baffled by how poor executions of rather useless technology, often just knockoffs of already existing things, ended up being seen as breakthrough successes in the marketplace. Hoardes of people would liberally use all caps and exclamation points when describing something. 
 
-It gets worse. Oftentimes it was complete nonsense, some digital myths founded deeply in misunderstanding. In 2006, Facebook had a drop-up menu in the bottom left with apps and people referred to it as an "operating system". Around the same time, people commonly claimed MySpace would give them "computer viruses". Neither of these were even remotely true.
+It gets worse. Oftentimes it was complete nonsense, some digital myths are founded deeply in misunderstanding. In 2006, Facebook had a drop-up menu in the bottom lefthand of their website with apps and people referred to it as an "operating system". Around the same time, people commonly claimed MySpace would give them "computer viruses". Neither of these were even remotely true.
 
 Even when it was a bit more true, it was still rather confounding. Apple, for instance, would release a product using a technology which had been around for 15 years, but for some reason, apparently it was the first time people had actually seen it, so they'd falsely attribute the innovation to Apple. 
 
 Even in the software development world, where people should know better, I'd read comments gushing over some technology which does effectively the exact same thing as something else which had been in wide use for years, sometimes decades. 
 
-I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all idiots? What gives?"
+I always looked on these with the same question: "How on earth is this news? Why do people act like this? Are they just all ignorant of the world? What gives?"
 
 A number of years ago, I formalized what I saw as the "1-9-90" rule to explain this phenomena:  Successfully building a future is 1% idea, 9% implementation, and 90% "marketing".  
 
-Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size of the tribe that says positive things about it, etc, effectively the business (ie, human) side of a product.
+Marketing here includes not only the description of the product/place/price/promotion in some traditional "marketing mix" but also the assumed personality of the people developing it, their social connections, the style and colors of things like the documentation website, the size and position of the tribes that says positive things about it, etc, effectively the business (ie, human) side of a product.
 
-Most importantly it's about to whom and how something is presented. In a way, both Apple and Microsoft's success wasn't about innovating technologies as in making new novel tools, but in innovating technologies as in finding new people, new processes, new presentations of those. Taking the Xerox Alto and repackaging it, not for the busy executive, but as a home computer, was more important than getting the technology right. For instance, in our example, the Apple Macintosh, released 1984, didn't eclipse sales for the Apple ][ until fiscal year 1988. What more, it was seen as a failure against the encroachment of IBM PCs and led to Steve Jobs firing in 1985. When compared against the Xerox Alto, selling a few hundred thousand machines is a smashing success. However, when presented as the IBM PC killer, the story is different.
+Most importantly it's about to whom and how something is presented. In a way, both Apple and Microsoft's success wasn't about innovating technologies as in making new novel tools, but in innovating technologies as in finding new people, new processes, new presentations of those. Taking the Xerox Alto and repackaging it, not for the busy executive, but as a home computer, was more important than getting the technology right. For instance, in our example, the Apple Macintosh, released 1984, didn't eclipse sales for the Apple ][ until fiscal year 1988. What more, it was seen as a failure against the encroachment of IBM PCs and led to Steve Jobs firing in 1985. When compared against the Xerox Alto, selling a few hundred thousand machines is a smashing success. However, when presented as the IBM PC killer, the story is different. The Macintosh was seen as a product extension failure, further ceding the microcomputer market to IBM PC compatibles.
 
 Why? It's somewhat absurd, even the notion of what success is. Microsoft didn't have GUI success for 6 more years - Apples was the only usable game in town for under $10,000 for years. 
 
@@ -114,6 +126,14 @@ Instead, I saw emotional, impulsive people responding unpredictably to false and
 Rational agency, instead of being inherent to the human condition, is a trained capacity, within the capability of human expression, but not cultivated or expressed as some core constituency.
 
 Authoritarian power dynamics constrain the possibility frontiers of future thought by limiting who is entrusted in exercising them. By reducing the number of participants, the number of perspectives, possibilities and their advocacies don't receive a rich articulation fully exercising the freedom of thought
+
+A product, for our purposes, isn't necessarily a physical object, it's the output of an act of production, an expression of an interim state of being. Production is about arranging, generating, consolidating and emerging. Take things, arrange then in a consolidating form, generate some thing and the emergent thing is the product of the production process.
+
+This rather exhaustive approach is necessary because not only is an iPhone a product, but so is power dynamics, relationships, things that are discretely describable as a *product* of human agency.
+
+One of the central themes of the text is that the production of future thought and future process into future product has methodological equivalency regardless of the kind of product it is; gay marriage, a new building, or an innovative new electronic device. Getting there is the not only the same process, but interdisciplinary examples have *transferable* knowledge that is robust to the level of success (the penetration of change).
+
+This means that the roadmap to say adoption of electric cars can be placed in the same framework as distant away from it as the apartheid reform of South Africa. This sounds nonsensical, but there's a lens and context where they're equivalent productions. Part of that is in how they formulate goals.
 
 1.3.3 Forming goals with AICA 
 =============================
@@ -195,3 +215,8 @@ Additionally, I'll discuss how the product encompasses all those properties and 
 unless explicit, protocol and process are practiced without purpose.
 
 stubbornness will always destroy what it happens to have created.
+
+Notes
+^^^^^
+
+.. [#] Second order products with a refined lower effort production cost aren't isolated to physical objects. Mimicry and efficiency refinement happen across the production spectrum. Women and gay liberation happening after civil rights is as much of a second order effect as televisions getting hard drives and their own little computers. The "reach distance" (see 1.5) reduces as the necessary effort of production reduces to be within the institutional capabilities of increasingly disperse and differentiated collections of people, proposes, or ideas.
