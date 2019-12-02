@@ -5,7 +5,7 @@ I present a historical-heavy theoretical work which attempts to describe how fut
 The hypothesis is that there's frameworks and describable dynamics for orchestrating these divergences.  Our time can be described as a People 
 
 
-A list of contents, with a short paragraph on each chapter. 
+> A list of contents, with a short paragraph on each chapter. 
 
 I've divided the work into three sections:
 
@@ -43,13 +43,13 @@ Part 3 **Constructing Tomorrow**. Part 3 presents companies and projects I'm cur
 3.4 **Of risk and revolution.**
 3.5 **The many worlds of tomorrow**
 
-Some background on the author, or contributors.
+> Some background on the author, or contributors.
  
 I'm a software engineer who has worked exclusively in startups since the late 90s. I see a deep connection between the future projects of engineering,  politics, and business and seek to describe them. The interplay between ideas, emergent categories and the means of orchestrating the dynamic topology of possible tomorrows and how they mechanically interoperate has been of great interest to me for a long time.
 
-A paragraph on what you perceive as the main markets for the book.
+> A paragraph on what you perceive as the main markets for the book.
 
-is both a business an a political book. This is both a business an a political book. The subject matter is general but the treatment is technical. The market size for such matters is only limited by the quality and accessibility of its content.
+This is both a business an a political book. This is both a business an a political book. The subject matter is general but the treatment is technical. The market size for such matters is only limited by the quality and accessibility of its content.
 
 
 > Information about any competing titles, published or forthcoming, of which you're aware.
