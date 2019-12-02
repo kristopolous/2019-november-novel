@@ -27,6 +27,11 @@ So who's the inventor, the discoverer, the first, the pioneer?
 2.3.1 The World Map: The first 5,000 years
 ==========================================
 
+It's fairly easy to lose site of the technical and organizational requirements to do accurate cartography. First you needed accurate celestial navigation devices that required an accurate calendar to know where the stars were at a given date, along with accurate ways to measure arcs in the sky based on leveling equipment to determine where you were in the sea at a given time.
+
+Then the cartographers would consolidate these measurements from many seafarers taken over months and try to come up with a consensus. These maps and cartography logs constituted trade secrets to give navigational advantage to one group over another
+
+disputed territory
 
 2.3.2 Manifest Destiny
 ======================
