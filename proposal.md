@@ -44,12 +44,12 @@ Part 3 **Constructing Tomorrow**. Part 3 presents companies and projects I'm cur
 3.5 **The many worlds of tomorrow**
 
 Some background on the author, or contributors.
-
-I'm Chris McKenzie, a software engineer who has worked exclusively in startups since the late 90s. I see a deep connection between the future projects of engineering,  politics, and business and seek to describe them.
+ 
+I'm a software engineer who has worked exclusively in startups since the late 90s. I see a deep connection between the future projects of engineering,  politics, and business and seek to describe them. The interplay between ideas, emergent categories and the means of orchestrating the dynamic topology of possible tomorrows and how they mechanically interoperate has been of great interest to me for a long time.
 
 A paragraph on what you perceive as the main markets for the book.
 
-is both a business an a political book. This is both a business an a political book.
+is both a business an a political book. This is both a business an a political book. The subject matter is general but the treatment is technical. The market size for such matters is only limited by the quality and accessibility of its content.
 
 
 > Information about any competing titles, published or forthcoming, of which you're aware.
@@ -60,4 +60,5 @@ I've really found inspiration in the approach of the business books of Clayton C
 
 > Your intended writing timetable.
 
-I'm about 35,000 words in over the course of a month and intend to spend probably another 60-90 days on it. My goal for "completion" comes from the French poet Antoine de Saint-Exupery, "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+I'm about 35,000 words in over the course of a month and intend to spend probably another 60-90 days on it. My goal for "completion" comes from the French poet Antoine de Saint-Exupery, "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.". It's a consolation of about 15 years of thought and is am expansion of an article I first tried to write in about 2011 but was never satisfied with.
+I put it down for 8 years or so and decided to give it another go, in book form.
