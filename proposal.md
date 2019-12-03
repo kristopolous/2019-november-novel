@@ -45,7 +45,7 @@ Part 2 **Futures Past.** Part 2 is dedicated to historical examples showing thes
 
 Part 3 **Constructing Tomorrow**. Part 3 presents how these methods and perspectives can be used to provide meaning and significance to a particular project. It also speculatively proposes what real-world futures will look like based on the long-view analysis presented in the former sections.
 
-3.1 **Calibrating a vision** 
+3.1 **Calibrating a vision** this is about how to identify visions with decreasing reach distances as contexts shift more favorable towards them.
 
 3.2 **What is an advertisement?**
 3.3 **What is a game?**
