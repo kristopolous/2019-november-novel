@@ -43,9 +43,10 @@ Part 2 **Futures Past.** Part 2 is dedicated to historical examples showing thes
 
 2.6 **The cracked future code.** Although not formally codified, how to instrument the dynamics of people, processes and tools towards future building became a repeatable emulatable structure. This futureshock of *competing futures* diluted the social imaginary into camps competing for futures, much like during mercantilism, but now at a greater abstraction, the empires of the human mind.
 
-Part 3 **Constructing Tomorrow**. Part 3 presents companies and projects I'm currently involved in and how these methods and perspectives can be used to provide meaning and significance to a particular project. It also speculatively proposes what real-world futures will look like based on the long-view analysis presented in the former sections.
+Part 3 **Constructing Tomorrow**. Part 3 presents how these methods and perspectives can be used to provide meaning and significance to a particular project. It also speculatively proposes what real-world futures will look like based on the long-view analysis presented in the former sections.
 
-3.1 **Calibrating a vision**
+3.1 **Calibrating a vision** 
+
 3.2 **What is an advertisement?**
 3.3 **What is a game?**
 3.4 **Of risk and revolution.**
