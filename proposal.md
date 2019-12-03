@@ -2,7 +2,15 @@
 
 I present a historical-heavy theoretical work which attempts to describe how future thought materializes as reality. Defining  future as a redirection of expectations and a redefinition of goals, the future happens when the impossible enters the realm of possible, the absurd becomes commonplace and heresy is redefined.
 
-The hypothesis is that there's frameworks and describable dynamics for orchestrating these divergences.  Our time can be described as a People 
+The hypothesis is that there's frameworks and describable dynamics for orchestrating these divergences. I borrow styles of writing centered around model making that are common in some of the most well respected business books such as Crossing the Chasm, The Innovators Dilemma and Built to Laat.
+
+Their deconstructive approach to describing system dynamics in the behavior of companies and the marketplace I've found to be inspirational.
+
+Also, for the past 20 years, the constellation surrounding the Frankfurt school has greatly influenced me.
+
+That uniquely positions this work as a an interweaving of political economy and markets
+
+ Our time can be described as a People 
 
 
 > A list of contents, with a short paragraph on each chapter. 
