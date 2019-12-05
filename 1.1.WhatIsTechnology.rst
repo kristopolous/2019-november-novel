@@ -58,7 +58,7 @@ A plant growing leaves with medicinal properties isn't itself a technology, the 
 
 To illustrate this further, let's use a microscope. Microscopes aren't The technology but an object of the technology of magnification and a mechanism of relationships of using magnification. Relationships with who? Relationships with what? Imagine a single person in a lab, looking through the microscope, writing down observations. What is the relationship? 
 
-Even if it's just one person using a microscope, making an observation, there's still a fundamental technology relationship. To understand it, we have to look deeper at what a relationship is. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations.  The microscope is a relationship that facilitates the creation of new relationships. Tools bridge technologies. They are the connections and lead to technologies which birth further tools.
+Even if it's just one person using a microscope, making an observation, there's still a fundamental technology relationship. To understand it, we have to look deeper at what a relationship is. The root word, relate, the parameters of interaction and knowledge, that's the core permutation of science made by the processes of things such as observations.  The microscope is a relationship that facilitates the creation of new relationships. Tools bridge technologies. They are the connections and lead to technologies which birth further tools. [#]_
 
 On another level, the microscope was also an instrumental instrument in understanding diseases and how humans related with  diseases. The microscope is a device for connecting environmental relationship. 
 
@@ -103,6 +103,7 @@ For example, the Catholic Church has people, processes, and physical objects tha
 Notes
 ^^^^^
 
+.. [#] Technology is often paired with science. This text separates the two and mostly excludes science. Science, in the scope of this book, is about discovering the natures of a mechanisms of technology with one major exception. Science has a separation of theory and theorized. Chemistry will react the same way regardless of what we think about it, that's science. However an influential theory of economics will fundamentally alter how economics functions because economics is about the nature of permeable relationships. That's why economics can never be a science. It has to be a mostly abstract theory of systems.
 .. [#] If you've ever read mathematical text without proper training you've probably found it confusing. Mathematics has a technical, or technological way of dealing with words, a specific and rigid philosophy of meaning, a contoured geometry of specificity. It can't be dealt with without such stringency.
        It's a certain subset of language called a "formal language" which follows well defined proscribed ways of structuring words.
 
