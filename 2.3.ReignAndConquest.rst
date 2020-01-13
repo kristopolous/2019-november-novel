@@ -17,6 +17,8 @@ Jeff Raskin, who invented drag and drop and drag to select, made it larger, rubb
 
 Or was it? A few years before Engelbart's demo a German company, Telefunken, was developing a computer that used a track rollerball to move a cursor around a screen. A few months before Engelbart, they had a hemisphere shaped device, essentially the rollerball turned upside down, which dragged across the table and had a button on top of it.  It's a "mouse". They called it a Rollkugel (roller ball) but we wouldn't.
 
+TODO: innovation, novation, etc.
+
 .. figure:: /assets/mouse.jpg
    :alt: Two rolling pointing devices
 
