@@ -59,3 +59,7 @@ The allegory of the mad scientist Is the AICA model manifested as a person
 As ideas become more familiar to people they don't have direct allegorical embodiments. They can exist as an abstract while new concepts get those embodiments instead
 
 Seafaring technology, cartography
+
+“The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.”
+
+― George Bernard Shaw, Man and Superman
