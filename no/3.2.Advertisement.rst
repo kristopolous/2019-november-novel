@@ -7,12 +7,12 @@
 
 What is termed "Digital Out of Home (DOOH)" programmatic, essentially electronic billboards, is often called an emerging field. As of the writing of this, here's how it works:
 
-- SSP - Supply side platforms are the people who own the screens and built, or at least controls the technology that runs on them
-- Ad Network - A supply of SSP "real-estate" for sale usually from multiple SSPs. The number, location, and description of the platforms is part of this. SSPs can be on multiple Ad networks. 
-- Ad Exchange - A broker managing a consolidation of different ad networks to help maximize the reach
+- SSP - Supply side platforms are the people who own the screens and build or control the technology that runs on them
+- Ad Network - A supply of SSP "real-estate" for sale usually from multiple SSPs. The number, location, and description of the platforms is part of this. SSPs can be on multiple Ad Networks. 
+- Ad Exchange - A broker managing a consolidation of different Ad Networks to help maximize the reach
 - CPM - The impression unit, essentially the thing being bought and sold, the eyeballs.
-- RTB - A real-time bidding marketplace run by an ad exchange
-- DSP - A demand side platform for managing assets on Ad exchanges and facilitating in RTB on behalf of brands and agencies.
+- RTB - A real-time bidding marketplace run by an ad exchange.
+- DSP - A demand side platform for managing assets on Ad Exchanges and facilitating in RTB on behalf of brands and agencies.
 
 Essentially someone has clients with ads. They find places to put the ads within their budget and a bunch of middlemen act as layers between the physical device and the customer.
 
