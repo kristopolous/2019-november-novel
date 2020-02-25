@@ -2,7 +2,8 @@
 -----------------------------
 
   "The future is already here – it's just not evenly distributed."
-  *William Gibson, The Economist, 2003.*
+
+  William Gibson, The Economist, 2003.
 
 What is termed "Digital Out of Home (DOOH)" programmatic, essentially electronic billboards, is often called an emerging field. As of the writing of this, here's how it works:
 
@@ -34,7 +35,7 @@ This sounds like a classic test case in any book where they talk about the small
 There's 2 dimensions to advertising:
 
 ============= =============================================== =========================================================================
-              Captive                                         Non-captive
+.             Captive                                         Non-captive
 ============= =============================================== =========================================================================
 Single User   Back of a taxi cab, before a youtube video      Television, Cell phone 
 Multi-User    An elevator, before a movie                     Billboard, DOOH 
