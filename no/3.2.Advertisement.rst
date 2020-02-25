@@ -1,9 +1,8 @@
 3.2 What is an advertisement?
 -----------------------------
 
- Universal Access is the Accelerant
-> The future is already here – it's just not evenly distributed.  
-*William Gibson, The Economist, 2003.*
+  "The future is already here – it's just not evenly distributed."
+  *William Gibson, The Economist, 2003.*
 
 What is termed "Digital Out of Home (DOOH)" programmatic, essentially electronic billboards, is often called an emerging field. As of the writing of this, here's how it works:
 
@@ -30,14 +29,16 @@ This system works for say billboards, where they sometimes cost $50,000/month, e
 
 But if you are in that class why would you bother with screens on top of cars? It could be part of a large strategy, maybe ... if you can get established players comfortable with new technology, but the sales there are hard. 
 
-This sounds like a classic test case in any book where they talk about the small scrappy firm that played by different rules and changed the game. We could choose to be another SSP, go on an ad network, get content from the exchanges, collect our checks and go home.  There's a number of firms that tried this and they are all in tough times. Most of them are out of business. 
+This sounds like a classic test case in any book where they talk about the small scrappy firm that played by different rules and changed the game. We could choose to be another SSP, go on an ad network, get content from the exchanges, collect our checks and go home.  There's a number of firms that tried this and they are all in tough times. Most of them are out of business.  Universal Access is the Accelerant.
 
-That's because there's 2 dimensions to advertising:
+There's 2 dimensions to advertising:
 
-| . | Captive | Non-captive |
-| --- | --- | --- |
-| Single User | Back of a taxi cab, before a youtube video | Television, Cell phone |
-| Multi-User | An elevator, before a movie | Billboard, DOOH |
+============= =============================================== =========================================================================
+              Captive                                         Non-captive
+============= =============================================== =========================================================================
+Single User   Back of a taxi cab, before a youtube video      Television, Cell phone 
+Multi-User    An elevator, before a movie                     Billboard, DOOH 
+============= =============================================== =========================================================================
 
 Each one is fundamentally different in how things are sold and who you are selling to. The system above is for single-user non-captive, this is multi-user non-captive, which means retargeting works differently, segmentation works differently, it's a different beast.  There's a different value system and thus, likely a different market.
 
@@ -79,7 +80,7 @@ We lost something which hasn't been recaptured by the public. Every attempt, suc
 
 That communal experience among strangers which is the twine that binds them as a community has loosened and frayed.  Screens on top of cars may not, in fact, probably won't, amend this. But that's not goal, it's a proposal for the future, as the classic X-Minus 1 radio show put it:
 
-> These are stories of the future; adventures in which you'll live in a million could-be years on a thousand may-be worlds.
+  "These are stories of the future; adventures in which you'll live in a million could-be years on a thousand may-be worlds."
 
 Visionaries come from everywhere, visions can be anything. When created with the right value of being, experiences are fundamentally transformative and magic happens.
 
