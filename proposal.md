@@ -13,8 +13,6 @@ That uniquely positions this work as a an interweaving of political economy and 
  Our time can be described as a People 
 
 
-> A list of contents, with a short paragraph on each chapter. 
-
 I've divided the work into three sections:
 
 Part I **The Anatomy of a Future**. Part 1 Defines the terms and bootstraps the theories. We go over visions, goals, dreams, futures, hopes, execution, failure, and directions.  A number of helpful rules are established along with how to identify them, think about them, and execute them.
@@ -47,8 +45,6 @@ Part 3 **Constructing Tomorrow**. Part 3 presents how these methods and perspect
 
 3.1 **Calibrating a vision** this is about how to identify visions with decreasing reach distances as contexts shift more favorable towards them.
 
-3.2 **What is an advertisement?**
-3.3 **What is a game?**
 3.4 **Of risk and revolution.**
 3.5 **The many worlds of tomorrow**
 
